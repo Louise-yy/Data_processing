@@ -1,0 +1,91 @@
+narration_id,stop_frame,narration,all_nouns,all_noun_classes
+P02_109_0,190,pick up chopping board and knife,knife,4
+P02_109_1,316,put down knife,knife,4
+P02_109_10,1636,pick up onion,onion,16
+P02_109_100,24972,put down knife,knife,4
+P02_109_101,25050,hold pan,pan,5
+P02_109_102,25577,stir onion in pan using wooden spoon,onion,16
+P02_109_102,25577,stir onion in pan using wooden spoon,pan,5
+P02_109_103,26088,leave wooden spoon in pan,pan,5
+P02_109_104,26126,pick up knife,knife,4
+P02_109_105,26667,slice through meat,meat,28
+P02_109_106,27161,put down knife,knife,4
+P02_109_107,27906,stir onion in pan using wooden spoon,onion,16
+P02_109_107,27906,stir onion in pan using wooden spoon,pan,5
+P02_109_109,29426,hold pan,pan,5
+P02_109_110,29717,stir onions using wooden spoon,onion,16
+P02_109_12,2546,pick up onion,onion,16
+P02_109_13,2746,put down onions,onion,16
+P02_109_133,31545,hold pan,pan,5
+P02_109_134,31674,stir onion and garlic in pan using wooden spoon,onion,16
+P02_109_134,31674,stir onion and garlic in pan using wooden spoon,pan,5
+P02_109_135,31875,take meat from packaging,meat,28
+P02_109_136,32012,distribute meat in pan,meat,28
+P02_109_136,32012,distribute meat in pan,pan,5
+P02_109_137,32128,take meat from packaging,meat,28
+P02_109_138,32240,distribute meat in pan,meat,28
+P02_109_138,32240,distribute meat in pan,pan,5
+P02_109_139,32383,take meat,meat,28
+P02_109_14,2951,get knife from stand,knife,4
+P02_109_140,32504,distribute meat,meat,28
+P02_109_141,32633,take meat,meat,28
+P02_109_142,32791,distribute meat,meat,28
+P02_109_143,32938,take meat,meat,28
+P02_109_144,33001,distribute meat,meat,28
+P02_109_145,33089,take meat,meat,28
+P02_109_146,33184,distribute meat,meat,28
+P02_109_148,33350,hold pan,pan,5
+P02_109_149,33575,break meat using wooden spoon in pan,meat,28
+P02_109_149,33575,break meat using wooden spoon in pan,pan,5
+P02_109_15,3246,cut onion,onion,16
+P02_109_151,33893,break meat using wooden spoon in pan,meat,28
+P02_109_151,33893,break meat using wooden spoon in pan,pan,5
+P02_109_152,36252,turn meat in pan,meat,28
+P02_109_152,36252,turn meat in pan,pan,5
+P02_109_154,39858,turn meat in pan,meat,28
+P02_109_154,39858,turn meat in pan,pan,5
+P02_109_155,41870,pick up lid,lid,6
+P02_109_156,41949,cover pan with lid,pan,5
+P02_109_156,41949,cover pan with lid,lid,6
+P02_109_16,3343,cut onion,onion,16
+P02_109_166,43018,open tap,tap,0
+P02_109_17,3484,cut onion,onion,16
+P02_109_176,44037,close tap,tap,0
+P02_109_18,3759,cut onion,onion,16
+P02_109_181,44839,open tap,tap,0
+P02_109_183,44944,close tap,tap,0
+P02_109_184,45071,dry hands using towel,hand,11
+P02_109_19,4029,cut onion,onion,16
+P02_109_2,391,open tap,tap,0
+P02_109_20,4240,peel onion,onion,16
+P02_109_26,4987,peel onion,onion,16
+P02_109_28,5237,peel onion,onion,16
+P02_109_32,5815,peel onion,onion,16
+P02_109_34,6457,peel onion,onion,16
+P02_109_36,6978,peel onion,onion,16
+P02_109_37,7239,peel onion,onion,16
+P02_109_39,7695,peel onion,onion,16
+P02_109_45,12582,chop onion,onion,16
+P02_109_46,16088,put down knife,knife,4
+P02_109_47,16291,open cupboard,cupboard,3
+P02_109_48,16586,pick up pan,pan,5
+P02_109_49,16691,put pan on stove,pan,5
+P02_109_50,16787,close cupboards,cupboard,3
+P02_109_53,16995,open cupboard,cupboard,3
+P02_109_55,17108,close cupboard,cupboard,3
+P02_109_59,17362,pour oil from bottle onto pan,pan,5
+P02_109_6,881,close tap,tap,0
+P02_109_63,17921,open fridge,fridge,12
+P02_109_64,17999,pick up meat,meat,28
+P02_109_66,18588,put down meat,meat,28
+P02_109_7,1051,dry hands with towel,hand,11
+P02_109_70,19135,pick up chopping board and knife,knife,4
+P02_109_74,19671,slide onion from chopping board onto pan,onion,16
+P02_109_74,19671,slide onion from chopping board onto pan,pan,5
+P02_109_78,20234,open drawer,drawer,8
+P02_109_81,20521,close drawer,drawer,8
+P02_109_83,20652,hold pan,pan,5
+P02_109_84,21617,stir onion in pan using wooden spoon,onion,16
+P02_109_84,21617,stir onion in pan using wooden spoon,pan,5
+P02_109_90,23052,pick up knife,knife,4
+P02_109_95,23656,pick up knife,knife,4

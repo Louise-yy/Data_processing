@@ -1,0 +1,280 @@
+narration_id,stop_frame,narration,all_nouns,all_noun_classes
+P22_117_0,P22_117_119.jpg,open drawer,drawer,8
+P22_117_1,P22_117_196.jpg,pick up pan,pan,5
+P22_117_100,P22_117_10904.jpg,rinse container,container,21
+P22_117_101,P22_117_10965.jpg,put down container,container,21
+P22_117_102,P22_117_11339.jpg,pick up lid,lid,6
+P22_117_103,P22_117_11470.jpg,rinse lid,lid,6
+P22_117_104,P22_117_11643.jpg,put down lid,lid,6
+P22_117_105,P22_117_11723.jpg,pick up lid,lid,6
+P22_117_106,P22_117_11847.jpg,rinse lid,lid,6
+P22_117_107,P22_117_11897.jpg,move container,container,21
+P22_117_108,P22_117_12017.jpg,put down lid,lid,6
+P22_117_109,P22_117_11955.jpg,pick up container,container,21
+P22_117_110,P22_117_12089.jpg,rinse container,container,21
+P22_117_111,P22_117_12237.jpg,put down container,container,21
+P22_117_115,P22_117_12596.jpg,turn off tap,tap,0
+P22_117_116,P22_117_12670.jpg,pick up cloth,cloth,17
+P22_117_117,P22_117_12762.jpg,dry hands,hand,11
+P22_117_118,P22_117_12867.jpg,put down cloth,cloth,17
+P22_117_119,P22_117_12928.jpg,open drawer,drawer,8
+P22_117_122,P22_117_13233.jpg,open cupboard,cupboard,3
+P22_117_123,P22_117_13292.jpg,open fridge,fridge,12
+P22_117_124,P22_117_13367.jpg,open drawer,drawer,8
+P22_117_126,P22_117_13565.jpg,close drawer,drawer,8
+P22_117_127,P22_117_13675.jpg,close fridge,fridge,12
+P22_117_128,P22_117_13724.jpg,close cupboard,cupboard,3
+P22_117_129,P22_117_13889.jpg,turn on tap,tap,0
+P22_117_131,P22_117_14118.jpg,turn off tap,tap,0
+P22_117_133,P22_117_14273.jpg,pick up knife,knife,4
+P22_117_135,P22_117_14564.jpg,put down knife,knife,4
+P22_117_136,P22_117_14615.jpg,open drawer,drawer,8
+P22_117_139,P22_117_15203.jpg,close drawer,drawer,8
+P22_117_14,P22_117_1181.jpg,pick up bowl,bowl,7
+P22_117_142,P22_117_17503.jpg,turn on tap,tap,0
+P22_117_144,P22_117_17700.jpg,turn off tap,tap,0
+P22_117_15,P22_117_1247.jpg,put down bowl,bowl,7
+P22_117_155,P22_117_18863.jpg,turn on tap,tap,0
+P22_117_156,P22_117_18916.jpg,rinse hands,hand,11
+P22_117_157,P22_117_18967.jpg,turn off tap,tap,0
+P22_117_158,P22_117_18990.jpg,shake hands,hand,11
+P22_117_159,P22_117_19022.jpg,pick up cloth,cloth,17
+P22_117_16,P22_117_1324.jpg,pick up spatula,spatula,20
+P22_117_160,P22_117_19088.jpg,dry hands,hand,11
+P22_117_161,P22_117_19157.jpg,put down cloth,cloth,17
+P22_117_164,P22_117_19262.jpg,pick up knife,knife,4
+P22_117_166,P22_117_21148.jpg,put down knife,knife,4
+P22_117_168,P22_117_21329.jpg,turn on tap,tap,0
+P22_117_17,P22_117_1371.jpg,open drawer,drawer,8
+P22_117_170,P22_117_21407.jpg,turn off tap,tap,0
+P22_117_175,P22_117_21684.jpg,pick up knife,knife,4
+P22_117_18,P22_117_1404.jpg,put down spatula,spatula,20
+P22_117_189,P22_117_23650.jpg,put down knife,knife,4
+P22_117_190,P22_117_23690.jpg,turn on tap,tap,0
+P22_117_191,P22_117_23720.jpg,rinse hands,hand,11
+P22_117_192,P22_117_23752.jpg,turn off tap,tap,0
+P22_117_193,P22_117_23777.jpg,shake hands,hand,11
+P22_117_194,P22_117_23826.jpg,pick up cloth,cloth,17
+P22_117_195,P22_117_23856.jpg,dry hands,hand,11
+P22_117_196,P22_117_23927.jpg,put down cloth,cloth,17
+P22_117_197,P22_117_24007.jpg,open drawer,drawer,8
+P22_117_198,P22_117_24099.jpg,move pans,pan,5
+P22_117_199,P22_117_24565.jpg,pick up pan,pan,5
+P22_117_2,P22_117_269.jpg,put down pan,pan,5
+P22_117_200,P22_117_24659.jpg,close drawer,drawer,8
+P22_117_202,P22_117_24857.jpg,put down pan,pan,5
+P22_117_213,P22_117_26565.jpg,put down knife,knife,4
+P22_117_217,P22_117_26837.jpg,pick up onion,onion,16
+P22_117_218,P22_117_27136.jpg,unwrap onion,onion,16
+P22_117_219,P22_117_27103.jpg,put down onion,onion,16
+P22_117_220,P22_117_27268.jpg,cut onion,onion,16
+P22_117_221,P22_117_27409.jpg,put down knife,knife,4
+P22_117_222,P22_117_27550.jpg,pick up knife,knife,4
+P22_117_223,P22_117_27813.jpg,cut onion,onion,16
+P22_117_224,P22_117_28066.jpg,put down knife,knife,4
+P22_117_225,P22_117_28175.jpg,pick up onion,onion,16
+P22_117_226,P22_117_28319.jpg,put down onion,onion,16
+P22_117_227,P22_117_28404.jpg,pick up knife,knife,4
+P22_117_228,P22_117_28430.jpg,pick up onion,onion,16
+P22_117_229,P22_117_28707.jpg,cut onion,onion,16
+P22_117_230,P22_117_29014.jpg,put down knife,knife,4
+P22_117_231,P22_117_29045.jpg,pick up onion,onion,16
+P22_117_232,P22_117_29121.jpg,put down onion,onion,16
+P22_117_233,P22_117_29227.jpg,pick up onion,onion,16
+P22_117_235,P22_117_29396.jpg,throw onion,onion,16
+P22_117_237,P22_117_29468.jpg,turn on tap,tap,0
+P22_117_238,P22_117_29516.jpg,rinse hands,hand,11
+P22_117_239,P22_117_29541.jpg,turn off tap,tap,0
+P22_117_240,P22_117_29563.jpg,shake hands,hand,11
+P22_117_241,P22_117_29593.jpg,pick up cloth,cloth,17
+P22_117_242,P22_117_29654.jpg,dry hands,hand,11
+P22_117_243,P22_117_29726.jpg,put down cloth,cloth,17
+P22_117_244,P22_117_29779.jpg,open cupboard,cupboard,3
+P22_117_245,P22_117_29820.jpg,pick up glass,glass,10
+P22_117_246,P22_117_29889.jpg,turn on tap,tap,0
+P22_117_247,P22_117_29920.jpg,fill glass,glass,10
+P22_117_248,P22_117_29996.jpg,turn off tap,tap,0
+P22_117_249,P22_117_30079.jpg,put down glass,glass,10
+P22_117_25,P22_117_2016.jpg,open cupboard,cupboard,3
+P22_117_250,P22_117_30142.jpg,open drawer,drawer,8
+P22_117_251,P22_117_30339.jpg,pick up spatula,spatula,20
+P22_117_252,P22_117_30381.jpg,close drawer,drawer,8
+P22_117_255,P22_117_31045.jpg,put down spatula,spatula,20
+P22_117_256,P22_117_31086.jpg,pick up glass,glass,10
+P22_117_258,P22_117_31233.jpg,put down glass,glass,10
+P22_117_259,P22_117_31277.jpg,pick up spatula,spatula,20
+P22_117_261,P22_117_31561.jpg,put down spatula,spatula,20
+P22_117_266,P22_117_32113.jpg,pick up lid,lid,6
+P22_117_268,P22_117_32171.jpg,close lid,lid,6
+P22_117_27,P22_117_2163.jpg,close cupboard,cupboard,3
+P22_117_270,P22_117_32317.jpg,turn on tap,tap,0
+P22_117_271,P22_117_32358.jpg,rinse hands,hand,11
+P22_117_272,P22_117_32394.jpg,turn off tap,tap,0
+P22_117_273,P22_117_32412.jpg,shake hands,hand,11
+P22_117_274,P22_117_32440.jpg,pick up cloth,cloth,17
+P22_117_275,P22_117_32506.jpg,dry hands,hand,11
+P22_117_276,P22_117_32603.jpg,put down cloth,cloth,17
+P22_117_28,P22_117_2198.jpg,turn on tap,tap,0
+P22_117_280,P22_117_32814.jpg,open cupboard,cupboard,3
+P22_117_282,P22_117_32891.jpg,close cupboard,cupboard,3
+P22_117_285,P22_117_33360.jpg,open cupboard,cupboard,3
+P22_117_287,P22_117_33481.jpg,close cupboard,cupboard,3
+P22_117_289,P22_117_33537.jpg,pick up bowl,bowl,7
+P22_117_29,P22_117_2225.jpg,rinse hand,hand,11
+P22_117_290,P22_117_33579.jpg,put down bowl,bowl,7
+P22_117_294,P22_117_33692.jpg,move bowl,bowl,7
+P22_117_295,P22_117_33807.jpg,move bowl,bowl,7
+P22_117_3,P22_117_337.jpg,pick up lid,lid,6
+P22_117_30,P22_117_2280.jpg,turn off tap,tap,0
+P22_117_304,P22_117_35287.jpg,open cupboard,cupboard,3
+P22_117_306,P22_117_35381.jpg,close cupboard,cupboard,3
+P22_117_307,P22_117_35471.jpg,move bowl,bowl,7
+P22_117_31,P22_117_2315.jpg,shake hands,hand,11
+P22_117_310,P22_117_35673.jpg,pick up spatula,spatula,20
+P22_117_314,P22_117_36636.jpg,put down spatula,spatula,20
+P22_117_315,P22_117_36749.jpg,turn on tap,tap,0
+P22_117_316,P22_117_36798.jpg,pick up sponge,sponge,9
+P22_117_318,P22_117_36871.jpg,rinse sponge,sponge,9
+P22_117_319,P22_117_36923.jpg,lather sponge,sponge,9
+P22_117_32,P22_117_2353.jpg,pick up cloth,cloth,17
+P22_117_320,P22_117_36989.jpg,rinse sponge,sponge,9
+P22_117_322,P22_117_37012.jpg,turn off tap,tap,0
+P22_117_324,P22_117_37401.jpg,turn on tap,tap,0
+P22_117_325,P22_117_37453.jpg,turn off tap,tap,0
+P22_117_327,P22_117_37745.jpg,put down sponge,sponge,9
+P22_117_328,P22_117_37770.jpg,turn on tap,tap,0
+P22_117_33,P22_117_2436.jpg,dry hands,hand,11
+P22_117_331,P22_117_38399.jpg,turn off tap,tap,0
+P22_117_332,P22_117_38418.jpg,pick up sponge and peeler,sponge,9
+P22_117_335,P22_117_38594.jpg,pick up knife,knife,4
+P22_117_336,P22_117_38660.jpg,lather knife,knife,4
+P22_117_337,P22_117_38704.jpg,put down sponge,sponge,9
+P22_117_338,P22_117_38715.jpg,turn on tap,tap,0
+P22_117_339,P22_117_38776.jpg,rinse knife,knife,4
+P22_117_34,P22_117_2557.jpg,put down cloth,cloth,17
+P22_117_340,P22_117_38865.jpg,put down knife,knife,4
+P22_117_344,P22_117_39106.jpg,rinse hands,hand,11
+P22_117_345,P22_117_39120.jpg,turn off tap,tap,0
+P22_117_346,P22_117_39144.jpg,shake hands,hand,11
+P22_117_347,P22_117_39177.jpg,pick up cloth,cloth,17
+P22_117_348,P22_117_39242.jpg,dry hands,hand,11
+P22_117_349,P22_117_39418.jpg,put down cloth,cloth,17
+P22_117_35,P22_117_2630.jpg,open drawer,drawer,8
+P22_117_350,P22_117_39491.jpg,pick up cloth,cloth,17
+P22_117_351,P22_117_39516.jpg,turn on tap,tap,0
+P22_117_352,P22_117_39558.jpg,rinse cloth,cloth,17
+P22_117_353,P22_117_39593.jpg,turn off tap,tap,0
+P22_117_354,P22_117_39645.jpg,wring cloth,cloth,17
+P22_117_357,P22_117_40249.jpg,pick up glass,glass,10
+P22_117_358,P22_117_40307.jpg,turn on tap,tap,0
+P22_117_359,P22_117_40338.jpg,fill glass,glass,10
+P22_117_360,P22_117_40432.jpg,turn off tap,tap,0
+P22_117_362,P22_117_40616.jpg,put down glass,glass,10
+P22_117_363,P22_117_40676.jpg,pick up spatula,spatula,20
+P22_117_365,P22_117_41072.jpg,put down spatula,spatula,20
+P22_117_37,P22_117_3099.jpg,close drawer,drawer,8
+P22_117_371,P22_117_41497.jpg,pick up spatula,spatula,20
+P22_117_374,P22_117_41906.jpg,open drawer,drawer,8
+P22_117_376,P22_117_42035.jpg,close drawer,drawer,8
+P22_117_378,P22_117_42278.jpg,pick up cloth,cloth,17
+P22_117_380,P22_117_42711.jpg,turn on tap,tap,0
+P22_117_381,P22_117_42800.jpg,rinse cloth,cloth,17
+P22_117_382,P22_117_42890.jpg,turn off tap,tap,0
+P22_117_383,P22_117_42932.jpg,unfold cloth,cloth,17
+P22_117_384,P22_117_43025.jpg,put down cloth,cloth,17
+P22_117_385,P22_117_43069.jpg,turn on tap,tap,0
+P22_117_386,P22_117_43117.jpg,rinse hands,hand,11
+P22_117_387,P22_117_43144.jpg,turn off tap,tap,0
+P22_117_388,P22_117_43176.jpg,shake hands,hand,11
+P22_117_389,P22_117_43211.jpg,pick up cloth,cloth,17
+P22_117_39,P22_117_3342.jpg,open cupboard,cupboard,3
+P22_117_390,P22_117_43339.jpg,dry hands,hand,11
+P22_117_391,P22_117_43474.jpg,put down cloth,cloth,17
+P22_117_394,P22_117_43800.jpg,open drawer,drawer,8
+P22_117_395,P22_117_43858.jpg,take fork,fork,14
+P22_117_396,P22_117_43939.jpg,pick up spoon,spoon,1
+P22_117_397,P22_117_44001.jpg,put down fork,fork,14
+P22_117_398,P22_117_44048.jpg,close drawer,drawer,8
+P22_117_399,P22_117_44147.jpg,put down spoon,spoon,1
+P22_117_4,P22_117_392.jpg,put down lid,lid,6
+P22_117_40,P22_117_3397.jpg,open fridge,fridge,12
+P22_117_400,P22_117_44232.jpg,open cupboard,cupboard,3
+P22_117_401,P22_117_44469.jpg,pick up plate,plate,2
+P22_117_402,P22_117_44593.jpg,close cupboard,cupboard,3
+P22_117_403,P22_117_44678.jpg,put down plate,plate,2
+P22_117_405,P22_117_44789.jpg,remove lid,lid,6
+P22_117_406,P22_117_44914.jpg,put down lid,lid,6
+P22_117_41,P22_117_3460.jpg,pick up container,container,21
+P22_117_412,P22_117_45979.jpg,pick up plate,plate,2
+P22_117_413,P22_117_46092.jpg,put down plate,plate,2
+P22_117_415,P22_117_46329.jpg,turn on tap,tap,0
+P22_117_416,P22_117_46422.jpg,move tap,tap,0
+P22_117_418,P22_117_46531.jpg,adjust tap,tap,0
+P22_117_42,P22_117_3525.jpg,close fridge,fridge,12
+P22_117_421,P22_117_47086.jpg,turn off tap,tap,0
+P22_117_422,P22_117_47127.jpg,open cupboard,cupboard,3
+P22_117_423,P22_117_47169.jpg,pick up glass,glass,10
+P22_117_424,P22_117_47321.jpg,put down glass,glass,10
+P22_117_425,P22_117_47367.jpg,open cupboard,cupboard,3
+P22_117_426,P22_117_47422.jpg,open fridge,fridge,12
+P22_117_428,P22_117_47552.jpg,close fridge,fridge,12
+P22_117_429,P22_117_47615.jpg,close cupboard,cupboard,3
+P22_117_43,P22_117_3639.jpg,open container,container,21
+P22_117_431,P22_117_47859.jpg,pick up spatula,spatula,20
+P22_117_433,P22_117_48113.jpg,put down spatula,spatula,20
+P22_117_434,P22_117_48162.jpg,pick up glass,glass,10
+P22_117_435,P22_117_48240.jpg,turn on tap,tap,0
+P22_117_436,P22_117_48298.jpg,fill glass,glass,10
+P22_117_437,P22_117_48351.jpg,turn off tap,tap,0
+P22_117_438,P22_117_48437.jpg,put down glass,glass,10
+P22_117_44,P22_117_3748.jpg,put down lid,lid,6
+P22_117_45,P22_117_3831.jpg,open drawer,drawer,8
+P22_117_47,P22_117_3925.jpg,close drawer,drawer,8
+P22_117_48,P22_117_3997.jpg,pick up container,container,21
+P22_117_5,P22_117_468.jpg,close drawer,drawer,8
+P22_117_51,P22_117_4853.jpg,put down lid,lid,6
+P22_117_53,P22_117_5437.jpg,open drawer,drawer,8
+P22_117_54,P22_117_5501.jpg,pick up lid,lid,6
+P22_117_55,P22_117_5560.jpg,close drawer,drawer,8
+P22_117_56,P22_117_5678.jpg,put down lid,lid,6
+P22_117_57,P22_117_5748.jpg,pick up lid and container,lid,6
+P22_117_57,P22_117_5748.jpg,pick up lid and container,container,21
+P22_117_58,P22_117_5911.jpg,put down lid and container,lid,6
+P22_117_58,P22_117_5911.jpg,put down lid and container,container,21
+P22_117_6,P22_117_529.jpg,pick up plate,plate,2
+P22_117_60,P22_117_6219.jpg,pick up container,container,21
+P22_117_61,P22_117_6299.jpg,put down container,container,21
+P22_117_62,P22_117_6428.jpg,put down spoon,spoon,1
+P22_117_63,P22_117_6512.jpg,open cupboard,cupboard,3
+P22_117_65,P22_117_6613.jpg,close cupboard,cupboard,3
+P22_117_69,P22_117_7293.jpg,turn on tap,tap,0
+P22_117_7,P22_117_571.jpg,open cupboard,cupboard,3
+P22_117_70,P22_117_7392.jpg,pick up sponge,sponge,9
+P22_117_71,P22_117_7422.jpg,rinse sponge,sponge,9
+P22_117_72,P22_117_7524.jpg,lather sponge,sponge,9
+P22_117_73,P22_117_7595.jpg,rinse sponge,sponge,9
+P22_117_74,P22_117_7616.jpg,adjust tap,tap,0
+P22_117_75,P22_117_7723.jpg,pick up spoon,spoon,1
+P22_117_76,P22_117_7811.jpg,lather spoon,spoon,1
+P22_117_77,P22_117_7899.jpg,put down spoon,spoon,1
+P22_117_8,P22_117_664.jpg,put down plate,plate,2
+P22_117_81,P22_117_8307.jpg,pick up container,container,21
+P22_117_82,P22_117_8337.jpg,turn off tap,tap,0
+P22_117_83,P22_117_8497.jpg,lather container,container,21
+P22_117_84,P22_117_8646.jpg,put down container,container,21
+P22_117_85,P22_117_8690.jpg,move container,container,21
+P22_117_86,P22_117_8750.jpg,pick up lid,lid,6
+P22_117_87,P22_117_8839.jpg,lather lid,lid,6
+P22_117_88,P22_117_8936.jpg,put down lid,lid,6
+P22_117_89,P22_117_9063.jpg,open container,container,21
+P22_117_9,P22_117_746.jpg,close cupboard,cupboard,3
+P22_117_90,P22_117_9204.jpg,turn on tap,tap,0
+P22_117_91,P22_117_9272.jpg,rinse lid,lid,6
+P22_117_92,P22_117_9355.jpg,lather lid,lid,6
+P22_117_93,P22_117_9696.jpg,put down lid,lid,6
+P22_117_94,P22_117_9739.jpg,turn off tap,tap,0
+P22_117_95,P22_117_9754.jpg,pick up container,container,21
+P22_117_96,P22_117_9881.jpg,lather container,container,21
+P22_117_97,P22_117_10464.jpg,put down sponge,sponge,9
+P22_117_98,P22_117_10518.jpg,turn on tap,tap,0
+P22_117_99,P22_117_10510.jpg,move tap,tap,0

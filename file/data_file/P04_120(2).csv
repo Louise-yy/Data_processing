@@ -1,0 +1,204 @@
+narration_id,stop_frame,narration,all_nouns,all_noun_classes
+P04_120_0,P04_120_37.jpg,pick up spatula,spatula,20
+P04_120_1,P04_120_194.jpg,pull spatula through milk,spatula,20
+P04_120_102,P04_120_16675.jpg,turn on tap,tap,0
+P04_120_103,P04_120_16750.jpg,rinse hands,hand,11
+P04_120_104,P04_120_16785.jpg,turn off tap,tap,0
+P04_120_106,P04_120_16920.jpg,dry hands on tea towel,hand,11
+P04_120_108,P04_120_17058.jpg,pick up spatula,spatula,20
+P04_120_110,P04_120_17272.jpg,drag spatula through milk in pan,spatula,20
+P04_120_110,P04_120_17272.jpg,drag spatula through milk in pan,pan,5
+P04_120_111,P04_120_17384.jpg,put down spatula,spatula,20
+P04_120_116,P04_120_18137.jpg,pick up spatula,spatula,20
+P04_120_117,P04_120_18287.jpg,drag spatula through milk in pan,spatula,20
+P04_120_117,P04_120_18287.jpg,drag spatula through milk in pan,pan,5
+P04_120_118,P04_120_18430.jpg,put down spatula,spatula,20
+P04_120_124,P04_120_19456.jpg,pick up spatula,spatula,20
+P04_120_125,P04_120_19537.jpg,pick up knife,knife,4
+P04_120_127,P04_120_19757.jpg,open drawer,drawer,8
+P04_120_128,P04_120_19813.jpg,put spatula in drawer,spatula,20
+P04_120_128,P04_120_19813.jpg,put spatula in drawer,drawer,8
+P04_120_13,P04_120_2291.jpg,pick up spatula,spatula,20
+P04_120_130,P04_120_19964.jpg,wipe plate bowl with hand,hand,11
+P04_120_131,P04_120_20074.jpg,open cupboard,cupboard,3
+P04_120_132,P04_120_20126.jpg,put plate bowl in cupboard,cupboard,3
+P04_120_134,P04_120_20472.jpg,turn on tap,tap,0
+P04_120_137,P04_120_20565.jpg,pick up sponge,sponge,9
+P04_120_138,P04_120_20653.jpg,wipe ramekin with sponge,sponge,9
+P04_120_14,P04_120_2528.jpg,drag spatula through milk,spatula,20
+P04_120_140,P04_120_20790.jpg,wipe ramekin with sponge,sponge,9
+P04_120_143,P04_120_20872.jpg,turn off tap,tap,0
+P04_120_147,P04_120_21429.jpg,put ramekin in cupboard,cupboard,3
+P04_120_149,P04_120_21597.jpg,turn on tap,tap,0
+P04_120_153,P04_120_21717.jpg,turn off tap,tap,0
+P04_120_158,P04_120_22296.jpg,open cupboard,cupboard,3
+P04_120_159,P04_120_22361.jpg,put saucepan in cupboard,cupboard,3
+P04_120_16,P04_120_2767.jpg,put down spatula,spatula,20
+P04_120_160,P04_120_22428.jpg,close cupboard,cupboard,3
+P04_120_162,P04_120_22520.jpg,open cupboard,cupboard,3
+P04_120_163,P04_120_22599.jpg,put saucepan lid in cupboard,cupboard,3
+P04_120_171,P04_120_23282.jpg,put saucepan in cupboard,cupboard,3
+P04_120_172,P04_120_23398.jpg,pick up bowl,bowl,7
+P04_120_173,P04_120_23461.jpg,put bowl on stack of bowls in cupboard,bowl,7
+P04_120_173,P04_120_23461.jpg,put bowl on stack of bowls in cupboard,cupboard,3
+P04_120_176,P04_120_23703.jpg,close drawer,drawer,8
+P04_120_177,P04_120_23759.jpg,open drawer,drawer,8
+P04_120_178,P04_120_23793.jpg,put rolling pin in drawer,drawer,8
+P04_120_179,P04_120_23829.jpg,close drawer,drawer,8
+P04_120_181,P04_120_23933.jpg,pick up plate,plate,2
+P04_120_183,P04_120_24157.jpg,dry plates with tea towel,plate,2
+P04_120_186,P04_120_24338.jpg,put plate in cupboard,plate,2
+P04_120_186,P04_120_24338.jpg,put plate in cupboard,cupboard,3
+P04_120_188,P04_120_24451.jpg,pick up spatula,spatula,20
+P04_120_189,P04_120_24586.jpg,drag spatula through milk in pan,spatula,20
+P04_120_189,P04_120_24586.jpg,drag spatula through milk in pan,pan,5
+P04_120_190,P04_120_24734.jpg,put down spatula,spatula,20
+P04_120_192,P04_120_24895.jpg,pick up plates,plate,2
+P04_120_193,P04_120_24952.jpg,pick up plate,plate,2
+P04_120_194,P04_120_25038.jpg,stack plates,plate,2
+P04_120_196,P04_120_25181.jpg,put plates on stack of plates,plate,2
+P04_120_199,P04_120_25492.jpg,stack plate bowl in cupboard,cupboard,3
+P04_120_2,P04_120_363.jpg,put down spatula,spatula,20
+P04_120_200,P04_120_25589.jpg,pick up plates,plate,2
+P04_120_201,P04_120_25742.jpg,lift plates,plate,2
+P04_120_202,P04_120_25824.jpg,slide plates under plates in cupboard,plate,2
+P04_120_202,P04_120_25824.jpg,slide plates under plates in cupboard,plate,2
+P04_120_202,P04_120_25824.jpg,slide plates under plates in cupboard,cupboard,3
+P04_120_203,P04_120_25908.jpg,put down plates,plate,2
+P04_120_204,P04_120_25991.jpg,pick up spatula,spatula,20
+P04_120_205,P04_120_26113.jpg,pull spatula through milk in pan,spatula,20
+P04_120_205,P04_120_26113.jpg,pull spatula through milk in pan,pan,5
+P04_120_206,P04_120_26215.jpg,put down spatula,spatula,20
+P04_120_21,P04_120_3603.jpg,pick up spatula,spatula,20
+P04_120_212,P04_120_26739.jpg,slide baking tray into cupboard,cupboard,3
+P04_120_22,P04_120_3763.jpg,drag spatula through milk,spatula,20
+P04_120_224,P04_120_27637.jpg,pick up sponge,sponge,9
+P04_120_226,P04_120_27746.jpg,wipe chopping board with sponge,sponge,9
+P04_120_227,P04_120_27866.jpg,put down sponge,sponge,9
+P04_120_23,P04_120_3866.jpg,put down spatula,spatula,20
+P04_120_233,P04_120_28414.jpg,pick up pan,pan,5
+P04_120_235,P04_120_28647.jpg,wipe pan with tea towel,pan,5
+P04_120_237,P04_120_28814.jpg,put pan in cupboard,pan,5
+P04_120_237,P04_120_28814.jpg,put pan in cupboard,cupboard,3
+P04_120_251,P04_120_29971.jpg,close cupboard,cupboard,3
+P04_120_252,P04_120_30005.jpg,pick up spatula,spatula,20
+P04_120_253,P04_120_30119.jpg,move spatula through milk in pan,spatula,20
+P04_120_253,P04_120_30119.jpg,move spatula through milk in pan,pan,5
+P04_120_254,P04_120_30220.jpg,put down spatula,spatula,20
+P04_120_258,P04_120_30727.jpg,pick up spatula,spatula,20
+P04_120_259,P04_120_30919.jpg,move spatula through milk in pan,spatula,20
+P04_120_259,P04_120_30919.jpg,move spatula through milk in pan,pan,5
+P04_120_261,P04_120_31145.jpg,put down spatula,spatula,20
+P04_120_263,P04_120_31396.jpg,open drawer,drawer,8
+P04_120_264,P04_120_31451.jpg,take forks,fork,14
+P04_120_265,P04_120_31497.jpg,put forks in drawer,fork,14
+P04_120_265,P04_120_31497.jpg,put forks in drawer,drawer,8
+P04_120_266,P04_120_31463.jpg,pick up fork,fork,14
+P04_120_267,P04_120_31500.jpg,put fork in drawer,fork,14
+P04_120_267,P04_120_31500.jpg,put fork in drawer,drawer,8
+P04_120_268,P04_120_31572.jpg,move spatula,spatula,20
+P04_120_269,P04_120_31647.jpg,pick up knife,knife,4
+P04_120_270,P04_120_31683.jpg,put knife in drawer,knife,4
+P04_120_270,P04_120_31683.jpg,put knife in drawer,drawer,8
+P04_120_272,P04_120_31797.jpg,put pastry brush in drawer,drawer,8
+P04_120_273,P04_120_31851.jpg,pick up fork,fork,14
+P04_120_274,P04_120_31895.jpg,put fork in drawer,fork,14
+P04_120_274,P04_120_31895.jpg,put fork in drawer,drawer,8
+P04_120_276,P04_120_31878.jpg,put tablespoon in drawer,drawer,8
+P04_120_277,P04_120_32038.jpg,pick up spoon,spoon,1
+P04_120_278,P04_120_32067.jpg,put spoon in drawer,spoon,1
+P04_120_278,P04_120_32067.jpg,put spoon in drawer,drawer,8
+P04_120_280,P04_120_32178.jpg,put teaspoon in drawer,drawer,8
+P04_120_282,P04_120_32236.jpg,put chopstick in drawer,drawer,8
+P04_120_284,P04_120_32364.jpg,put scissors in drawer,drawer,8
+P04_120_285,P04_120_32402.jpg,pick up fork,fork,14
+P04_120_286,P04_120_32420.jpg,put fork in drawer,fork,14
+P04_120_286,P04_120_32420.jpg,put fork in drawer,drawer,8
+P04_120_287,P04_120_32464.jpg,pick up spoon,spoon,1
+P04_120_288,P04_120_32506.jpg,put spoon in drawer,spoon,1
+P04_120_288,P04_120_32506.jpg,put spoon in drawer,drawer,8
+P04_120_290,P04_120_32569.jpg,put teaspoon in drawer,drawer,8
+P04_120_292,P04_120_32617.jpg,put teaspoon in drawer,drawer,8
+P04_120_296,P04_120_32714.jpg,pick up spoon,spoon,1
+P04_120_297,P04_120_32842.jpg,put spoon in drawer,spoon,1
+P04_120_297,P04_120_32842.jpg,put spoon in drawer,drawer,8
+P04_120_298,P04_120_32869.jpg,pick up knife,knife,4
+P04_120_299,P04_120_32921.jpg,put knife in knife holder,knife,4
+P04_120_3,P04_120_410.jpg,feel temperature of water in spoon,spoon,1
+P04_120_301,P04_120_33031.jpg,put scissors in drawer,drawer,8
+P04_120_303,P04_120_33198.jpg,put teaspoon in drawer,drawer,8
+P04_120_304,P04_120_33278.jpg,pick up knife,knife,4
+P04_120_305,P04_120_33343.jpg,put knife in knife holder,knife,4
+P04_120_306,P04_120_33398.jpg,pick up fork,fork,14
+P04_120_307,P04_120_33421.jpg,put fork in drawer,fork,14
+P04_120_307,P04_120_33421.jpg,put fork in drawer,drawer,8
+P04_120_309,P04_120_33486.jpg,put teaspoon in drawer,drawer,8
+P04_120_311,P04_120_33582.jpg,put measuring spoon in drawer,drawer,8
+P04_120_312,P04_120_33629.jpg,close drawer,drawer,8
+P04_120_315,P04_120_33845.jpg,turn on tap,tap,0
+P04_120_316,P04_120_33911.jpg,pick up sponge,sponge,9
+P04_120_317,P04_120_34105.jpg,wipe measuring spoon with sponge,sponge,9
+P04_120_318,P04_120_34258.jpg,put down sponge,sponge,9
+P04_120_319,P04_120_34306.jpg,turn off tap,tap,0
+P04_120_322,P04_120_34573.jpg,wipe spoon with tea towel,spoon,1
+P04_120_324,P04_120_34808.jpg,open drawer,drawer,8
+P04_120_325,P04_120_34869.jpg,open drawer,drawer,8
+P04_120_326,P04_120_34866.jpg,put tablespoon in drawer,drawer,8
+P04_120_328,P04_120_35102.jpg,pull tea towel out of bowl,bowl,7
+P04_120_330,P04_120_35307.jpg,wipe tea towel with hand,hand,11
+P04_120_332,P04_120_35486.jpg,pick up bowl,bowl,7
+P04_120_333,P04_120_35559.jpg,put bowl in dishwasher,bowl,7
+P04_120_335,P04_120_35774.jpg,pick up spatula,spatula,20
+P04_120_336,P04_120_35950.jpg,stir milk in pan with spatula,pan,5
+P04_120_336,P04_120_35950.jpg,stir milk in pan with spatula,spatula,20
+P04_120_337,P04_120_36070.jpg,lift spatula out of milk,spatula,20
+P04_120_338,P04_120_36260.jpg,stir milk in pan using spatula,pan,5
+P04_120_338,P04_120_36260.jpg,stir milk in pan using spatula,spatula,20
+P04_120_339,P04_120_36498.jpg,put down spatula,spatula,20
+P04_120_348,P04_120_37354.jpg,pick up spatula,spatula,20
+P04_120_354,P04_120_37831.jpg,stir milk in pan using spatula,pan,5
+P04_120_354,P04_120_37831.jpg,stir milk in pan using spatula,spatula,20
+P04_120_355,P04_120_37968.jpg,lift spatula out of milk,spatula,20
+P04_120_356,P04_120_37827.jpg,stir milk in pan using spatula,pan,5
+P04_120_356,P04_120_37827.jpg,stir milk in pan using spatula,spatula,20
+P04_120_357,P04_120_37862.jpg,lift spatula out of milk,spatula,20
+P04_120_358,P04_120_38337.jpg,stir milk in pan using spatula,pan,5
+P04_120_358,P04_120_38337.jpg,stir milk in pan using spatula,spatula,20
+P04_120_359,P04_120_38820.jpg,lift spatula out of milk,spatula,20
+P04_120_360,P04_120_38870.jpg,tap spatula on side of pan,spatula,20
+P04_120_361,P04_120_38935.jpg,rest spatula against side of pan,spatula,20
+P04_120_370,P04_120_40687.jpg,pick up spatula,spatula,20
+P04_120_371,P04_120_40777.jpg,move spatula around pan,spatula,20
+P04_120_371,P04_120_40777.jpg,move spatula around pan,pan,5
+P04_120_372,P04_120_40849.jpg,lift spatula out of pan,spatula,20
+P04_120_372,P04_120_40849.jpg,lift spatula out of pan,pan,5
+P04_120_373,P04_120_40876.jpg,put down spatula,spatula,20
+P04_120_38,P04_120_6647.jpg,pick up spatula,spatula,20
+P04_120_39,P04_120_7055.jpg,drag spatula through milk,spatula,20
+P04_120_4,P04_120_471.jpg,pick up spoon,spoon,1
+P04_120_45,P04_120_8110.jpg,drag spatula through milk,spatula,20
+P04_120_46,P04_120_8231.jpg,put down spatula,spatula,20
+P04_120_5,P04_120_547.jpg,pour water from spoon into ramekin,spoon,1
+P04_120_50,P04_120_8452.jpg,pick up spatula,spatula,20
+P04_120_51,P04_120_8804.jpg,drag spatula through milk in pan,spatula,20
+P04_120_51,P04_120_8804.jpg,drag spatula through milk in pan,pan,5
+P04_120_54,P04_120_9561.jpg,drag spatula around pan,spatula,20
+P04_120_54,P04_120_9561.jpg,drag spatula around pan,pan,5
+P04_120_55,P04_120_9625.jpg,put down spatula,spatula,20
+P04_120_59,P04_120_10347.jpg,pick up spatula,spatula,20
+P04_120_60,P04_120_10616.jpg,drag spatula around pan,spatula,20
+P04_120_60,P04_120_10616.jpg,drag spatula around pan,pan,5
+P04_120_61,P04_120_10931.jpg,move thermometer end with spatula,spatula,20
+P04_120_62,P04_120_11363.jpg,drag spatula through milk around pan,spatula,20
+P04_120_62,P04_120_11363.jpg,drag spatula through milk around pan,pan,5
+P04_120_63,P04_120_11812.jpg,look at cupboard,cupboard,3
+P04_120_64,P04_120_12099.jpg,put down spatula,spatula,20
+P04_120_66,P04_120_12219.jpg,pick up spatula,spatula,20
+P04_120_67,P04_120_12386.jpg,drag spatula through milk in pan,spatula,20
+P04_120_67,P04_120_12386.jpg,drag spatula through milk in pan,pan,5
+P04_120_68,P04_120_12572.jpg,put down spatula,spatula,20
+P04_120_69,P04_120_12636.jpg,feel temperature of milk in pan,pan,5
+P04_120_76,P04_120_14642.jpg,bash milk bottle against hand,hand,11
+P04_120_9,P04_120_794.jpg,crush rennet tablet with spoon,spoon,1
+P04_120_98,P04_120_16280.jpg,wipe lid on milk bottle,lid,6
+P04_120_99,P04_120_16364.jpg,put lid on milk bottle,lid,6

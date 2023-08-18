@@ -1,0 +1,302 @@
+narration_id,stop_frame,narration,all_nouns,all_noun_classes
+P02_112_0,173,open drawer,drawer,8
+P02_112_1,294,pick up spoon,spoon,1
+P02_112_10,1180,close cupboard,cupboard,3
+P02_112_100,17778,pick up plate,plate,2
+P02_112_101,17973,put down plate,plate,2
+P02_112_103,18147,put down lid,lid,6
+P02_112_105,18270,pour oil from bottle onto plate,plate,2
+P02_112_108,18741,get some oil from plate,plate,2
+P02_112_110,19726,knead dough,dough,25
+P02_112_113,21437,move plate,plate,2
+P02_112_116,22292,knead dough,dough,25
+P02_112_119,23044,squeeze dough,dough,25
+P02_112_120,23384,knead dough,dough,25
+P02_112_121,23691,get some oil from plate,plate,2
+P02_112_122,23729,oil hand,hand,11
+P02_112_123,24231,knead dough,dough,25
+P02_112_126,25203,squeeze dough,dough,25
+P02_112_127,25318,get some oil from plate,plate,2
+P02_112_128,25362,oil hand,hand,11
+P02_112_129,25823,knead dough,dough,25
+P02_112_13,1430,put down lid,lid,6
+P02_112_132,26813,squeeze dough,dough,25
+P02_112_133,26984,move plate,plate,2
+P02_112_134,27432,get some oil from plate,plate,2
+P02_112_135,27449,oil hand,hand,11
+P02_112_136,27941,knead dough,dough,25
+P02_112_139,28806,squeeze dough,dough,25
+P02_112_14,1818,stir sauce in jar using spoon,spoon,1
+P02_112_140,28892,get some oil from plate,plate,2
+P02_112_141,28940,oil hand,hand,11
+P02_112_142,29380,knead dough,dough,25
+P02_112_149,30435,squeeze dough,dough,25
+P02_112_150,30520,get some oil from plate,plate,2
+P02_112_151,30559,oil hand,hand,11
+P02_112_152,30999,knead dough,dough,25
+P02_112_155,31772,squeeze dough,dough,25
+P02_112_156,31872,get some oil from plate,plate,2
+P02_112_157,31906,oil hand,hand,11
+P02_112_158,32199,knead dough,dough,25
+P02_112_16,2283,pour tahini sauce from spoon into pan,spoon,1
+P02_112_16,2283,pour tahini sauce from spoon into pan,pan,5
+P02_112_160,33042,knead dough,dough,25
+P02_112_163,33482,squeeze dough,dough,25
+P02_112_164,33580,get oil from plate,plate,2
+P02_112_165,33605,oil hand,hand,11
+P02_112_166,33987,knead dough,dough,25
+P02_112_17,2353,pick up lid,lid,6
+P02_112_170,35123,squeeze dough,dough,25
+P02_112_172,35229,oil hand,hand,11
+P02_112_173,35531,knead dough,dough,25
+P02_112_176,36155,squeeze dough,dough,25
+P02_112_177,36250,get some oil from plate,plate,2
+P02_112_178,36292,oil hand,hand,11
+P02_112_179,36751,knead dough,dough,25
+P02_112_182,37631,squeeze dough,dough,25
+P02_112_183,37744,get some oil from plate,plate,2
+P02_112_184,37775,oil hand,hand,11
+P02_112_185,38177,knead dough,dough,25
+P02_112_188,38934,squeeze dough,dough,25
+P02_112_189,39034,get some oil from plate,plate,2
+P02_112_190,39062,oil hand,hand,11
+P02_112_191,39505,knead dough,dough,25
+P02_112_194,40384,squeeze dough,dough,25
+P02_112_196,40635,oil hand,hand,11
+P02_112_197,41015,knead dough,dough,25
+P02_112_2,355,close drawer,drawer,8
+P02_112_20,2713,open drawer,drawer,8
+P02_112_200,42097,squeeze dough,dough,25
+P02_112_201,42264,get some oil from plate,plate,2
+P02_112_202,42289,oil hand,hand,11
+P02_112_203,42766,knead dough,dough,25
+P02_112_207,43912,oil hand,hand,11
+P02_112_208,44173,knead dough,dough,25
+P02_112_21,2765,pick up spoon,spoon,1
+P02_112_210,44685,place dough on tray,dough,25
+P02_112_211,44907,pick up remaining dough from bowl,bowl,7
+P02_112_212,45081,oil hand,hand,11
+P02_112_213,45446,knead,hand,11
+P02_112_216,46103,pick up bowl,bowl,7
+P02_112_217,46193,place bowl in sink,bowl,7
+P02_112_218,46336,pick up pan,pan,5
+P02_112_219,46420,put down pan,pan,5
+P02_112_22,2819,close drawer,drawer,8
+P02_112_220,46561,pick up meat from pan,meat,28
+P02_112_220,46561,pick up meat from pan,pan,5
+P02_112_221,46721,place meat on ball of dough,meat,28
+P02_112_222,46811,pick up meat from pan,meat,28
+P02_112_222,46811,pick up meat from pan,pan,5
+P02_112_223,46914,place meat on dough,meat,28
+P02_112_223,46914,place meat on dough,dough,25
+P02_112_224,46995,get meat from pan,meat,28
+P02_112_224,46995,get meat from pan,pan,5
+P02_112_225,47044,place meat on dough,meat,28
+P02_112_225,47044,place meat on dough,dough,25
+P02_112_226,47102,pick meat from pan,meat,28
+P02_112_226,47102,pick meat from pan,pan,5
+P02_112_227,47180,place meat on dough,meat,28
+P02_112_227,47180,place meat on dough,dough,25
+P02_112_228,47276,get meat from pan,meat,28
+P02_112_228,47276,get meat from pan,pan,5
+P02_112_229,47338,place meat on dough,meat,28
+P02_112_229,47338,place meat on dough,dough,25
+P02_112_230,47504,get meat from pan,meat,28
+P02_112_230,47504,get meat from pan,pan,5
+P02_112_231,47584,place meat on dough,meat,28
+P02_112_231,47584,place meat on dough,dough,25
+P02_112_232,47729,get meat from pan,meat,28
+P02_112_232,47729,get meat from pan,pan,5
+P02_112_233,47936,place meat on dough,meat,28
+P02_112_233,47936,place meat on dough,dough,25
+P02_112_234,48070,get meat from pan,meat,28
+P02_112_234,48070,get meat from pan,pan,5
+P02_112_235,48154,place meat on dough,meat,28
+P02_112_235,48154,place meat on dough,dough,25
+P02_112_236,48277,get meat from pan,meat,28
+P02_112_236,48277,get meat from pan,pan,5
+P02_112_237,48393,place meat on dough,meat,28
+P02_112_237,48393,place meat on dough,dough,25
+P02_112_238,48578,get meat from pan,meat,28
+P02_112_238,48578,get meat from pan,pan,5
+P02_112_239,48748,place meat on dough,meat,28
+P02_112_239,48748,place meat on dough,dough,25
+P02_112_240,48859,get meat from pan,meat,28
+P02_112_240,48859,get meat from pan,pan,5
+P02_112_241,48986,place meat on dough,meat,28
+P02_112_241,48986,place meat on dough,dough,25
+P02_112_242,49122,get meat from pan,meat,28
+P02_112_242,49122,get meat from pan,pan,5
+P02_112_243,49246,place meat on dough,meat,28
+P02_112_243,49246,place meat on dough,dough,25
+P02_112_244,49369,get meat from pan,meat,28
+P02_112_244,49369,get meat from pan,pan,5
+P02_112_245,49456,place meat on dough,meat,28
+P02_112_245,49456,place meat on dough,dough,25
+P02_112_246,49558,get meat from pan,meat,28
+P02_112_246,49558,get meat from pan,pan,5
+P02_112_247,49674,place meat on dough,meat,28
+P02_112_247,49674,place meat on dough,dough,25
+P02_112_248,49795,get meat from pan,meat,28
+P02_112_248,49795,get meat from pan,pan,5
+P02_112_249,49852,place meat on dough,meat,28
+P02_112_249,49852,place meat on dough,dough,25
+P02_112_250,49941,get meat from pan,meat,28
+P02_112_250,49941,get meat from pan,pan,5
+P02_112_251,50057,place meat on dough,meat,28
+P02_112_251,50057,place meat on dough,dough,25
+P02_112_252,50136,move dough,dough,25
+P02_112_253,50238,get meat from pan,meat,28
+P02_112_253,50238,get meat from pan,pan,5
+P02_112_254,50355,place meat on dough,meat,28
+P02_112_254,50355,place meat on dough,dough,25
+P02_112_255,50474,get meat from pan,meat,28
+P02_112_255,50474,get meat from pan,pan,5
+P02_112_256,50617,place meat on dough,meat,28
+P02_112_256,50617,place meat on dough,dough,25
+P02_112_257,50749,get meat from pan,meat,28
+P02_112_257,50749,get meat from pan,pan,5
+P02_112_258,50847,place meat on dough,meat,28
+P02_112_258,50847,place meat on dough,dough,25
+P02_112_264,51941,pick up meat from pan,meat,28
+P02_112_264,51941,pick up meat from pan,pan,5
+P02_112_265,52024,place meat on dough,meat,28
+P02_112_265,52024,place meat on dough,dough,25
+P02_112_266,52137,pick meat from pan,meat,28
+P02_112_266,52137,pick meat from pan,pan,5
+P02_112_267,52297,place meat on dough,meat,28
+P02_112_267,52297,place meat on dough,dough,25
+P02_112_268,52533,get meat from pan,meat,28
+P02_112_268,52533,get meat from pan,pan,5
+P02_112_269,52579,place meat on dough,meat,28
+P02_112_269,52579,place meat on dough,dough,25
+P02_112_270,52713,get meat from pan,meat,28
+P02_112_270,52713,get meat from pan,pan,5
+P02_112_271,52790,place meat on dough,meat,28
+P02_112_271,52790,place meat on dough,dough,25
+P02_112_272,52914,get meat from pan,meat,28
+P02_112_272,52914,get meat from pan,pan,5
+P02_112_273,53064,place meat on dough,meat,28
+P02_112_273,53064,place meat on dough,dough,25
+P02_112_274,53174,get meat from pan,meat,28
+P02_112_274,53174,get meat from pan,pan,5
+P02_112_275,53277,place meat on dough,meat,28
+P02_112_275,53277,place meat on dough,dough,25
+P02_112_276,53391,get meat from pan,meat,28
+P02_112_276,53391,get meat from pan,pan,5
+P02_112_277,53528,place meat on dough,meat,28
+P02_112_277,53528,place meat on dough,dough,25
+P02_112_278,53633,get meat from pan,meat,28
+P02_112_278,53633,get meat from pan,pan,5
+P02_112_279,53754,place meat on dough,meat,28
+P02_112_279,53754,place meat on dough,dough,25
+P02_112_280,53892,get meat from pan,meat,28
+P02_112_280,53892,get meat from pan,pan,5
+P02_112_281,54036,place meat on dough,meat,28
+P02_112_281,54036,place meat on dough,dough,25
+P02_112_282,54188,get meat from pan,meat,28
+P02_112_282,54188,get meat from pan,pan,5
+P02_112_283,54287,place meat on dough,meat,28
+P02_112_283,54287,place meat on dough,dough,25
+P02_112_284,54369,get meat from pan,meat,28
+P02_112_284,54369,get meat from pan,pan,5
+P02_112_285,54429,place meat on dough,meat,28
+P02_112_285,54429,place meat on dough,dough,25
+P02_112_286,54509,get meat from pan,meat,28
+P02_112_286,54509,get meat from pan,pan,5
+P02_112_287,54669,place meat on dough,meat,28
+P02_112_287,54669,place meat on dough,dough,25
+P02_112_288,54814,get meat from pan,meat,28
+P02_112_288,54814,get meat from pan,pan,5
+P02_112_289,54740,place meat on dough,meat,28
+P02_112_289,54740,place meat on dough,dough,25
+P02_112_29,3677,pour yoghurt from spoon into pan,spoon,1
+P02_112_29,3677,pour yoghurt from spoon into pan,pan,5
+P02_112_290,54813,get meat from pan,meat,28
+P02_112_290,54813,get meat from pan,pan,5
+P02_112_291,54879,place meat on dough,meat,28
+P02_112_291,54879,place meat on dough,dough,25
+P02_112_292,55089,get meat from pan,meat,28
+P02_112_292,55089,get meat from pan,pan,5
+P02_112_293,55167,place meat on dough,meat,28
+P02_112_293,55167,place meat on dough,dough,25
+P02_112_294,55607,pick up pan,pan,5
+P02_112_295,55671,hold pan,pan,5
+P02_112_296,55692,get meat from pan,meat,28
+P02_112_296,55692,get meat from pan,pan,5
+P02_112_297,55741,place meat on dough,meat,28
+P02_112_297,55741,place meat on dough,dough,25
+P02_112_298,55882,get meat from pan,meat,28
+P02_112_298,55882,get meat from pan,pan,5
+P02_112_299,55828,place meat on dough,meat,28
+P02_112_299,55828,place meat on dough,dough,25
+P02_112_3,404,open fridge,fridge,12
+P02_112_300,56078,get meat from pan,meat,28
+P02_112_300,56078,get meat from pan,pan,5
+P02_112_301,56159,place meat on dough,meat,28
+P02_112_301,56159,place meat on dough,dough,25
+P02_112_302,56075,get meat from pan,meat,28
+P02_112_302,56075,get meat from pan,pan,5
+P02_112_303,56153,place meat on dough,meat,28
+P02_112_303,56153,place meat on dough,dough,25
+P02_112_304,56241,get meat from pan,meat,28
+P02_112_304,56241,get meat from pan,pan,5
+P02_112_305,56926,place meat on dough,meat,28
+P02_112_305,56926,place meat on dough,dough,25
+P02_112_306,56782,get meat from pan,meat,28
+P02_112_306,56782,get meat from pan,pan,5
+P02_112_307,57207,place meat on dough,meat,28
+P02_112_307,57207,place meat on dough,dough,25
+P02_112_308,57048,get meat from pan,meat,28
+P02_112_308,57048,get meat from pan,pan,5
+P02_112_309,57509,place meat on dough,meat,28
+P02_112_309,57509,place meat on dough,dough,25
+P02_112_31,3954,scrape spoon,spoon,1
+P02_112_310,57637,get meat from pan,meat,28
+P02_112_310,57637,get meat from pan,pan,5
+P02_112_311,57759,place meat on dough,meat,28
+P02_112_311,57759,place meat on dough,dough,25
+P02_112_312,57873,get meat from pan,meat,28
+P02_112_312,57873,get meat from pan,pan,5
+P02_112_313,58000,place meat on dough,meat,28
+P02_112_313,58000,place meat on dough,dough,25
+P02_112_314,58153,get meat from pan,meat,28
+P02_112_314,58153,get meat from pan,pan,5
+P02_112_315,58293,place meat on dough,meat,28
+P02_112_315,58293,place meat on dough,dough,25
+P02_112_316,58520,get meat from pan,meat,28
+P02_112_316,58520,get meat from pan,pan,5
+P02_112_317,58669,taste meat,meat,28
+P02_112_318,58796,put pan in sink,pan,5
+P02_112_32,4128,put down spoon,spoon,1
+P02_112_33,4253,hold pan,pan,5
+P02_112_34,4691,mix meat with tahini and yoghurt,meat,28
+P02_112_35,5245,pick up spoon,spoon,1
+P02_112_38,5393,put down lid,lid,6
+P02_112_40,5662,pour tahini sauce from spoon into pan,spoon,1
+P02_112_40,5662,pour tahini sauce from spoon into pan,pan,5
+P02_112_41,5868,put down spoon,spoon,1
+P02_112_42,5909,pick up lid,lid,6
+P02_112_45,6012,hold pan,pan,5
+P02_112_46,6282,mix tahini with meat,meat,28
+P02_112_47,6568,open cupboard,cupboard,3
+P02_112_5,653,close fridge,fridge,12
+P02_112_50,7000,pour spice from jar onto lid,lid,6
+P02_112_51,7075,pour spice from lid onto pan,lid,6
+P02_112_51,7075,pour spice from lid onto pan,pan,5
+P02_112_54,7230,hold pan,pan,5
+P02_112_55,7609,mix meat with spice,meat,28
+P02_112_58,8106,pour spice from jar onto lid,lid,6
+P02_112_59,8092,pour spice from lid onto pan,lid,6
+P02_112_59,8092,pour spice from lid onto pan,pan,5
+P02_112_62,8319,hold pan,pan,5
+P02_112_63,8644,mix spice with meat,meat,28
+P02_112_64,9121,taste meat,meat,28
+P02_112_65,9255,put down spoon,spoon,1
+P02_112_66,9397,pick up lid,lid,6
+P02_112_68,9680,open cupboard,cupboard,3
+P02_112_7,867,open cupboard,cupboard,3
+P02_112_80,11740,spread oil on tray using hand,hand,11
+P02_112_96,15092,uncover bowl,bowl,7
+P02_112_98,15617,knead dough,dough,25
+P02_112_99,17635,open cupboard,cupboard,3

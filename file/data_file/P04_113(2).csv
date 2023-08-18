@@ -1,0 +1,243 @@
+narration_id,stop_frame,narration,all_nouns,all_noun_classes
+P04_113_100,P04_113_9805.jpg,put spoon in drawer,spoon,1
+P04_113_100,P04_113_9805.jpg,put spoon in drawer,drawer,8
+P04_113_101,P04_113_9896.jpg,put spoon in drawer,spoon,1
+P04_113_101,P04_113_9896.jpg,put spoon in drawer,drawer,8
+P04_113_102,P04_113_9956.jpg,put spoon in drawer,spoon,1
+P04_113_102,P04_113_9956.jpg,put spoon in drawer,drawer,8
+P04_113_103,P04_113_10038.jpg,put spoon in drawer,spoon,1
+P04_113_103,P04_113_10038.jpg,put spoon in drawer,drawer,8
+P04_113_104,P04_113_10092.jpg,put knife in drawer,knife,4
+P04_113_104,P04_113_10092.jpg,put knife in drawer,drawer,8
+P04_113_105,P04_113_10184.jpg,take spoon out of cutlery tray,spoon,1
+P04_113_106,P04_113_10254.jpg,put spoon in drawer,spoon,1
+P04_113_106,P04_113_10254.jpg,put spoon in drawer,drawer,8
+P04_113_107,P04_113_10282.jpg,put teaspoon in drawer,drawer,8
+P04_113_108,P04_113_10376.jpg,put knife in drawer,knife,4
+P04_113_108,P04_113_10376.jpg,put knife in drawer,drawer,8
+P04_113_109,P04_113_10489.jpg,put knife in knife rack,knife,4
+P04_113_110,P04_113_10622.jpg,put fork in drawer,fork,14
+P04_113_110,P04_113_10622.jpg,put fork in drawer,drawer,8
+P04_113_111,P04_113_10746.jpg,put spoon in drawer,spoon,1
+P04_113_111,P04_113_10746.jpg,put spoon in drawer,drawer,8
+P04_113_112,P04_113_10849.jpg,put teaspoon in drawer,drawer,8
+P04_113_113,P04_113_10949.jpg,put teaspoon in drawer,drawer,8
+P04_113_114,P04_113_11084.jpg,put teaspoons in drawer,drawer,8
+P04_113_118,P04_113_11480.jpg,put measuring spoon in drawer,drawer,8
+P04_113_120,P04_113_11651.jpg,put garlic press inside in drawer,drawer,8
+P04_113_122,P04_113_11710.jpg,close drawer,drawer,8
+P04_113_123,P04_113_11738.jpg,open drawer,drawer,8
+P04_113_124,P04_113_11795.jpg,put knife in drawer,knife,4
+P04_113_124,P04_113_11795.jpg,put knife in drawer,drawer,8
+P04_113_125,P04_113_11852.jpg,put knife in drawer,knife,4
+P04_113_125,P04_113_11852.jpg,put knife in drawer,drawer,8
+P04_113_127,P04_113_11932.jpg,put garlic press in drawer,drawer,8
+P04_113_128,P04_113_11991.jpg,put fork in drawer,fork,14
+P04_113_128,P04_113_11991.jpg,put fork in drawer,drawer,8
+P04_113_129,P04_113_12053.jpg,put teaspoon in drawer,drawer,8
+P04_113_130,P04_113_12198.jpg,close drawer,drawer,8
+P04_113_132,P04_113_12418.jpg,pick up fork,fork,14
+P04_113_133,P04_113_12492.jpg,put fork in dishwasher,fork,14
+P04_113_135,P04_113_12690.jpg,take spoons from ramekin,spoon,1
+P04_113_136,P04_113_12784.jpg,put spoons in cutlery tray,spoon,1
+P04_113_139,P04_113_12987.jpg,pick up plate,plate,2
+P04_113_141,P04_113_13178.jpg,put plate in dishwasher,plate,2
+P04_113_142,P04_113_13312.jpg,pick up plates,plate,2
+P04_113_143,P04_113_13475.jpg,put plate in dishwasher,plate,2
+P04_113_144,P04_113_13559.jpg,pick up spoon,spoon,1
+P04_113_145,P04_113_13596.jpg,put spoon in cutlery tray,spoon,1
+P04_113_146,P04_113_13657.jpg,put plate in dishwasher,plate,2
+P04_113_147,P04_113_13815.jpg,pick up knife and fork,knife,4
+P04_113_147,P04_113_13815.jpg,pick up knife and fork,fork,14
+P04_113_148,P04_113_13889.jpg,put knife and fork in cutlery tray,knife,4
+P04_113_148,P04_113_13889.jpg,put knife and fork in cutlery tray,fork,14
+P04_113_151,P04_113_14130.jpg,pick up fork,fork,14
+P04_113_153,P04_113_14172.jpg,put fork in cutlery tray,fork,14
+P04_113_154,P04_113_14226.jpg,pick up plate,plate,2
+P04_113_155,P04_113_14404.jpg,put plate in dishwasher,plate,2
+P04_113_156,P04_113_14706.jpg,put plate in dishwasher,plate,2
+P04_113_157,P04_113_14555.jpg,pick up plate,plate,2
+P04_113_159,P04_113_14671.jpg,put plate in dishwasher,plate,2
+P04_113_16,P04_113_2541.jpg,pick up spatula,spatula,20
+P04_113_162,P04_113_14914.jpg,put lid in frying pan,lid,6
+P04_113_163,P04_113_15013.jpg,pick up pan,pan,5
+P04_113_17,P04_113_2639.jpg,open drawer,drawer,8
+P04_113_173,P04_113_15917.jpg,turn on tap,tap,0
+P04_113_175,P04_113_16132.jpg,turn off tap,tap,0
+P04_113_18,P04_113_2717.jpg,close drawer,drawer,8
+P04_113_184,P04_113_17119.jpg,put lid on rice cooker,lid,6
+P04_113_19,P04_113_2758.jpg,open drawer,drawer,8
+P04_113_20,P04_113_2801.jpg,put spatula in drawer,spatula,20
+P04_113_20,P04_113_2801.jpg,put spatula in drawer,drawer,8
+P04_113_21,P04_113_2855.jpg,close drawer,drawer,8
+P04_113_213,P04_113_19856.jpg,pick up spoon and fork,spoon,1
+P04_113_213,P04_113_19856.jpg,pick up spoon and fork,fork,14
+P04_113_214,P04_113_19900.jpg,pick up fork,fork,14
+P04_113_215,P04_113_19962.jpg,pick up spoon,spoon,1
+P04_113_217,P04_113_20316.jpg,pick up spoons,spoon,1
+P04_113_218,P04_113_20369.jpg,empty water from spoons,spoon,1
+P04_113_22,P04_113_2855.jpg,pick up knife,knife,4
+P04_113_224,P04_113_20847.jpg,take spoon out of jar,spoon,1
+P04_113_225,P04_113_21013.jpg,put spoon in cutlery tray,spoon,1
+P04_113_23,P04_113_2919.jpg,put knife in knife rack,knife,4
+P04_113_236,P04_113_21682.jpg,turn on tap,tap,0
+P04_113_25,P04_113_3090.jpg,pick up tupperware pot and lid,lid,6
+P04_113_250,P04_113_23365.jpg,turn off tap,tap,0
+P04_113_251,P04_113_23416.jpg,turn on tap,tap,0
+P04_113_254,P04_113_23624.jpg,turn off tap,tap,0
+P04_113_257,P04_113_23757.jpg,wipe hands with tea towel,hand,11
+P04_113_26,P04_113_3138.jpg,put lid on tupperware,lid,6
+P04_113_265,P04_113_24615.jpg,pick up spatula,spatula,20
+P04_113_267,P04_113_24653.jpg,put spatula in dishwasher drawer,spatula,20
+P04_113_275,P04_113_25283.jpg,pick up bowl,bowl,7
+P04_113_277,P04_113_25603.jpg,scrape flour out of bowl and into food bin,bowl,7
+P04_113_279,P04_113_25873.jpg,turn on tap,tap,0
+P04_113_280,P04_113_25919.jpg,put bowl in sink,bowl,7
+P04_113_281,P04_113_25918.jpg,fill bowl with water,bowl,7
+P04_113_283,P04_113_25995.jpg,squirt washing up liquid into bowl,bowl,7
+P04_113_286,P04_113_26388.jpg,open cupboard,cupboard,3
+P04_113_287,P04_113_26429.jpg,put soya sauce in cupboard,cupboard,3
+P04_113_289,P04_113_26563.jpg,put sesame oil in cupboard,cupboard,3
+P04_113_290,P04_113_26617.jpg,close cupboard,cupboard,3
+P04_113_293,P04_113_26893.jpg,open fridge,fridge,12
+P04_113_294,P04_113_26998.jpg,put coriander in fridge,fridge,12
+P04_113_295,P04_113_27135.jpg,close fridge,fridge,12
+P04_113_303,P04_113_28047.jpg,wipe hands with tea towel,hand,11
+P04_113_306,P04_113_28216.jpg,turn off tap,tap,0
+P04_113_31,P04_113_3473.jpg,shake lid,lid,6
+P04_113_319,P04_113_29906.jpg,pick up sponge,sponge,9
+P04_113_32,P04_113_3541.jpg,hit lid on dishwasher drawer,lid,6
+P04_113_320,P04_113_29990.jpg,wet sponge,sponge,9
+P04_113_322,P04_113_30229.jpg,put down sponge,sponge,9
+P04_113_323,P04_113_30306.jpg,turn on tap,tap,0
+P04_113_324,P04_113_30405.jpg,rinse spoon,spoon,1
+P04_113_325,P04_113_30522.jpg,put down spoon on counter,spoon,1
+P04_113_326,P04_113_30618.jpg,pick up sponge,sponge,9
+P04_113_329,P04_113_30805.jpg,wash teaspoon with sponge,sponge,9
+P04_113_33,P04_113_3625.jpg,put lid on tupperware,lid,6
+P04_113_335,P04_113_31358.jpg,turn off tap,tap,0
+P04_113_339,P04_113_32507.jpg,dip sponge in water,sponge,9
+P04_113_341,P04_113_32654.jpg,turn on tap,tap,0
+P04_113_346,P04_113_33093.jpg,turn off tap,tap,0
+P04_113_348,P04_113_33211.jpg,turn on tap,tap,0
+P04_113_349,P04_113_33250.jpg,rinse spoon,spoon,1
+P04_113_350,P04_113_33288.jpg,pick up sponge,sponge,9
+P04_113_351,P04_113_33361.jpg,wash spoon,spoon,1
+P04_113_352,P04_113_33424.jpg,rinse spoon,spoon,1
+P04_113_353,P04_113_33501.jpg,turn off tap,tap,0
+P04_113_354,P04_113_33547.jpg,shake spoon,spoon,1
+P04_113_356,P04_113_33860.jpg,dry spoon,spoon,1
+P04_113_359,P04_113_34345.jpg,dry spoon,spoon,1
+P04_113_360,P04_113_34456.jpg,open drawer,drawer,8
+P04_113_361,P04_113_34495.jpg,put spoon in drawer,spoon,1
+P04_113_361,P04_113_34495.jpg,put spoon in drawer,drawer,8
+P04_113_362,P04_113_34518.jpg,close drawer,drawer,8
+P04_113_367,P04_113_35156.jpg,pick up spoons,spoon,1
+P04_113_368,P04_113_35284.jpg,dry spoons,spoon,1
+P04_113_369,P04_113_35435.jpg,open drawer,drawer,8
+P04_113_37,P04_113_3833.jpg,put tupperware in cupboard,cupboard,3
+P04_113_370,P04_113_35488.jpg,put spoons in drawer,spoon,1
+P04_113_370,P04_113_35488.jpg,put spoons in drawer,drawer,8
+P04_113_371,P04_113_35567.jpg,close drawer,drawer,8
+P04_113_373,P04_113_35690.jpg,open cupboard,cupboard,3
+P04_113_374,P04_113_35765.jpg,put tupperware tub in cupboard,cupboard,3
+P04_113_375,P04_113_35835.jpg,close cupboard,cupboard,3
+P04_113_39,P04_113_3965.jpg,throw tupperware into cupboard,cupboard,3
+P04_113_392,P04_113_37404.jpg,pick up sponge,sponge,9
+P04_113_393,P04_113_37455.jpg,dip sponge in water,sponge,9
+P04_113_394,P04_113_37529.jpg,tip bowl to empty water from bowl,bowl,7
+P04_113_394,P04_113_37529.jpg,tip bowl to empty water from bowl,bowl,7
+P04_113_395,P04_113_37692.jpg,wash bowl,bowl,7
+P04_113_396,P04_113_37822.jpg,put down sponge,sponge,9
+P04_113_397,P04_113_37902.jpg,turn on tap,tap,0
+P04_113_398,P04_113_38178.jpg,rinse bowl,bowl,7
+P04_113_399,P04_113_38464.jpg,put down bowl,bowl,7
+P04_113_4,P04_113_680.jpg,turn on tap,tap,0
+P04_113_40,P04_113_3987.jpg,throw lid into cupboard,lid,6
+P04_113_40,P04_113_3987.jpg,throw lid into cupboard,cupboard,3
+P04_113_400,P04_113_38520.jpg,turn off tap,tap,0
+P04_113_401,P04_113_38585.jpg,pick up knife,knife,4
+P04_113_402,P04_113_38621.jpg,pick up sponge,sponge,9
+P04_113_403,P04_113_38816.jpg,wash knife,knife,4
+P04_113_404,P04_113_39019.jpg,put down sponge,sponge,9
+P04_113_405,P04_113_39058.jpg,shake hand,hand,11
+P04_113_407,P04_113_39384.jpg,dry knife,knife,4
+P04_113_409,P04_113_39723.jpg,put knife in knife rack,knife,4
+P04_113_411,P04_113_39942.jpg,open cupboard,cupboard,3
+P04_113_412,P04_113_39984.jpg,chuck peanut packet into cupboard,cupboard,3
+P04_113_419,P04_113_40612.jpg,turn on tap,tap,0
+P04_113_421,P04_113_40702.jpg,turn off tap,tap,0
+P04_113_426,P04_113_41123.jpg,open drawer,drawer,8
+P04_113_427,P04_113_41062.jpg,put scraper in drawer,drawer,8
+P04_113_428,P04_113_41129.jpg,close drawer,drawer,8
+P04_113_429,P04_113_41194.jpg,pick up bowl with dough,bowl,7
+P04_113_429,P04_113_41194.jpg,pick up bowl with dough,dough,25
+P04_113_430,P04_113_41315.jpg,put down bowl,bowl,7
+P04_113_444,P04_113_44884.jpg,pick up sponge,sponge,9
+P04_113_445,P04_113_44934.jpg,turn on tap,tap,0
+P04_113_446,P04_113_45019.jpg,squeeze sponge,sponge,9
+P04_113_449,P04_113_46088.jpg,put down sponge,sponge,9
+P04_113_450,P04_113_46201.jpg,dry hands on tea towel,hand,11
+P04_113_467,P04_113_49643.jpg,separate dough from tea towel,dough,25
+P04_113_468,P04_113_49809.jpg,feel dough,dough,25
+P04_113_469,P04_113_49963.jpg,pick up bowl,bowl,7
+P04_113_470,P04_113_50040.jpg,tip bowl,bowl,7
+P04_113_471,P04_113_50135.jpg,tip bowl,bowl,7
+P04_113_472,P04_113_50205.jpg,jiggle dough in bowl,dough,25
+P04_113_472,P04_113_50205.jpg,jiggle dough in bowl,bowl,7
+P04_113_473,P04_113_50292.jpg,put down bowl,bowl,7
+P04_113_474,P04_113_50417.jpg,pick up bowl,bowl,7
+P04_113_475,P04_113_50514.jpg,move tea towel from under bowl,bowl,7
+P04_113_476,P04_113_50572.jpg,put down bowl,bowl,7
+P04_113_478,P04_113_51257.jpg,open drawer,drawer,8
+P04_113_48,P04_113_4785.jpg,lay cling film over dough,dough,25
+P04_113_481,P04_113_51364.jpg,pick up knife,knife,4
+P04_113_482,P04_113_51410.jpg,take sheath off knife,knife,4
+P04_113_483,P04_113_51492.jpg,put knife into sheath,knife,4
+P04_113_484,P04_113_51582.jpg,put down knife,knife,4
+P04_113_49,P04_113_4901.jpg,open cupboard,cupboard,3
+P04_113_497,P04_113_56838.jpg,take pan out of oven,pan,5
+P04_113_50,P04_113_4993.jpg,put mug in cupboard,cupboard,3
+P04_113_504,P04_113_57602.jpg,empty dough onto cast iron pan,dough,25
+P04_113_505,P04_113_57791.jpg,pick up knife,knife,4
+P04_113_506,P04_113_57836.jpg,unsheathe knife,knife,4
+P04_113_507,P04_113_58045.jpg,score dough,dough,25
+P04_113_508,P04_113_58287.jpg,score dough,dough,25
+P04_113_509,P04_113_58546.jpg,sheathe knife,knife,4
+P04_113_510,P04_113_58668.jpg,take sheath off knife,knife,4
+P04_113_511,P04_113_58656.jpg,sheathe knife,knife,4
+P04_113_55,P04_113_5505.jpg,pick up bowl,bowl,7
+P04_113_56,P04_113_5656.jpg,stack bowls,bowl,7
+P04_113_58,P04_113_5775.jpg,put bowls on plate in cupboard,bowl,7
+P04_113_58,P04_113_5775.jpg,put bowls on plate in cupboard,plate,2
+P04_113_58,P04_113_5775.jpg,put bowls on plate in cupboard,cupboard,3
+P04_113_6,P04_113_867.jpg,turn off tap,tap,0
+P04_113_60,P04_113_5970.jpg,open cupboard,cupboard,3
+P04_113_61,P04_113_6053.jpg,put saucepan in cupboard,cupboard,3
+P04_113_64,P04_113_6345.jpg,put glass mug in cupboard,cupboard,3
+P04_113_66,P04_113_6545.jpg,open cupboard,cupboard,3
+P04_113_67,P04_113_6573.jpg,throw cheese grater into cupboard,cupboard,3
+P04_113_68,P04_113_6651.jpg,close cupboard,cupboard,3
+P04_113_71,P04_113_6911.jpg,put plate bowls in cupboard,cupboard,3
+P04_113_73,P04_113_7205.jpg,open cupboard,cupboard,3
+P04_113_74,P04_113_7247.jpg,put frying pan in cupboard,cupboard,3
+P04_113_75,P04_113_7344.jpg,close cupboard,cupboard,3
+P04_113_77,P04_113_7450.jpg,open drawer,drawer,8
+P04_113_78,P04_113_7494.jpg,put spoon in drawer,spoon,1
+P04_113_78,P04_113_7494.jpg,put spoon in drawer,drawer,8
+P04_113_79,P04_113_7531.jpg,close drawer,drawer,8
+P04_113_86,P04_113_8088.jpg,open cupboard,cupboard,3
+P04_113_87,P04_113_8140.jpg,put colander in cupboard,cupboard,3
+P04_113_88,P04_113_8218.jpg,close cupboard,cupboard,3
+P04_113_89,P04_113_8340.jpg,pick up glass,glass,10
+P04_113_91,P04_113_8519.jpg,put glass in cupboard,glass,10
+P04_113_91,P04_113_8519.jpg,put glass in cupboard,cupboard,3
+P04_113_93,P04_113_8794.jpg,pick up bowl,bowl,7
+P04_113_94,P04_113_9006.jpg,try to put bowl in cupboard,bowl,7
+P04_113_94,P04_113_9006.jpg,try to put bowl in cupboard,cupboard,3
+P04_113_95,P04_113_9147.jpg,pick up bowls from cupboard,bowl,7
+P04_113_95,P04_113_9147.jpg,pick up bowls from cupboard,cupboard,3
+P04_113_96,P04_113_9342.jpg,stack bowls,bowl,7
+P04_113_97,P04_113_9332.jpg,put bowls into cupboard,bowl,7
+P04_113_97,P04_113_9332.jpg,put bowls into cupboard,cupboard,3
+P04_113_99,P04_113_9735.jpg,open drawer,drawer,8

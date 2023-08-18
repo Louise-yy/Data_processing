@@ -1,0 +1,250 @@
+narration_id,stop_frame,narration,all_nouns,all_noun_classes
+P02_108_103,P02_108_11098.jpg,pick up glass,glass,10
+P02_108_104,P02_108_11211.jpg,put down glass,glass,10
+P02_108_108,P02_108_11734.jpg,pick up glass,glass,10
+P02_108_109,P02_108_11843.jpg,put down glass next to sink,glass,10
+P02_108_110,P02_108_11931.jpg,open cupboard,cupboard,3
+P02_108_111,P02_108_12004.jpg,pick up glass,glass,10
+P02_108_112,P02_108_12062.jpg,close cupboard,cupboard,3
+P02_108_113,P02_108_12135.jpg,put down glass,glass,10
+P02_108_114,P02_108_12241.jpg,rub hands,hand,11
+P02_108_116,P02_108_12457.jpg,lock bowl into food processor,bowl,7
+P02_108_117,P02_108_12619.jpg,lock lid into processor,lid,6
+P02_108_121,P02_108_13194.jpg,close drawer,drawer,8
+P02_108_125,P02_108_15425.jpg,pour hot water from kettle into glass,glass,10
+P02_108_126,P02_108_15619.jpg,pick up glass,glass,10
+P02_108_127,P02_108_15733.jpg,pour more hot water into glass,glass,10
+P02_108_130,P02_108_16263.jpg,pour cold water into glass,glass,10
+P02_108_132,P02_108_16556.jpg,put down glass,glass,10
+P02_108_134,P02_108_16703.jpg,pick up glass,glass,10
+P02_108_135,P02_108_16916.jpg,pour some water from glass into sink,glass,10
+P02_108_138,P02_108_17297.jpg,pour cold water into glass,glass,10
+P02_108_14,P02_108_1804.jpg,open cupboard,cupboard,3
+P02_108_140,P02_108_17573.jpg,put down glass,glass,10
+P02_108_142,P02_108_17828.jpg,pick up glass,glass,10
+P02_108_143,P02_108_18016.jpg,pour warm water from glass into sink,glass,10
+P02_108_144,P02_108_18334.jpg,put down glass,glass,10
+P02_108_146,P02_108_18590.jpg,pour cold water into glass from filter,glass,10
+P02_108_149,P02_108_18941.jpg,open drawer,drawer,8
+P02_108_150,P02_108_19047.jpg,pick up spoon,spoon,1
+P02_108_151,P02_108_19093.jpg,close drawer,drawer,8
+P02_108_155,P02_108_19701.jpg,pour oil from bottle into spoon,spoon,1
+P02_108_156,P02_108_19785.jpg,pour oil from spoon into bowl,spoon,1
+P02_108_156,P02_108_19785.jpg,pour oil from spoon into bowl,bowl,7
+P02_108_157,P02_108_20044.jpg,pour oil from bottle into spoon,spoon,1
+P02_108_158,P02_108_20084.jpg,pour oil from spoon into bowl,spoon,1
+P02_108_158,P02_108_20084.jpg,pour oil from spoon into bowl,bowl,7
+P02_108_161,P02_108_20328.jpg,pour water from glass into bowl,glass,10
+P02_108_161,P02_108_20328.jpg,pour water from glass into bowl,bowl,7
+P02_108_162,P02_108_20490.jpg,put down glass,glass,10
+P02_108_163,P02_108_21358.jpg,mix mixture in bowl using spoon,bowl,7
+P02_108_163,P02_108_21358.jpg,mix mixture in bowl using spoon,spoon,1
+P02_108_166,P02_108_22782.jpg,mix mixture in bowl using spoon,bowl,7
+P02_108_166,P02_108_22782.jpg,mix mixture in bowl using spoon,spoon,1
+P02_108_167,P02_108_23231.jpg,clear spoon from any mixture,spoon,1
+P02_108_168,P02_108_23349.jpg,put down spoon,spoon,1
+P02_108_169,P02_108_23504.jpg,mix mixture using hand in bowl,hand,11
+P02_108_169,P02_108_23504.jpg,mix mixture using hand in bowl,bowl,7
+P02_108_171,P02_108_23827.jpg,pick some flour from bag using hand,hand,11
+P02_108_172,P02_108_23982.jpg,pour flour from hand into bowl,hand,11
+P02_108_172,P02_108_23982.jpg,pour flour from hand into bowl,bowl,7
+P02_108_173,P02_108_24277.jpg,mix dough using hand,dough,25
+P02_108_173,P02_108_24277.jpg,mix dough using hand,hand,11
+P02_108_174,P02_108_24600.jpg,pick up flour from bag using hand,hand,11
+P02_108_175,P02_108_24730.jpg,add flour from hand into bowl,hand,11
+P02_108_175,P02_108_24730.jpg,add flour from hand into bowl,bowl,7
+P02_108_176,P02_108_25772.jpg,mix dough,dough,25
+P02_108_179,P02_108_27245.jpg,mix dough,dough,25
+P02_108_18,P02_108_2243.jpg,put biscuit in cupboard,cupboard,3
+P02_108_180,P02_108_27305.jpg,remove dough from bowl,dough,25
+P02_108_180,P02_108_27305.jpg,remove dough from bowl,bowl,7
+P02_108_182,P02_108_27543.jpg,pour oil from bottle into bowl,bowl,7
+P02_108_184,P02_108_28350.jpg,shape dough using both hands,dough,25
+P02_108_184,P02_108_28350.jpg,shape dough using both hands,hand,11
+P02_108_185,P02_108_29399.jpg,put ball of dough inside bowl,bowl,7
+P02_108_186,P02_108_29595.jpg,pick up dough using both hands,dough,25
+P02_108_186,P02_108_29595.jpg,pick up dough using both hands,hand,11
+P02_108_187,P02_108_30287.jpg,shape dough again using both hands,dough,25
+P02_108_187,P02_108_30287.jpg,shape dough again using both hands,hand,11
+P02_108_188,P02_108_31381.jpg,put ball of dough into bowl,bowl,7
+P02_108_189,P02_108_32340.jpg,open tap,tap,0
+P02_108_190,P02_108_32517.jpg,clean hands,hand,11
+P02_108_191,P02_108_33349.jpg,close tap,tap,0
+P02_108_192,P02_108_33492.jpg,dry hands using towel,hand,11
+P02_108_193,P02_108_33745.jpg,open drawer,drawer,8
+P02_108_194,P02_108_33802.jpg,close drawer,drawer,8
+P02_108_195,P02_108_33860.jpg,open drawer,drawer,8
+P02_108_199,P02_108_34071.jpg,cover dough using towel,dough,25
+P02_108_20,P02_108_2432.jpg,put biscuits in cupboard,cupboard,3
+P02_108_201,P02_108_34209.jpg,cover bowl using towel,bowl,7
+P02_108_203,P02_108_34516.jpg,put down bowl,bowl,7
+P02_108_206,P02_108_34842.jpg,pick up spoon and knife,spoon,1
+P02_108_206,P02_108_34842.jpg,pick up spoon and knife,knife,4
+P02_108_208,P02_108_35060.jpg,"put down spoon, knife and salt",spoon,1
+P02_108_208,P02_108_35060.jpg,"put down spoon, knife and salt",knife,4
+P02_108_217,P02_108_36178.jpg,open cupboard,cupboard,3
+P02_108_218,P02_108_36259.jpg,put pot and strainer into cupboard,cupboard,3
+P02_108_219,P02_108_36338.jpg,close cupboard,cupboard,3
+P02_108_22,P02_108_2594.jpg,put biscuits in cupboard,cupboard,3
+P02_108_225,P02_108_37076.jpg,empty pan from water,pan,5
+P02_108_226,P02_108_37152.jpg,put down pan,pan,5
+P02_108_227,P02_108_37796.jpg,open tap,tap,0
+P02_108_228,P02_108_38155.jpg,close tap,tap,0
+P02_108_229,P02_108_38190.jpg,pick up sponge,sponge,9
+P02_108_230,P02_108_38237.jpg,put down sponge,sponge,9
+P02_108_232,P02_108_38320.jpg,put washing liquid on sponge,sponge,9
+P02_108_234,P02_108_38689.jpg,sponge pan,pan,5
+P02_108_235,P02_108_39025.jpg,open tap,tap,0
+P02_108_236,P02_108_39114.jpg,rinse sponge,sponge,9
+P02_108_237,P02_108_39262.jpg,squeeze sponge,sponge,9
+P02_108_238,P02_108_39359.jpg,put down sponge,sponge,9
+P02_108_239,P02_108_39582.jpg,rinse pan,pan,5
+P02_108_24,P02_108_2745.jpg,put biscuits in cupboard,cupboard,3
+P02_108_240,P02_108_39803.jpg,close tap,tap,0
+P02_108_241,P02_108_39858.jpg,pick up sponge,sponge,9
+P02_108_243,P02_108_39977.jpg,pour washing liquid onto sponge,sponge,9
+P02_108_245,P02_108_40299.jpg,sponge pan,pan,5
+P02_108_246,P02_108_40615.jpg,put down sponge,sponge,9
+P02_108_247,P02_108_40666.jpg,open tap,tap,0
+P02_108_248,P02_108_41298.jpg,close tap,tap,0
+P02_108_249,P02_108_41423.jpg,put down pan,pan,5
+P02_108_254,P02_108_42394.jpg,open tap,tap,0
+P02_108_256,P02_108_42814.jpg,close tap,tap,0
+P02_108_26,P02_108_2905.jpg,put biscuits in cupboard,cupboard,3
+P02_108_262,P02_108_43324.jpg,pick up sponge,sponge,9
+P02_108_263,P02_108_43356.jpg,open tap,tap,0
+P02_108_264,P02_108_43390.jpg,rinse sponge,sponge,9
+P02_108_265,P02_108_43418.jpg,close tap,tap,0
+P02_108_266,P02_108_43446.jpg,squeeze sponge,sponge,9
+P02_108_269,P02_108_43745.jpg,put down sponge,sponge,9
+P02_108_270,P02_108_43784.jpg,open tap,tap,0
+P02_108_272,P02_108_44141.jpg,close tap,tap,0
+P02_108_274,P02_108_44224.jpg,pick up spoon,spoon,1
+P02_108_275,P02_108_44272.jpg,pick up sponge,sponge,9
+P02_108_276,P02_108_44332.jpg,sponge spoon,spoon,1
+P02_108_277,P02_108_44381.jpg,put down sponge,sponge,9
+P02_108_278,P02_108_44438.jpg,open tap,tap,0
+P02_108_279,P02_108_44508.jpg,rinse spoon,spoon,1
+P02_108_28,P02_108_3042.jpg,put tin in cupboard,cupboard,3
+P02_108_280,P02_108_44577.jpg,close tap,tap,0
+P02_108_281,P02_108_44615.jpg,put down spoon,spoon,1
+P02_108_282,P02_108_44665.jpg,pick up glass,glass,10
+P02_108_283,P02_108_44703.jpg,open tap,tap,0
+P02_108_284,P02_108_44757.jpg,rinse glass,glass,10
+P02_108_285,P02_108_44757.jpg,close tap,tap,0
+P02_108_286,P02_108_44805.jpg,pick up sponge,sponge,9
+P02_108_287,P02_108_45017.jpg,sponge glass,glass,10
+P02_108_288,P02_108_45226.jpg,put down sponge,sponge,9
+P02_108_289,P02_108_45266.jpg,open tap,tap,0
+P02_108_29,P02_108_3106.jpg,close cupboard,cupboard,3
+P02_108_290,P02_108_45399.jpg,rinse glass,glass,10
+P02_108_291,P02_108_45526.jpg,close tap,tap,0
+P02_108_293,P02_108_45763.jpg,pick up knife and spoon,knife,4
+P02_108_293,P02_108_45763.jpg,pick up knife and spoon,spoon,1
+P02_108_294,P02_108_45802.jpg,pick up sponge,sponge,9
+P02_108_295,P02_108_45902.jpg,sponge spoon,spoon,1
+P02_108_296,P02_108_46183.jpg,sponge knife,knife,4
+P02_108_297,P02_108_46340.jpg,put down sponge,sponge,9
+P02_108_298,P02_108_46374.jpg,open tap,tap,0
+P02_108_299,P02_108_46441.jpg,rinse knife,knife,4
+P02_108_300,P02_108_46500.jpg,put down knife,knife,4
+P02_108_301,P02_108_46511.jpg,rinse spoon,spoon,1
+P02_108_303,P02_108_46795.jpg,close tap,tap,0
+P02_108_304,P02_108_46886.jpg,put down spoon,spoon,1
+P02_108_306,P02_108_47108.jpg,shake hands,hand,11
+P02_108_308,P02_108_47444.jpg,pick up sponge,sponge,9
+P02_108_310,P02_108_47770.jpg,open tap,tap,0
+P02_108_311,P02_108_47747.jpg,rinse sponge,sponge,9
+P02_108_312,P02_108_47821.jpg,close tap,tap,0
+P02_108_313,P02_108_47869.jpg,squeeze sponge,sponge,9
+P02_108_314,P02_108_47972.jpg,throw sponge,sponge,9
+P02_108_315,P02_108_48195.jpg,open tap,tap,0
+P02_108_316,P02_108_48283.jpg,rinse hands,hand,11
+P02_108_317,P02_108_48351.jpg,close tap,tap,0
+P02_108_318,P02_108_48425.jpg,shake hands,hand,11
+P02_108_319,P02_108_48532.jpg,dry hands using towel,hand,11
+P02_108_329,P02_108_49740.jpg,open fridge,fridge,12
+P02_108_330,P02_108_49802.jpg,open drawer,drawer,8
+P02_108_332,P02_108_50050.jpg,close drawer,drawer,8
+P02_108_333,P02_108_50085.jpg,close fridge,fridge,12
+P02_108_335,P02_108_50573.jpg,open drawer,drawer,8
+P02_108_341,P02_108_51583.jpg,open drawer,drawer,8
+P02_108_342,P02_108_51634.jpg,get knife,knife,4
+P02_108_343,P02_108_51673.jpg,close drawer,drawer,8
+P02_108_347,P02_108_52303.jpg,put down knife,knife,4
+P02_108_36,P02_108_3883.jpg,open cupboard,cupboard,3
+P02_108_38,P02_108_4044.jpg,put bowls on floor,bowl,7
+P02_108_39,P02_108_4112.jpg,return some bowls,bowl,7
+P02_108_395,P02_108_57555.jpg,open cupboard,cupboard,3
+P02_108_396,P02_108_57637.jpg,pick up glass,glass,10
+P02_108_397,P02_108_57708.jpg,close cupboard,cupboard,3
+P02_108_399,P02_108_57834.jpg,put down glass,glass,10
+P02_108_40,P02_108_4184.jpg,pick up bowl from floor,bowl,7
+P02_108_401,P02_108_58023.jpg,pour orange juice from bowl into glass,bowl,7
+P02_108_401,P02_108_58023.jpg,pour orange juice from bowl into glass,glass,10
+P02_108_402,P02_108_58199.jpg,open tap,tap,0
+P02_108_404,P02_108_58379.jpg,close tap,tap,0
+P02_108_405,P02_108_58629.jpg,sponge bowl,bowl,7
+P02_108_406,P02_108_58861.jpg,put down sponge,sponge,9
+P02_108_407,P02_108_58893.jpg,open tap,tap,0
+P02_108_408,P02_108_58986.jpg,rinse bowl,bowl,7
+P02_108_409,P02_108_59086.jpg,close tap,tap,0
+P02_108_41,P02_108_4206.jpg,close cupboard,cupboard,3
+P02_108_410,P02_108_59199.jpg,put down bowl,bowl,7
+P02_108_413,P02_108_59444.jpg,open tap,tap,0
+P02_108_414,P02_108_59609.jpg,rinse part,tap,0
+P02_108_415,P02_108_59771.jpg,close tap,tap,0
+P02_108_42,P02_108_4302.jpg,put down bowl,bowl,7
+P02_108_421,P02_108_60386.jpg,open tap,tap,0
+P02_108_423,P02_108_60917.jpg,close tap,tap,0
+P02_108_424,P02_108_61007.jpg,pick up sponge,sponge,9
+P02_108_425,P02_108_61058.jpg,squeeze sponge,sponge,9
+P02_108_427,P02_108_61189.jpg,pour washing liquid onto sponge,sponge,9
+P02_108_43,P02_108_4561.jpg,open cupboard,cupboard,3
+P02_108_430,P02_108_61876.jpg,put down sponge,sponge,9
+P02_108_431,P02_108_61914.jpg,open tap,tap,0
+P02_108_433,P02_108_62377.jpg,close tap,tap,0
+P02_108_437,P02_108_62606.jpg,put down sponge,sponge,9
+P02_108_438,P02_108_62650.jpg,open tap,tap,0
+P02_108_439,P02_108_62727.jpg,rinse part,tap,0
+P02_108_44,P02_108_4636.jpg,pick up glass,glass,10
+P02_108_440,P02_108_62804.jpg,close tap,tap,0
+P02_108_443,P02_108_63472.jpg,open tap,tap,0
+P02_108_444,P02_108_63540.jpg,rinse hands,hand,11
+P02_108_445,P02_108_63573.jpg,close tap,tap,0
+P02_108_446,P02_108_63631.jpg,shake hands,hand,11
+P02_108_447,P02_108_63776.jpg,dry hands using towel,hand,11
+P02_108_45,P02_108_4668.jpg,close cupboard,cupboard,3
+P02_108_46,P02_108_4780.jpg,put glass inside bowl,glass,10
+P02_108_46,P02_108_4780.jpg,put glass inside bowl,bowl,7
+P02_108_49,P02_108_4980.jpg,pour flour from bag into glass,glass,10
+P02_108_50,P02_108_5214.jpg,pour flour from glass into bowl,glass,10
+P02_108_50,P02_108_5214.jpg,pour flour from glass into bowl,bowl,7
+P02_108_51,P02_108_5330.jpg,return glass to bowl,glass,10
+P02_108_51,P02_108_5330.jpg,return glass to bowl,bowl,7
+P02_108_52,P02_108_5491.jpg,pour flour from bag into glass,glass,10
+P02_108_53,P02_108_5722.jpg,pour flour from glass into bowl,glass,10
+P02_108_53,P02_108_5722.jpg,pour flour from glass into bowl,bowl,7
+P02_108_54,P02_108_5896.jpg,put down glass,glass,10
+P02_108_58,P02_108_6827.jpg,rub hands,hand,11
+P02_108_65,P02_108_7618.jpg,open drawer,drawer,8
+P02_108_66,P02_108_7691.jpg,pick up spoon,spoon,1
+P02_108_67,P02_108_7747.jpg,close drawer,drawer,8
+P02_108_70,P02_108_8012.jpg,pour yeast into bowl,bowl,7
+P02_108_72,P02_108_8174.jpg,pour yeast into bowl,bowl,7
+P02_108_73,P02_108_8214.jpg,put down spoon,spoon,1
+P02_108_74,P02_108_8249.jpg,pick up lid,lid,6
+P02_108_76,P02_108_8459.jpg,open fridge,fridge,12
+P02_108_77,P02_108_8566.jpg,put tin in fridge,fridge,12
+P02_108_78,P02_108_8666.jpg,close fridge,fridge,12
+P02_108_82,P02_108_9153.jpg,pour sugar into bowl,bowl,7
+P02_108_84,P02_108_9275.jpg,pour sugar into bowl,bowl,7
+P02_108_85,P02_108_9347.jpg,pick up lid,lid,6
+P02_108_89,P02_108_9773.jpg,open drawer,drawer,8
+P02_108_90,P02_108_9839.jpg,pick up spoon,spoon,1
+P02_108_91,P02_108_10014.jpg,pour salt into spoon,spoon,1
+P02_108_92,P02_108_10145.jpg,pour salt from spoon into bowl,spoon,1
+P02_108_92,P02_108_10145.jpg,pour salt from spoon into bowl,bowl,7
+P02_108_93,P02_108_10207.jpg,put down spoon,spoon,1
+P02_108_97,P02_108_10617.jpg,open tap,tap,0
+P02_108_99,P02_108_10745.jpg,close tap,tap,0

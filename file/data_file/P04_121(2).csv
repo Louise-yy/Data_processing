@@ -1,0 +1,355 @@
+narration_id,stop_frame,narration,all_nouns,all_noun_classes
+P04_121_102,P04_121_18486.jpg,turn off tap,tap,0
+P04_121_109,P04_121_19254.jpg,lift lid off rice cooker,lid,6
+P04_121_11,P04_121_1734.jpg,pick up knife,knife,4
+P04_121_12,P04_121_1797.jpg,unsheathe knife,knife,4
+P04_121_127,P04_121_20312.jpg,pick up spoons,spoon,1
+P04_121_128,P04_121_20378.jpg,pick up spoon,spoon,1
+P04_121_13,P04_121_2020.jpg,cut cheese with knife,knife,4
+P04_121_130,P04_121_20512.jpg,put spoons in dishwasher,spoon,1
+P04_121_132,P04_121_20723.jpg,open drawer,drawer,8
+P04_121_133,P04_121_20757.jpg,close drawer,drawer,8
+P04_121_134,P04_121_20804.jpg,open drawer,drawer,8
+P04_121_135,P04_121_20854.jpg,pick up spoon,spoon,1
+P04_121_136,P04_121_20884.jpg,close drawer,drawer,8
+P04_121_14,P04_121_2401.jpg,slice cheese with knife,knife,4
+P04_121_146,P04_121_21794.jpg,move glass,glass,10
+P04_121_15,P04_121_2663.jpg,push spatula off pan,spatula,20
+P04_121_15,P04_121_2663.jpg,push spatula off pan,pan,5
+P04_121_16,P04_121_2707.jpg,slice cheese with knife,knife,4
+P04_121_163,P04_121_23097.jpg,screw lid on water bottle,lid,6
+P04_121_168,P04_121_23364.jpg,turn on tap,tap,0
+P04_121_17,P04_121_6208.jpg,slice cheese lengthways with knife,knife,4
+P04_121_172,P04_121_23602.jpg,pick up sponge,sponge,9
+P04_121_173,P04_121_23660.jpg,rinse out sponge under water,sponge,9
+P04_121_175,P04_121_23725.jpg,wash mug with sponge,sponge,9
+P04_121_176,P04_121_23793.jpg,wipe sink with sponge,sponge,9
+P04_121_177,P04_121_23832.jpg,rinse sponge under water,sponge,9
+P04_121_178,P04_121_24023.jpg,wash mug with sponge,sponge,9
+P04_121_179,P04_121_24186.jpg,drop sponge into sink,sponge,9
+P04_121_18,P04_121_6416.jpg,pick up spatula,spatula,20
+P04_121_180,P04_121_24368.jpg,rinse mug under tap,tap,0
+P04_121_181,P04_121_24581.jpg,turn off tap,tap,0
+P04_121_185,P04_121_25261.jpg,pick up spatula,spatula,20
+P04_121_186,P04_121_25457.jpg,stir cheese curds in pan with spatula,pan,5
+P04_121_186,P04_121_25457.jpg,stir cheese curds in pan with spatula,spatula,20
+P04_121_187,P04_121_25603.jpg,put down spatula,spatula,20
+P04_121_19,P04_121_7029.jpg,cut cheese with spatula,spatula,20
+P04_121_191,P04_121_26190.jpg,open cupboard,cupboard,3
+P04_121_192,P04_121_26299.jpg,open cupboard,cupboard,3
+P04_121_193,P04_121_26376.jpg,close cupboard,cupboard,3
+P04_121_194,P04_121_26645.jpg,open fridge,fridge,12
+P04_121_195,P04_121_26850.jpg,close fridge,fridge,12
+P04_121_199,P04_121_27110.jpg,pick up bowl,bowl,7
+P04_121_2,P04_121_378.jpg,pick up spatula,spatula,20
+P04_121_20,P04_121_7783.jpg,scoop cheese curds with spatula,spatula,20
+P04_121_203,P04_121_27304.jpg,put bowl in sink,bowl,7
+P04_121_204,P04_121_27456.jpg,pull dough away from bowl,dough,25
+P04_121_204,P04_121_27456.jpg,pull dough away from bowl,bowl,7
+P04_121_205,P04_121_27577.jpg,squeeze dough into ball,dough,25
+P04_121_209,P04_121_27706.jpg,turn on tap,tap,0
+P04_121_21,P04_121_7878.jpg,hold cheese curds with knife,knife,4
+P04_121_211,P04_121_27814.jpg,squirt washing up liquid into bowl,bowl,7
+P04_121_216,P04_121_28258.jpg,pick up spatula,spatula,20
+P04_121_217,P04_121_28972.jpg,stir cheese curds in pan with spatula,pan,5
+P04_121_217,P04_121_28972.jpg,stir cheese curds in pan with spatula,spatula,20
+P04_121_218,P04_121_29689.jpg,put down spatula,spatula,20
+P04_121_220,P04_121_29844.jpg,turn off tap,tap,0
+P04_121_221,P04_121_29886.jpg,pick up bowl,bowl,7
+P04_121_222,P04_121_29914.jpg,tip water out of bowl,bowl,7
+P04_121_223,P04_121_30163.jpg,turn on tap,tap,0
+P04_121_224,P04_121_30257.jpg,put down bowl,bowl,7
+P04_121_225,P04_121_30260.jpg,pick up sponge,sponge,9
+P04_121_226,P04_121_30338.jpg,put down sponge,sponge,9
+P04_121_228,P04_121_30450.jpg,turn off tap,tap,0
+P04_121_229,P04_121_30511.jpg,turn on tap,tap,0
+P04_121_23,P04_121_8045.jpg,wipe spatula on side of pan,spatula,20
+P04_121_230,P04_121_30610.jpg,tip water out of bowl,bowl,7
+P04_121_231,P04_121_30732.jpg,scour bowl,bowl,7
+P04_121_232,P04_121_30792.jpg,rinse scourer under tap,tap,0
+P04_121_233,P04_121_30885.jpg,scour bowl,bowl,7
+P04_121_234,P04_121_30986.jpg,move bowl to under tap,bowl,7
+P04_121_234,P04_121_30986.jpg,move bowl to under tap,tap,0
+P04_121_235,P04_121_31546.jpg,move bowl away from tap,bowl,7
+P04_121_235,P04_121_31546.jpg,move bowl away from tap,tap,0
+P04_121_236,P04_121_32336.jpg,move bowl under tap,bowl,7
+P04_121_236,P04_121_32336.jpg,move bowl under tap,tap,0
+P04_121_238,P04_121_32602.jpg,scour bowl,bowl,7
+P04_121_239,P04_121_32911.jpg,turn off tap,tap,0
+P04_121_24,P04_121_8104.jpg,put down spatula,spatula,20
+P04_121_240,P04_121_32951.jpg,turn on tap,tap,0
+P04_121_241,P04_121_33001.jpg,turn on tap,tap,0
+P04_121_242,P04_121_33053.jpg,empty water out of bowl,bowl,7
+P04_121_243,P04_121_33611.jpg,scour bowl,bowl,7
+P04_121_244,P04_121_34180.jpg,tip water out of bowl,bowl,7
+P04_121_245,P04_121_34238.jpg,put down bowl,bowl,7
+P04_121_246,P04_121_34450.jpg,scour bowl,bowl,7
+P04_121_247,P04_121_34511.jpg,adjust tap,tap,0
+P04_121_248,P04_121_34572.jpg,move bowl under tap,bowl,7
+P04_121_248,P04_121_34572.jpg,move bowl under tap,tap,0
+P04_121_250,P04_121_34670.jpg,shake hands,hand,11
+P04_121_251,P04_121_34734.jpg,dry hands on tea towel,hand,11
+P04_121_253,P04_121_34877.jpg,read temperature of liquid in pan,pan,5
+P04_121_254,P04_121_34938.jpg,pick up spatula,spatula,20
+P04_121_255,P04_121_35034.jpg,stir cheese curds in pan using spatula,pan,5
+P04_121_255,P04_121_35034.jpg,stir cheese curds in pan using spatula,spatula,20
+P04_121_256,P04_121_35381.jpg,stir cheese curds in pan using spatula,pan,5
+P04_121_256,P04_121_35381.jpg,stir cheese curds in pan using spatula,spatula,20
+P04_121_261,P04_121_36404.jpg,put down spatula,spatula,20
+P04_121_264,P04_121_36597.jpg,move pan slightly,pan,5
+P04_121_265,P04_121_36718.jpg,take out water from bowl,bowl,7
+P04_121_267,P04_121_36762.jpg,scour bowl,bowl,7
+P04_121_268,P04_121_36929.jpg,tip water out of bowl,bowl,7
+P04_121_269,P04_121_36990.jpg,put down bowl,bowl,7
+P04_121_27,P04_121_8409.jpg,wipe knife on side of pan,knife,4
+P04_121_270,P04_121_37312.jpg,scour bowl,bowl,7
+P04_121_271,P04_121_37599.jpg,move bowl under tap,bowl,7
+P04_121_271,P04_121_37599.jpg,move bowl under tap,tap,0
+P04_121_272,P04_121_37822.jpg,move bowl away from tap,bowl,7
+P04_121_272,P04_121_37822.jpg,move bowl away from tap,tap,0
+P04_121_273,P04_121_38056.jpg,move bowl under tap,bowl,7
+P04_121_273,P04_121_38056.jpg,move bowl under tap,tap,0
+P04_121_275,P04_121_38072.jpg,pick up sponge,sponge,9
+P04_121_276,P04_121_38227.jpg,wash bowl with sponge,bowl,7
+P04_121_276,P04_121_38227.jpg,wash bowl with sponge,sponge,9
+P04_121_277,P04_121_38329.jpg,move bowl under water,bowl,7
+P04_121_278,P04_121_38460.jpg,wipe away dough with sponge,dough,25
+P04_121_278,P04_121_38460.jpg,wipe away dough with sponge,sponge,9
+P04_121_279,P04_121_38429.jpg,move bowl away from water,bowl,7
+P04_121_28,P04_121_8628.jpg,wipe knife with tea towel,knife,4
+P04_121_280,P04_121_38570.jpg,dip sponge in water,sponge,9
+P04_121_281,P04_121_38607.jpg,wash bowl with sponge,bowl,7
+P04_121_281,P04_121_38607.jpg,wash bowl with sponge,sponge,9
+P04_121_282,P04_121_38641.jpg,scratch dough away from bowl,dough,25
+P04_121_282,P04_121_38641.jpg,scratch dough away from bowl,bowl,7
+P04_121_283,P04_121_38775.jpg,scratch dough off bowl,dough,25
+P04_121_283,P04_121_38775.jpg,scratch dough off bowl,bowl,7
+P04_121_284,P04_121_38941.jpg,scratch dough off bowl,dough,25
+P04_121_284,P04_121_38941.jpg,scratch dough off bowl,bowl,7
+P04_121_285,P04_121_39189.jpg,wipe bowl with sponge,bowl,7
+P04_121_285,P04_121_39189.jpg,wipe bowl with sponge,sponge,9
+P04_121_286,P04_121_39472.jpg,scratch dough off bowl,dough,25
+P04_121_286,P04_121_39472.jpg,scratch dough off bowl,bowl,7
+P04_121_287,P04_121_39562.jpg,tip water out of bowl,bowl,7
+P04_121_288,P04_121_39623.jpg,put bowl under tap,bowl,7
+P04_121_288,P04_121_39623.jpg,put bowl under tap,tap,0
+P04_121_289,P04_121_39675.jpg,wipe bowl with sponge,bowl,7
+P04_121_289,P04_121_39675.jpg,wipe bowl with sponge,sponge,9
+P04_121_29,P04_121_8716.jpg,turn on tap,tap,0
+P04_121_290,P04_121_39707.jpg,put down bowl,bowl,7
+P04_121_291,P04_121_39726.jpg,put down sponge,sponge,9
+P04_121_293,P04_121_39868.jpg,scour bowl,bowl,7
+P04_121_294,P04_121_39939.jpg,tip water out of bowl,bowl,7
+P04_121_295,P04_121_40018.jpg,put down bowl,bowl,7
+P04_121_296,P04_121_40301.jpg,scour bowl,bowl,7
+P04_121_297,P04_121_41291.jpg,pick up bowl,bowl,7
+P04_121_298,P04_121_41334.jpg,put bowl under tap,bowl,7
+P04_121_298,P04_121_41334.jpg,put bowl under tap,tap,0
+P04_121_299,P04_121_41361.jpg,tip water out of bowl,bowl,7
+P04_121_30,P04_121_8840.jpg,rinse knife,knife,4
+P04_121_300,P04_121_41386.jpg,put down bowl,bowl,7
+P04_121_302,P04_121_41491.jpg,upturn bowl,bowl,7
+P04_121_303,P04_121_41708.jpg,scratch dough off bowl,dough,25
+P04_121_303,P04_121_41708.jpg,scratch dough off bowl,bowl,7
+P04_121_304,P04_121_41810.jpg,turn bowl around,bowl,7
+P04_121_305,P04_121_41993.jpg,scratch dough off bowl,dough,25
+P04_121_305,P04_121_41993.jpg,scratch dough off bowl,bowl,7
+P04_121_306,P04_121_42149.jpg,empty water from bowl,bowl,7
+P04_121_307,P04_121_42227.jpg,empty water from bowl,bowl,7
+P04_121_309,P04_121_42407.jpg,rinse bowl,bowl,7
+P04_121_31,P04_121_8858.jpg,turn off tap,tap,0
+P04_121_310,P04_121_42486.jpg,wipe bowl with sponge,bowl,7
+P04_121_310,P04_121_42486.jpg,wipe bowl with sponge,sponge,9
+P04_121_311,P04_121_42524.jpg,put down sponge,sponge,9
+P04_121_312,P04_121_42584.jpg,pick up sponge,sponge,9
+P04_121_313,P04_121_42633.jpg,wipe bowl with sponge,bowl,7
+P04_121_313,P04_121_42633.jpg,wipe bowl with sponge,sponge,9
+P04_121_314,P04_121_42706.jpg,empty water from bowl,bowl,7
+P04_121_315,P04_121_42956.jpg,wipe bowl with sponge,bowl,7
+P04_121_315,P04_121_42956.jpg,wipe bowl with sponge,sponge,9
+P04_121_316,P04_121_43217.jpg,scratch dough off bowl,dough,25
+P04_121_316,P04_121_43217.jpg,scratch dough off bowl,bowl,7
+P04_121_317,P04_121_43455.jpg,wipe bowl with sponge,bowl,7
+P04_121_317,P04_121_43455.jpg,wipe bowl with sponge,sponge,9
+P04_121_318,P04_121_43610.jpg,scratch dough off bowl,dough,25
+P04_121_318,P04_121_43610.jpg,scratch dough off bowl,bowl,7
+P04_121_319,P04_121_43674.jpg,put down sponge,sponge,9
+P04_121_32,P04_121_8879.jpg,shake knife,knife,4
+P04_121_320,P04_121_43780.jpg,put bowl under tap,bowl,7
+P04_121_320,P04_121_43780.jpg,put bowl under tap,tap,0
+P04_121_321,P04_121_43969.jpg,tip out bowl,bowl,7
+P04_121_322,P04_121_44070.jpg,turn off tap,tap,0
+P04_121_323,P04_121_44114.jpg,turn off tap,tap,0
+P04_121_325,P04_121_44294.jpg,dry bowl with tea towel,bowl,7
+P04_121_327,P04_121_44608.jpg,put down bowl,bowl,7
+P04_121_328,P04_121_44670.jpg,put tea towel on bowl,bowl,7
+P04_121_329,P04_121_44910.jpg,dry inside of bowl,bowl,7
+P04_121_33,P04_121_9020.jpg,wipe knife on tea towel,knife,4
+P04_121_330,P04_121_45170.jpg,feel inside of bowl,bowl,7
+P04_121_335,P04_121_45931.jpg,move pan,pan,5
+P04_121_338,P04_121_46053.jpg,pick up spatula,spatula,20
+P04_121_339,P04_121_46174.jpg,scoop curds out of whey with spatulas,spatula,20
+P04_121_34,P04_121_9256.jpg,put sheath on knife,knife,4
+P04_121_341,P04_121_46398.jpg,put down spatula,spatula,20
+P04_121_342,P04_121_46443.jpg,pick up bowl,bowl,7
+P04_121_343,P04_121_46505.jpg,put down bowl,bowl,7
+P04_121_344,P04_121_46573.jpg,tip curds into bowl,bowl,7
+P04_121_347,P04_121_46826.jpg,put down spatula,spatula,20
+P04_121_349,P04_121_46991.jpg,shake spatula with cheese curds,spatula,20
+P04_121_35,P04_121_9487.jpg,put knife in drawer,knife,4
+P04_121_35,P04_121_9487.jpg,put knife in drawer,drawer,8
+P04_121_350,P04_121_47543.jpg,empty cheese curds into bowl,bowl,7
+P04_121_351,P04_121_47660.jpg,scoop cheese curds with spatula,spatula,20
+P04_121_352,P04_121_47741.jpg,push cheese curds into spatula with fingers,spatula,20
+P04_121_353,P04_121_47836.jpg,pick up bowl,bowl,7
+P04_121_355,P04_121_48174.jpg,tip bowl to empty whey into saucepan,bowl,7
+P04_121_358,P04_121_48639.jpg,empty cheese curds into bowl,bowl,7
+P04_121_359,P04_121_48800.jpg,scoop up cheese curds with spatulas,spatula,20
+P04_121_360,P04_121_48899.jpg,tip cheese curds into bowl,bowl,7
+P04_121_361,P04_121_49061.jpg,scoop whey using spatulas,spatula,20
+P04_121_362,P04_121_49133.jpg,tip cheese curds into bowl,bowl,7
+P04_121_363,P04_121_49243.jpg,scoop whey using spatulas,spatula,20
+P04_121_364,P04_121_49342.jpg,tip cheese curds into bowl,bowl,7
+P04_121_365,P04_121_49442.jpg,scoop whey using spatulas,spatula,20
+P04_121_366,P04_121_49627.jpg,tip cheese curds into bowl,bowl,7
+P04_121_368,P04_121_49839.jpg,put down spatula,spatula,20
+P04_121_369,P04_121_49897.jpg,shake cheese curds into bowl,bowl,7
+P04_121_370,P04_121_49899.jpg,tap spatula on side of bowl,spatula,20
+P04_121_371,P04_121_49958.jpg,pick up bowl,bowl,7
+P04_121_372,P04_121_50114.jpg,hold cheese curds with spatula,spatula,20
+P04_121_373,P04_121_50162.jpg,drain whey from bowl,bowl,7
+P04_121_375,P04_121_50851.jpg,turn bowl upright,bowl,7
+P04_121_376,P04_121_51014.jpg,hold cheese curds with spatula,spatula,20
+P04_121_377,P04_121_51179.jpg,drain whey from bowl,bowl,7
+P04_121_378,P04_121_51432.jpg,turn bowl upright,bowl,7
+P04_121_379,P04_121_51488.jpg,put down spatula,spatula,20
+P04_121_380,P04_121_51591.jpg,rotate bowl,bowl,7
+P04_121_381,P04_121_51657.jpg,pick up spatula,spatula,20
+P04_121_382,P04_121_51718.jpg,hold cheese curds in place with spatula,spatula,20
+P04_121_383,P04_121_51917.jpg,drain whey from bowl,bowl,7
+P04_121_384,P04_121_52187.jpg,turn bowl upright,bowl,7
+P04_121_385,P04_121_52262.jpg,put down spatula,spatula,20
+P04_121_386,P04_121_52384.jpg,put down bowl,bowl,7
+P04_121_392,P04_121_53357.jpg,pick up bowl,bowl,7
+P04_121_395,P04_121_53546.jpg,put bowl in microwave,bowl,7
+P04_121_4,P04_121_574.jpg,peel cheese away from side of saucepan with spatula,spatula,20
+P04_121_402,P04_121_54787.jpg,hold rubber glove under tap,tap,0
+P04_121_403,P04_121_54817.jpg,turn on tap,tap,0
+P04_121_404,P04_121_54868.jpg,turn off tap,tap,0
+P04_121_409,P04_121_55412.jpg,turn on tap,tap,0
+P04_121_411,P04_121_55461.jpg,turn off tap,tap,0
+P04_121_421,P04_121_56395.jpg,pick up bowl,bowl,7
+P04_121_422,P04_121_56458.jpg,put bowl back in microwave,bowl,7
+P04_121_428,P04_121_57066.jpg,slide pan across hob,pan,5
+P04_121_434,P04_121_57477.jpg,pick up bowl,bowl,7
+P04_121_436,P04_121_57606.jpg,put down bowl,bowl,7
+P04_121_437,P04_121_57568.jpg,pick up bowl,bowl,7
+P04_121_439,P04_121_57792.jpg,hold curds with hand,hand,11
+P04_121_44,P04_121_10404.jpg,pick up spatula,spatula,20
+P04_121_440,P04_121_57916.jpg,drain whey into pan,pan,5
+P04_121_441,P04_121_58068.jpg,turn bowl upright,bowl,7
+P04_121_443,P04_121_58205.jpg,tip bowl,bowl,7
+P04_121_444,P04_121_58343.jpg,drain whey into pan,pan,5
+P04_121_446,P04_121_58625.jpg,turn bowl upright,bowl,7
+P04_121_448,P04_121_58851.jpg,tip bowl,bowl,7
+P04_121_449,P04_121_58898.jpg,turn bowl upright,bowl,7
+P04_121_45,P04_121_10495.jpg,stir cheese curds with spatula,spatula,20
+P04_121_450,P04_121_58967.jpg,put down bowl,bowl,7
+P04_121_455,P04_121_59699.jpg,pick up bowl,bowl,7
+P04_121_456,P04_121_59788.jpg,tip whey into pan,pan,5
+P04_121_457,P04_121_59861.jpg,put cheese in bowl,bowl,7
+P04_121_458,P04_121_59926.jpg,put down bowl,bowl,7
+P04_121_46,P04_121_10581.jpg,cut large cheese curds with spatula,spatula,20
+P04_121_460,P04_121_60057.jpg,pick up bowl,bowl,7
+P04_121_461,P04_121_60153.jpg,tip whey into pan,pan,5
+P04_121_462,P04_121_60232.jpg,put down bowl,bowl,7
+P04_121_463,P04_121_60288.jpg,put cheese in bowl,bowl,7
+P04_121_479,P04_121_62138.jpg,pick up bowl,bowl,7
+P04_121_480,P04_121_62202.jpg,empty whey into pan,pan,5
+P04_121_481,P04_121_62263.jpg,put down bowl,bowl,7
+P04_121_482,P04_121_62313.jpg,put cheese in bowl,bowl,7
+P04_121_49,P04_121_11251.jpg,stir cheese curds with spatula,spatula,20
+P04_121_5,P04_121_839.jpg,slice cheese with spatula,spatula,20
+P04_121_506,P04_121_64254.jpg,pick up bowl,bowl,7
+P04_121_507,P04_121_64311.jpg,tip whey into pan,pan,5
+P04_121_508,P04_121_64369.jpg,put cheese in bowl,bowl,7
+P04_121_509,P04_121_64401.jpg,put down bowl,bowl,7
+P04_121_51,P04_121_11481.jpg,cut cheese curd with spatula,spatula,20
+P04_121_510,P04_121_64440.jpg,pick up bowl,bowl,7
+P04_121_513,P04_121_64656.jpg,put bowl in microwave,bowl,7
+P04_121_52,P04_121_11586.jpg,stir cheese curds with spatula,spatula,20
+P04_121_529,P04_121_65671.jpg,open drawer,drawer,8
+P04_121_53,P04_121_11677.jpg,cut cheese curds with spatula,spatula,20
+P04_121_531,P04_121_65850.jpg,pick up spoon,spoon,1
+P04_121_532,P04_121_65973.jpg,close drawer,drawer,8
+P04_121_54,P04_121_12208.jpg,stir cheese curds in pan with spatula,pan,5
+P04_121_54,P04_121_12208.jpg,stir cheese curds in pan with spatula,spatula,20
+P04_121_549,P04_121_67110.jpg,shake spoon,spoon,1
+P04_121_55,P04_121_12771.jpg,put down spatula,spatula,20
+P04_121_551,P04_121_67374.jpg,pick up bowl,bowl,7
+P04_121_552,P04_121_67479.jpg,put down bowl,bowl,7
+P04_121_554,P04_121_67598.jpg,put down spoon,spoon,1
+P04_121_559,P04_121_68136.jpg,pick up bowl,bowl,7
+P04_121_561,P04_121_68278.jpg,tip whey out of bowl into pan,bowl,7
+P04_121_561,P04_121_68278.jpg,tip whey out of bowl into pan,pan,5
+P04_121_562,P04_121_68382.jpg,put down bowl,bowl,7
+P04_121_563,P04_121_68422.jpg,pick up bowl,bowl,7
+P04_121_564,P04_121_68472.jpg,tip whey out of bowl into pan,bowl,7
+P04_121_564,P04_121_68472.jpg,tip whey out of bowl into pan,pan,5
+P04_121_565,P04_121_68551.jpg,put down bowl,bowl,7
+P04_121_57,P04_121_13200.jpg,move hand to face,hand,11
+P04_121_58,P04_121_13323.jpg,move hand away from face,hand,11
+P04_121_592,P04_121_70716.jpg,pick up bowl,bowl,7
+P04_121_593,P04_121_70772.jpg,tip whey out of bowl into pan,bowl,7
+P04_121_593,P04_121_70772.jpg,tip whey out of bowl into pan,pan,5
+P04_121_594,P04_121_70850.jpg,put down bowl,bowl,7
+P04_121_63,P04_121_14648.jpg,pick up spatula,spatula,20
+P04_121_631,P04_121_76026.jpg,pick up bowl,bowl,7
+P04_121_632,P04_121_76102.jpg,tip whey from bowl into wok,bowl,7
+P04_121_633,P04_121_76226.jpg,put cheese in bowl,bowl,7
+P04_121_634,P04_121_76373.jpg,turn on tap,tap,0
+P04_121_635,P04_121_76461.jpg,put down bowl,bowl,7
+P04_121_64,P04_121_14759.jpg,stir curds with spatula,spatula,20
+P04_121_647,P04_121_77883.jpg,pick up bowl,bowl,7
+P04_121_648,P04_121_77956.jpg,adjust tap,tap,0
+P04_121_649,P04_121_78069.jpg,put bowl under tap,bowl,7
+P04_121_649,P04_121_78069.jpg,put bowl under tap,tap,0
+P04_121_65,P04_121_14883.jpg,cut cheese curd with spatula,spatula,20
+P04_121_651,P04_121_78324.jpg,adjust tap,tap,0
+P04_121_652,P04_121_78798.jpg,adjust tap,tap,0
+P04_121_653,P04_121_78815.jpg,turn off tap,tap,0
+P04_121_654,P04_121_78937.jpg,put down bowl,bowl,7
+P04_121_66,P04_121_15053.jpg,stir cheese curds with spatula,spatula,20
+P04_121_663,P04_121_79623.jpg,put ice cube into bowl,bowl,7
+P04_121_666,P04_121_79885.jpg,put ice cube into bowl,bowl,7
+P04_121_669,P04_121_80124.jpg,pop ice cube into bowl,bowl,7
+P04_121_67,P04_121_15109.jpg,cut cheese curds with spatula,spatula,20
+P04_121_673,P04_121_80366.jpg,put ice cube into bowl,bowl,7
+P04_121_676,P04_121_80486.jpg,put ice cube into bowl,bowl,7
+P04_121_68,P04_121_15391.jpg,stir cheese curds in pan with spatula,pan,5
+P04_121_68,P04_121_15391.jpg,stir cheese curds in pan with spatula,spatula,20
+P04_121_681,P04_121_80829.jpg,put ice cube into bowl,bowl,7
+P04_121_684,P04_121_81116.jpg,drop ice cube into bowl,bowl,7
+P04_121_687,P04_121_81241.jpg,drop ice cube into bowl,bowl,7
+P04_121_688,P04_121_81377.jpg,turn on tap,tap,0
+P04_121_69,P04_121_15595.jpg,put down spatula,spatula,20
+P04_121_690,P04_121_81606.jpg,turn off tap,tap,0
+P04_121_697,P04_121_82906.jpg,pick up spatulas,spatula,20
+P04_121_698,P04_121_83064.jpg,pick up pan,pan,5
+P04_121_699,P04_121_83273.jpg,empty whey from pan into sink,pan,5
+P04_121_7,P04_121_1301.jpg,slice cheese with spatula,spatula,20
+P04_121_700,P04_121_83372.jpg,put spatulas in pan,spatula,20
+P04_121_700,P04_121_83372.jpg,put spatulas in pan,pan,5
+P04_121_701,P04_121_83454.jpg,put pan on hob,pan,5
+P04_121_703,P04_121_83610.jpg,turn on tap,tap,0
+P04_121_707,P04_121_83833.jpg,turn off tap,tap,0
+P04_121_711,P04_121_84201.jpg,dry hands,hand,11
+P04_121_8,P04_121_1415.jpg,put down spatula,spatula,20
+P04_121_87,P04_121_17438.jpg,pick up knife,knife,4
+P04_121_89,P04_121_17535.jpg,put knife into dishwasher,knife,4
+P04_121_9,P04_121_1523.jpg,open drawer,drawer,8
+P04_121_92,P04_121_17751.jpg,turn on tap,tap,0
+P04_121_94,P04_121_17828.jpg,pick up sponge,sponge,9
+P04_121_95,P04_121_17893.jpg,wipe chopping board with sponge,sponge,9
+P04_121_96,P04_121_17963.jpg,put down sponge,sponge,9
+P04_121_99,P04_121_18120.jpg,pick up sponge,sponge,9

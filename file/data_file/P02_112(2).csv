@@ -1,0 +1,302 @@
+narration_id,stop_frame,narration,all_nouns,all_noun_classes
+P02_112_0,P02_112_173.jpg,open drawer,drawer,8
+P02_112_1,P02_112_294.jpg,pick up spoon,spoon,1
+P02_112_10,P02_112_1180.jpg,close cupboard,cupboard,3
+P02_112_100,P02_112_17778.jpg,pick up plate,plate,2
+P02_112_101,P02_112_17973.jpg,put down plate,plate,2
+P02_112_103,P02_112_18147.jpg,put down lid,lid,6
+P02_112_105,P02_112_18270.jpg,pour oil from bottle onto plate,plate,2
+P02_112_108,P02_112_18741.jpg,get some oil from plate,plate,2
+P02_112_110,P02_112_19726.jpg,knead dough,dough,25
+P02_112_113,P02_112_21437.jpg,move plate,plate,2
+P02_112_116,P02_112_22292.jpg,knead dough,dough,25
+P02_112_119,P02_112_23044.jpg,squeeze dough,dough,25
+P02_112_120,P02_112_23384.jpg,knead dough,dough,25
+P02_112_121,P02_112_23691.jpg,get some oil from plate,plate,2
+P02_112_122,P02_112_23729.jpg,oil hand,hand,11
+P02_112_123,P02_112_24231.jpg,knead dough,dough,25
+P02_112_126,P02_112_25203.jpg,squeeze dough,dough,25
+P02_112_127,P02_112_25318.jpg,get some oil from plate,plate,2
+P02_112_128,P02_112_25362.jpg,oil hand,hand,11
+P02_112_129,P02_112_25823.jpg,knead dough,dough,25
+P02_112_13,P02_112_1430.jpg,put down lid,lid,6
+P02_112_132,P02_112_26813.jpg,squeeze dough,dough,25
+P02_112_133,P02_112_26984.jpg,move plate,plate,2
+P02_112_134,P02_112_27432.jpg,get some oil from plate,plate,2
+P02_112_135,P02_112_27449.jpg,oil hand,hand,11
+P02_112_136,P02_112_27941.jpg,knead dough,dough,25
+P02_112_139,P02_112_28806.jpg,squeeze dough,dough,25
+P02_112_14,P02_112_1818.jpg,stir sauce in jar using spoon,spoon,1
+P02_112_140,P02_112_28892.jpg,get some oil from plate,plate,2
+P02_112_141,P02_112_28940.jpg,oil hand,hand,11
+P02_112_142,P02_112_29380.jpg,knead dough,dough,25
+P02_112_149,P02_112_30435.jpg,squeeze dough,dough,25
+P02_112_150,P02_112_30520.jpg,get some oil from plate,plate,2
+P02_112_151,P02_112_30559.jpg,oil hand,hand,11
+P02_112_152,P02_112_30999.jpg,knead dough,dough,25
+P02_112_155,P02_112_31772.jpg,squeeze dough,dough,25
+P02_112_156,P02_112_31872.jpg,get some oil from plate,plate,2
+P02_112_157,P02_112_31906.jpg,oil hand,hand,11
+P02_112_158,P02_112_32199.jpg,knead dough,dough,25
+P02_112_16,P02_112_2283.jpg,pour tahini sauce from spoon into pan,spoon,1
+P02_112_16,P02_112_2283.jpg,pour tahini sauce from spoon into pan,pan,5
+P02_112_160,P02_112_33042.jpg,knead dough,dough,25
+P02_112_163,P02_112_33482.jpg,squeeze dough,dough,25
+P02_112_164,P02_112_33580.jpg,get oil from plate,plate,2
+P02_112_165,P02_112_33605.jpg,oil hand,hand,11
+P02_112_166,P02_112_33987.jpg,knead dough,dough,25
+P02_112_17,P02_112_2353.jpg,pick up lid,lid,6
+P02_112_170,P02_112_35123.jpg,squeeze dough,dough,25
+P02_112_172,P02_112_35229.jpg,oil hand,hand,11
+P02_112_173,P02_112_35531.jpg,knead dough,dough,25
+P02_112_176,P02_112_36155.jpg,squeeze dough,dough,25
+P02_112_177,P02_112_36250.jpg,get some oil from plate,plate,2
+P02_112_178,P02_112_36292.jpg,oil hand,hand,11
+P02_112_179,P02_112_36751.jpg,knead dough,dough,25
+P02_112_182,P02_112_37631.jpg,squeeze dough,dough,25
+P02_112_183,P02_112_37744.jpg,get some oil from plate,plate,2
+P02_112_184,P02_112_37775.jpg,oil hand,hand,11
+P02_112_185,P02_112_38177.jpg,knead dough,dough,25
+P02_112_188,P02_112_38934.jpg,squeeze dough,dough,25
+P02_112_189,P02_112_39034.jpg,get some oil from plate,plate,2
+P02_112_190,P02_112_39062.jpg,oil hand,hand,11
+P02_112_191,P02_112_39505.jpg,knead dough,dough,25
+P02_112_194,P02_112_40384.jpg,squeeze dough,dough,25
+P02_112_196,P02_112_40635.jpg,oil hand,hand,11
+P02_112_197,P02_112_41015.jpg,knead dough,dough,25
+P02_112_2,P02_112_355.jpg,close drawer,drawer,8
+P02_112_20,P02_112_2713.jpg,open drawer,drawer,8
+P02_112_200,P02_112_42097.jpg,squeeze dough,dough,25
+P02_112_201,P02_112_42264.jpg,get some oil from plate,plate,2
+P02_112_202,P02_112_42289.jpg,oil hand,hand,11
+P02_112_203,P02_112_42766.jpg,knead dough,dough,25
+P02_112_207,P02_112_43912.jpg,oil hand,hand,11
+P02_112_208,P02_112_44173.jpg,knead dough,dough,25
+P02_112_21,P02_112_2765.jpg,pick up spoon,spoon,1
+P02_112_210,P02_112_44685.jpg,place dough on tray,dough,25
+P02_112_211,P02_112_44907.jpg,pick up remaining dough from bowl,bowl,7
+P02_112_212,P02_112_45081.jpg,oil hand,hand,11
+P02_112_213,P02_112_45446.jpg,knead,hand,11
+P02_112_216,P02_112_46103.jpg,pick up bowl,bowl,7
+P02_112_217,P02_112_46193.jpg,place bowl in sink,bowl,7
+P02_112_218,P02_112_46336.jpg,pick up pan,pan,5
+P02_112_219,P02_112_46420.jpg,put down pan,pan,5
+P02_112_22,P02_112_2819.jpg,close drawer,drawer,8
+P02_112_220,P02_112_46561.jpg,pick up meat from pan,meat,28
+P02_112_220,P02_112_46561.jpg,pick up meat from pan,pan,5
+P02_112_221,P02_112_46721.jpg,place meat on ball of dough,meat,28
+P02_112_222,P02_112_46811.jpg,pick up meat from pan,meat,28
+P02_112_222,P02_112_46811.jpg,pick up meat from pan,pan,5
+P02_112_223,P02_112_46914.jpg,place meat on dough,meat,28
+P02_112_223,P02_112_46914.jpg,place meat on dough,dough,25
+P02_112_224,P02_112_46995.jpg,get meat from pan,meat,28
+P02_112_224,P02_112_46995.jpg,get meat from pan,pan,5
+P02_112_225,P02_112_47044.jpg,place meat on dough,meat,28
+P02_112_225,P02_112_47044.jpg,place meat on dough,dough,25
+P02_112_226,P02_112_47102.jpg,pick meat from pan,meat,28
+P02_112_226,P02_112_47102.jpg,pick meat from pan,pan,5
+P02_112_227,P02_112_47180.jpg,place meat on dough,meat,28
+P02_112_227,P02_112_47180.jpg,place meat on dough,dough,25
+P02_112_228,P02_112_47276.jpg,get meat from pan,meat,28
+P02_112_228,P02_112_47276.jpg,get meat from pan,pan,5
+P02_112_229,P02_112_47338.jpg,place meat on dough,meat,28
+P02_112_229,P02_112_47338.jpg,place meat on dough,dough,25
+P02_112_230,P02_112_47504.jpg,get meat from pan,meat,28
+P02_112_230,P02_112_47504.jpg,get meat from pan,pan,5
+P02_112_231,P02_112_47584.jpg,place meat on dough,meat,28
+P02_112_231,P02_112_47584.jpg,place meat on dough,dough,25
+P02_112_232,P02_112_47729.jpg,get meat from pan,meat,28
+P02_112_232,P02_112_47729.jpg,get meat from pan,pan,5
+P02_112_233,P02_112_47936.jpg,place meat on dough,meat,28
+P02_112_233,P02_112_47936.jpg,place meat on dough,dough,25
+P02_112_234,P02_112_48070.jpg,get meat from pan,meat,28
+P02_112_234,P02_112_48070.jpg,get meat from pan,pan,5
+P02_112_235,P02_112_48154.jpg,place meat on dough,meat,28
+P02_112_235,P02_112_48154.jpg,place meat on dough,dough,25
+P02_112_236,P02_112_48277.jpg,get meat from pan,meat,28
+P02_112_236,P02_112_48277.jpg,get meat from pan,pan,5
+P02_112_237,P02_112_48393.jpg,place meat on dough,meat,28
+P02_112_237,P02_112_48393.jpg,place meat on dough,dough,25
+P02_112_238,P02_112_48578.jpg,get meat from pan,meat,28
+P02_112_238,P02_112_48578.jpg,get meat from pan,pan,5
+P02_112_239,P02_112_48748.jpg,place meat on dough,meat,28
+P02_112_239,P02_112_48748.jpg,place meat on dough,dough,25
+P02_112_240,P02_112_48859.jpg,get meat from pan,meat,28
+P02_112_240,P02_112_48859.jpg,get meat from pan,pan,5
+P02_112_241,P02_112_48986.jpg,place meat on dough,meat,28
+P02_112_241,P02_112_48986.jpg,place meat on dough,dough,25
+P02_112_242,P02_112_49122.jpg,get meat from pan,meat,28
+P02_112_242,P02_112_49122.jpg,get meat from pan,pan,5
+P02_112_243,P02_112_49246.jpg,place meat on dough,meat,28
+P02_112_243,P02_112_49246.jpg,place meat on dough,dough,25
+P02_112_244,P02_112_49369.jpg,get meat from pan,meat,28
+P02_112_244,P02_112_49369.jpg,get meat from pan,pan,5
+P02_112_245,P02_112_49456.jpg,place meat on dough,meat,28
+P02_112_245,P02_112_49456.jpg,place meat on dough,dough,25
+P02_112_246,P02_112_49558.jpg,get meat from pan,meat,28
+P02_112_246,P02_112_49558.jpg,get meat from pan,pan,5
+P02_112_247,P02_112_49674.jpg,place meat on dough,meat,28
+P02_112_247,P02_112_49674.jpg,place meat on dough,dough,25
+P02_112_248,P02_112_49795.jpg,get meat from pan,meat,28
+P02_112_248,P02_112_49795.jpg,get meat from pan,pan,5
+P02_112_249,P02_112_49852.jpg,place meat on dough,meat,28
+P02_112_249,P02_112_49852.jpg,place meat on dough,dough,25
+P02_112_250,P02_112_49941.jpg,get meat from pan,meat,28
+P02_112_250,P02_112_49941.jpg,get meat from pan,pan,5
+P02_112_251,P02_112_50057.jpg,place meat on dough,meat,28
+P02_112_251,P02_112_50057.jpg,place meat on dough,dough,25
+P02_112_252,P02_112_50136.jpg,move dough,dough,25
+P02_112_253,P02_112_50238.jpg,get meat from pan,meat,28
+P02_112_253,P02_112_50238.jpg,get meat from pan,pan,5
+P02_112_254,P02_112_50355.jpg,place meat on dough,meat,28
+P02_112_254,P02_112_50355.jpg,place meat on dough,dough,25
+P02_112_255,P02_112_50474.jpg,get meat from pan,meat,28
+P02_112_255,P02_112_50474.jpg,get meat from pan,pan,5
+P02_112_256,P02_112_50617.jpg,place meat on dough,meat,28
+P02_112_256,P02_112_50617.jpg,place meat on dough,dough,25
+P02_112_257,P02_112_50749.jpg,get meat from pan,meat,28
+P02_112_257,P02_112_50749.jpg,get meat from pan,pan,5
+P02_112_258,P02_112_50847.jpg,place meat on dough,meat,28
+P02_112_258,P02_112_50847.jpg,place meat on dough,dough,25
+P02_112_264,P02_112_51941.jpg,pick up meat from pan,meat,28
+P02_112_264,P02_112_51941.jpg,pick up meat from pan,pan,5
+P02_112_265,P02_112_52024.jpg,place meat on dough,meat,28
+P02_112_265,P02_112_52024.jpg,place meat on dough,dough,25
+P02_112_266,P02_112_52137.jpg,pick meat from pan,meat,28
+P02_112_266,P02_112_52137.jpg,pick meat from pan,pan,5
+P02_112_267,P02_112_52297.jpg,place meat on dough,meat,28
+P02_112_267,P02_112_52297.jpg,place meat on dough,dough,25
+P02_112_268,P02_112_52533.jpg,get meat from pan,meat,28
+P02_112_268,P02_112_52533.jpg,get meat from pan,pan,5
+P02_112_269,P02_112_52579.jpg,place meat on dough,meat,28
+P02_112_269,P02_112_52579.jpg,place meat on dough,dough,25
+P02_112_270,P02_112_52713.jpg,get meat from pan,meat,28
+P02_112_270,P02_112_52713.jpg,get meat from pan,pan,5
+P02_112_271,P02_112_52790.jpg,place meat on dough,meat,28
+P02_112_271,P02_112_52790.jpg,place meat on dough,dough,25
+P02_112_272,P02_112_52914.jpg,get meat from pan,meat,28
+P02_112_272,P02_112_52914.jpg,get meat from pan,pan,5
+P02_112_273,P02_112_53064.jpg,place meat on dough,meat,28
+P02_112_273,P02_112_53064.jpg,place meat on dough,dough,25
+P02_112_274,P02_112_53174.jpg,get meat from pan,meat,28
+P02_112_274,P02_112_53174.jpg,get meat from pan,pan,5
+P02_112_275,P02_112_53277.jpg,place meat on dough,meat,28
+P02_112_275,P02_112_53277.jpg,place meat on dough,dough,25
+P02_112_276,P02_112_53391.jpg,get meat from pan,meat,28
+P02_112_276,P02_112_53391.jpg,get meat from pan,pan,5
+P02_112_277,P02_112_53528.jpg,place meat on dough,meat,28
+P02_112_277,P02_112_53528.jpg,place meat on dough,dough,25
+P02_112_278,P02_112_53633.jpg,get meat from pan,meat,28
+P02_112_278,P02_112_53633.jpg,get meat from pan,pan,5
+P02_112_279,P02_112_53754.jpg,place meat on dough,meat,28
+P02_112_279,P02_112_53754.jpg,place meat on dough,dough,25
+P02_112_280,P02_112_53892.jpg,get meat from pan,meat,28
+P02_112_280,P02_112_53892.jpg,get meat from pan,pan,5
+P02_112_281,P02_112_54036.jpg,place meat on dough,meat,28
+P02_112_281,P02_112_54036.jpg,place meat on dough,dough,25
+P02_112_282,P02_112_54188.jpg,get meat from pan,meat,28
+P02_112_282,P02_112_54188.jpg,get meat from pan,pan,5
+P02_112_283,P02_112_54287.jpg,place meat on dough,meat,28
+P02_112_283,P02_112_54287.jpg,place meat on dough,dough,25
+P02_112_284,P02_112_54369.jpg,get meat from pan,meat,28
+P02_112_284,P02_112_54369.jpg,get meat from pan,pan,5
+P02_112_285,P02_112_54429.jpg,place meat on dough,meat,28
+P02_112_285,P02_112_54429.jpg,place meat on dough,dough,25
+P02_112_286,P02_112_54509.jpg,get meat from pan,meat,28
+P02_112_286,P02_112_54509.jpg,get meat from pan,pan,5
+P02_112_287,P02_112_54669.jpg,place meat on dough,meat,28
+P02_112_287,P02_112_54669.jpg,place meat on dough,dough,25
+P02_112_288,P02_112_54814.jpg,get meat from pan,meat,28
+P02_112_288,P02_112_54814.jpg,get meat from pan,pan,5
+P02_112_289,P02_112_54740.jpg,place meat on dough,meat,28
+P02_112_289,P02_112_54740.jpg,place meat on dough,dough,25
+P02_112_29,P02_112_3677.jpg,pour yoghurt from spoon into pan,spoon,1
+P02_112_29,P02_112_3677.jpg,pour yoghurt from spoon into pan,pan,5
+P02_112_290,P02_112_54813.jpg,get meat from pan,meat,28
+P02_112_290,P02_112_54813.jpg,get meat from pan,pan,5
+P02_112_291,P02_112_54879.jpg,place meat on dough,meat,28
+P02_112_291,P02_112_54879.jpg,place meat on dough,dough,25
+P02_112_292,P02_112_55089.jpg,get meat from pan,meat,28
+P02_112_292,P02_112_55089.jpg,get meat from pan,pan,5
+P02_112_293,P02_112_55167.jpg,place meat on dough,meat,28
+P02_112_293,P02_112_55167.jpg,place meat on dough,dough,25
+P02_112_294,P02_112_55607.jpg,pick up pan,pan,5
+P02_112_295,P02_112_55671.jpg,hold pan,pan,5
+P02_112_296,P02_112_55692.jpg,get meat from pan,meat,28
+P02_112_296,P02_112_55692.jpg,get meat from pan,pan,5
+P02_112_297,P02_112_55741.jpg,place meat on dough,meat,28
+P02_112_297,P02_112_55741.jpg,place meat on dough,dough,25
+P02_112_298,P02_112_55882.jpg,get meat from pan,meat,28
+P02_112_298,P02_112_55882.jpg,get meat from pan,pan,5
+P02_112_299,P02_112_55828.jpg,place meat on dough,meat,28
+P02_112_299,P02_112_55828.jpg,place meat on dough,dough,25
+P02_112_3,P02_112_404.jpg,open fridge,fridge,12
+P02_112_300,P02_112_56078.jpg,get meat from pan,meat,28
+P02_112_300,P02_112_56078.jpg,get meat from pan,pan,5
+P02_112_301,P02_112_56159.jpg,place meat on dough,meat,28
+P02_112_301,P02_112_56159.jpg,place meat on dough,dough,25
+P02_112_302,P02_112_56075.jpg,get meat from pan,meat,28
+P02_112_302,P02_112_56075.jpg,get meat from pan,pan,5
+P02_112_303,P02_112_56153.jpg,place meat on dough,meat,28
+P02_112_303,P02_112_56153.jpg,place meat on dough,dough,25
+P02_112_304,P02_112_56241.jpg,get meat from pan,meat,28
+P02_112_304,P02_112_56241.jpg,get meat from pan,pan,5
+P02_112_305,P02_112_56926.jpg,place meat on dough,meat,28
+P02_112_305,P02_112_56926.jpg,place meat on dough,dough,25
+P02_112_306,P02_112_56782.jpg,get meat from pan,meat,28
+P02_112_306,P02_112_56782.jpg,get meat from pan,pan,5
+P02_112_307,P02_112_57207.jpg,place meat on dough,meat,28
+P02_112_307,P02_112_57207.jpg,place meat on dough,dough,25
+P02_112_308,P02_112_57048.jpg,get meat from pan,meat,28
+P02_112_308,P02_112_57048.jpg,get meat from pan,pan,5
+P02_112_309,P02_112_57509.jpg,place meat on dough,meat,28
+P02_112_309,P02_112_57509.jpg,place meat on dough,dough,25
+P02_112_31,P02_112_3954.jpg,scrape spoon,spoon,1
+P02_112_310,P02_112_57637.jpg,get meat from pan,meat,28
+P02_112_310,P02_112_57637.jpg,get meat from pan,pan,5
+P02_112_311,P02_112_57759.jpg,place meat on dough,meat,28
+P02_112_311,P02_112_57759.jpg,place meat on dough,dough,25
+P02_112_312,P02_112_57873.jpg,get meat from pan,meat,28
+P02_112_312,P02_112_57873.jpg,get meat from pan,pan,5
+P02_112_313,P02_112_58000.jpg,place meat on dough,meat,28
+P02_112_313,P02_112_58000.jpg,place meat on dough,dough,25
+P02_112_314,P02_112_58153.jpg,get meat from pan,meat,28
+P02_112_314,P02_112_58153.jpg,get meat from pan,pan,5
+P02_112_315,P02_112_58293.jpg,place meat on dough,meat,28
+P02_112_315,P02_112_58293.jpg,place meat on dough,dough,25
+P02_112_316,P02_112_58520.jpg,get meat from pan,meat,28
+P02_112_316,P02_112_58520.jpg,get meat from pan,pan,5
+P02_112_317,P02_112_58669.jpg,taste meat,meat,28
+P02_112_318,P02_112_58796.jpg,put pan in sink,pan,5
+P02_112_32,P02_112_4128.jpg,put down spoon,spoon,1
+P02_112_33,P02_112_4253.jpg,hold pan,pan,5
+P02_112_34,P02_112_4691.jpg,mix meat with tahini and yoghurt,meat,28
+P02_112_35,P02_112_5245.jpg,pick up spoon,spoon,1
+P02_112_38,P02_112_5393.jpg,put down lid,lid,6
+P02_112_40,P02_112_5662.jpg,pour tahini sauce from spoon into pan,spoon,1
+P02_112_40,P02_112_5662.jpg,pour tahini sauce from spoon into pan,pan,5
+P02_112_41,P02_112_5868.jpg,put down spoon,spoon,1
+P02_112_42,P02_112_5909.jpg,pick up lid,lid,6
+P02_112_45,P02_112_6012.jpg,hold pan,pan,5
+P02_112_46,P02_112_6282.jpg,mix tahini with meat,meat,28
+P02_112_47,P02_112_6568.jpg,open cupboard,cupboard,3
+P02_112_5,P02_112_653.jpg,close fridge,fridge,12
+P02_112_50,P02_112_7000.jpg,pour spice from jar onto lid,lid,6
+P02_112_51,P02_112_7075.jpg,pour spice from lid onto pan,lid,6
+P02_112_51,P02_112_7075.jpg,pour spice from lid onto pan,pan,5
+P02_112_54,P02_112_7230.jpg,hold pan,pan,5
+P02_112_55,P02_112_7609.jpg,mix meat with spice,meat,28
+P02_112_58,P02_112_8106.jpg,pour spice from jar onto lid,lid,6
+P02_112_59,P02_112_8092.jpg,pour spice from lid onto pan,lid,6
+P02_112_59,P02_112_8092.jpg,pour spice from lid onto pan,pan,5
+P02_112_62,P02_112_8319.jpg,hold pan,pan,5
+P02_112_63,P02_112_8644.jpg,mix spice with meat,meat,28
+P02_112_64,P02_112_9121.jpg,taste meat,meat,28
+P02_112_65,P02_112_9255.jpg,put down spoon,spoon,1
+P02_112_66,P02_112_9397.jpg,pick up lid,lid,6
+P02_112_68,P02_112_9680.jpg,open cupboard,cupboard,3
+P02_112_7,P02_112_867.jpg,open cupboard,cupboard,3
+P02_112_80,P02_112_11740.jpg,spread oil on tray using hand,hand,11
+P02_112_96,P02_112_15092.jpg,uncover bowl,bowl,7
+P02_112_98,P02_112_15617.jpg,knead dough,dough,25
+P02_112_99,P02_112_17635.jpg,open cupboard,cupboard,3

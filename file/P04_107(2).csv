@@ -1,0 +1,518 @@
+narration_id,stop_frame,narration,all_nouns,all_noun_classes
+P04_107_0,P04_107_25.jpg,move pan,pan,5
+P04_107_10,P04_107_1072.jpg,put dough in bowl,dough,25
+P04_107_10,P04_107_1072.jpg,put dough in bowl,bowl,7
+P04_107_101,P04_107_12834.jpg,close drawer,drawer,8
+P04_107_103,P04_107_12917.jpg,close drawer,drawer,8
+P04_107_105,P04_107_13116.jpg,put dough on baking tray,dough,25
+P04_107_107,P04_107_13188.jpg,put dough on baking tray,dough,25
+P04_107_11,P04_107_1198.jpg,stretch out dough,dough,25
+P04_107_112,P04_107_13358.jpg,rub dough ball in hand,hand,11
+P04_107_113,P04_107_13480.jpg,squeeze dough,dough,25
+P04_107_115,P04_107_14251.jpg,open drawer,drawer,8
+P04_107_118,P04_107_14613.jpg,open cupboard,cupboard,3
+P04_107_12,P04_107_1502.jpg,roll dough into sausage shape,dough,25
+P04_107_126,P04_107_15048.jpg,open drawer,drawer,8
+P04_107_129,P04_107_15307.jpg,open drawer,drawer,8
+P04_107_13,P04_107_1646.jpg,squeeze dough,dough,25
+P04_107_132,P04_107_15510.jpg,move knife,knife,4
+P04_107_133,P04_107_15587.jpg,roll dough,dough,25
+P04_107_134,P04_107_15671.jpg,turn dough,dough,25
+P04_107_135,P04_107_15734.jpg,roll dough,dough,25
+P04_107_136,P04_107_15821.jpg,turn dough,dough,25
+P04_107_137,P04_107_15979.jpg,roll dough,dough,25
+P04_107_138,P04_107_16103.jpg,flip dough,dough,25
+P04_107_139,P04_107_16277.jpg,roll dough,dough,25
+P04_107_14,P04_107_1939.jpg,pick up knife,knife,4
+P04_107_140,P04_107_16462.jpg,pick up dough,dough,25
+P04_107_141,P04_107_16497.jpg,put down dough,dough,25
+P04_107_142,P04_107_16622.jpg,roll dough,dough,25
+P04_107_143,P04_107_16809.jpg,pick up dough,dough,25
+P04_107_144,P04_107_16907.jpg,put down dough,dough,25
+P04_107_145,P04_107_17027.jpg,roll dough,dough,25
+P04_107_147,P04_107_17310.jpg,brush oil onto dough,dough,25
+P04_107_15,P04_107_2219.jpg,cut dough into chunks,dough,25
+P04_107_152,P04_107_17593.jpg,put chopstick on dough,dough,25
+P04_107_153,P04_107_17661.jpg,fold dough over chopstick,dough,25
+P04_107_154,P04_107_17727.jpg,press dough,dough,25
+P04_107_156,P04_107_17885.jpg,pick up dough,dough,25
+P04_107_157,P04_107_17928.jpg,slide dough off chopstick,dough,25
+P04_107_159,P04_107_18122.jpg,put dough on greaseproof paper,dough,25
+P04_107_16,P04_107_2552.jpg,mark divides on dough,dough,25
+P04_107_162,P04_107_18284.jpg,put down dough and greaseproof paper onto baking tray,dough,25
+P04_107_17,P04_107_2683.jpg,push dough into dough,dough,25
+P04_107_17,P04_107_2683.jpg,push dough into dough,dough,25
+P04_107_170,P04_107_19080.jpg,squeeze dough in hand,dough,25
+P04_107_170,P04_107_19080.jpg,squeeze dough in hand,hand,11
+P04_107_171,P04_107_19254.jpg,squeeze dough in hand,dough,25
+P04_107_171,P04_107_19254.jpg,squeeze dough in hand,hand,11
+P04_107_172,P04_107_19315.jpg,put down dough,dough,25
+P04_107_173,P04_107_19342.jpg,press dough,dough,25
+P04_107_174,P04_107_19382.jpg,pick up dough,dough,25
+P04_107_175,P04_107_19427.jpg,squeeze dough,dough,25
+P04_107_176,P04_107_19460.jpg,put down dough,dough,25
+P04_107_178,P04_107_19546.jpg,roll dough,dough,25
+P04_107_179,P04_107_19613.jpg,flip over dough,dough,25
+P04_107_18,P04_107_2750.jpg,squeeze dough,dough,25
+P04_107_180,P04_107_19550.jpg,roll dough,dough,25
+P04_107_181,P04_107_19616.jpg,flip over dough,dough,25
+P04_107_182,P04_107_19705.jpg,roll dough,dough,25
+P04_107_183,P04_107_20093.jpg,turn dough,dough,25
+P04_107_185,P04_107_20181.jpg,pick up dough,dough,25
+P04_107_186,P04_107_20286.jpg,stretch dough,dough,25
+P04_107_187,P04_107_20328.jpg,put down dough,dough,25
+P04_107_188,P04_107_20360.jpg,straighten dough,dough,25
+P04_107_189,P04_107_20516.jpg,move dough,dough,25
+P04_107_191,P04_107_20577.jpg,roll dough,dough,25
+P04_107_192,P04_107_20734.jpg,pick up dough,dough,25
+P04_107_193,P04_107_20777.jpg,put down dough,dough,25
+P04_107_194,P04_107_20885.jpg,roll dough,dough,25
+P04_107_195,P04_107_21020.jpg,straighten out dough,dough,25
+P04_107_196,P04_107_21090.jpg,fold in dough,dough,25
+P04_107_197,P04_107_21108.jpg,unfold dough,dough,25
+P04_107_198,P04_107_21168.jpg,fold dough,dough,25
+P04_107_199,P04_107_21292.jpg,stretch dough,dough,25
+P04_107_20,P04_107_2815.jpg,squeeze dough,dough,25
+P04_107_200,P04_107_21271.jpg,unfold dough,dough,25
+P04_107_202,P04_107_21441.jpg,brush dough with oil,dough,25
+P04_107_203,P04_107_21487.jpg,smooth oil into dough,dough,25
+P04_107_205,P04_107_21600.jpg,rub oil into dough,dough,25
+P04_107_207,P04_107_21693.jpg,roll chopstick on dough,dough,25
+P04_107_208,P04_107_21754.jpg,fold dough over chopstick,dough,25
+P04_107_209,P04_107_21828.jpg,press dough into dough,dough,25
+P04_107_209,P04_107_21828.jpg,press dough into dough,dough,25
+P04_107_210,P04_107_21861.jpg,slide out chopstick from dough,dough,25
+P04_107_212,P04_107_21943.jpg,pick up dough,dough,25
+P04_107_214,P04_107_22096.jpg,put dough on greaseproof paper,dough,25
+P04_107_215,P04_107_22183.jpg,put down dough and greaseproof paper,dough,25
+P04_107_22,P04_107_2973.jpg,squeeze dough,dough,25
+P04_107_220,P04_107_22597.jpg,squeeze dough,dough,25
+P04_107_221,P04_107_22674.jpg,squeeze dough into chopping board,dough,25
+P04_107_223,P04_107_22823.jpg,roll dough,dough,25
+P04_107_224,P04_107_22923.jpg,turn over dough,dough,25
+P04_107_225,P04_107_22991.jpg,roll dough,dough,25
+P04_107_226,P04_107_23103.jpg,turn over dough,dough,25
+P04_107_227,P04_107_23249.jpg,roll dough,dough,25
+P04_107_228,P04_107_23381.jpg,turn over dough,dough,25
+P04_107_229,P04_107_23463.jpg,roll dough,dough,25
+P04_107_23,P04_107_3219.jpg,mark divides on dough,dough,25
+P04_107_230,P04_107_23693.jpg,unfold dough,dough,25
+P04_107_231,P04_107_23800.jpg,roll out dough,dough,25
+P04_107_232,P04_107_23878.jpg,flip over dough,dough,25
+P04_107_233,P04_107_23987.jpg,roll out dough,dough,25
+P04_107_234,P04_107_24099.jpg,flip over dough,dough,25
+P04_107_235,P04_107_24175.jpg,unfold dough,dough,25
+P04_107_236,P04_107_24220.jpg,roll out dough,dough,25
+P04_107_237,P04_107_24263.jpg,press dough,dough,25
+P04_107_24,P04_107_3741.jpg,cut dough,dough,25
+P04_107_241,P04_107_24523.jpg,rub oil on dough,dough,25
+P04_107_245,P04_107_24786.jpg,put chopstick on dough,dough,25
+P04_107_246,P04_107_24893.jpg,fold dough over chopstick,dough,25
+P04_107_247,P04_107_24987.jpg,press down on dough,dough,25
+P04_107_248,P04_107_25013.jpg,pick up dough,dough,25
+P04_107_249,P04_107_25107.jpg,slide chopstick out of dough,dough,25
+P04_107_252,P04_107_25291.jpg,put dough on greaseproof paper,dough,25
+P04_107_257,P04_107_25594.jpg,put down dough and greaseproof paper,dough,25
+P04_107_259,P04_107_25710.jpg,drop dough balls into bowl,bowl,7
+P04_107_261,P04_107_25790.jpg,drop ball of dough into bowl,bowl,7
+P04_107_267,P04_107_26085.jpg,put dough on chopping board,dough,25
+P04_107_27,P04_107_3861.jpg,cut dough,dough,25
+P04_107_271,P04_107_26622.jpg,unfold dough,dough,25
+P04_107_272,P04_107_26612.jpg,flip over dough,dough,25
+P04_107_273,P04_107_26734.jpg,roll out dough,dough,25
+P04_107_274,P04_107_26827.jpg,flip over dough,dough,25
+P04_107_275,P04_107_26931.jpg,roll out dough,dough,25
+P04_107_276,P04_107_27060.jpg,pick up dough,dough,25
+P04_107_277,P04_107_27141.jpg,straighten dough,dough,25
+P04_107_278,P04_107_27174.jpg,put dough on chopping board,dough,25
+P04_107_279,P04_107_27291.jpg,roll out dough,dough,25
+P04_107_28,P04_107_3896.jpg,pull dough,dough,25
+P04_107_280,P04_107_27339.jpg,feel dough,dough,25
+P04_107_285,P04_107_27606.jpg,brush oil onto dough,dough,25
+P04_107_287,P04_107_27620.jpg,brush oil onto dough,dough,25
+P04_107_29,P04_107_3942.jpg,put down dough,dough,25
+P04_107_290,P04_107_27757.jpg,put chopstick on dough,dough,25
+P04_107_291,P04_107_27851.jpg,fold dough over chopstick,dough,25
+P04_107_292,P04_107_27889.jpg,pat dough,dough,25
+P04_107_293,P04_107_27962.jpg,pick up dough,dough,25
+P04_107_294,P04_107_28000.jpg,slide chopstick out of dough,dough,25
+P04_107_296,P04_107_28061.jpg,transfer dough to other hand,dough,25
+P04_107_299,P04_107_28253.jpg,put dough on greaseproof paper,dough,25
+P04_107_30,P04_107_3893.jpg,cut dough,dough,25
+P04_107_31,P04_107_3918.jpg,move dough,dough,25
+P04_107_32,P04_107_3971.jpg,cut dough,dough,25
+P04_107_321,P04_107_29619.jpg,pick up dough,dough,25
+P04_107_322,P04_107_29661.jpg,squidge dough with thumbs,dough,25
+P04_107_323,P04_107_29754.jpg,push dough into chopping board,dough,25
+P04_107_324,P04_107_29806.jpg,rotate dough,dough,25
+P04_107_326,P04_107_29899.jpg,roll out dough,dough,25
+P04_107_327,P04_107_30010.jpg,turn over dough,dough,25
+P04_107_328,P04_107_30172.jpg,roll out dough,dough,25
+P04_107_329,P04_107_30384.jpg,turn over dough,dough,25
+P04_107_33,P04_107_4039.jpg,move dough,dough,25
+P04_107_330,P04_107_30545.jpg,roll out dough,dough,25
+P04_107_331,P04_107_30701.jpg,turn over dough,dough,25
+P04_107_332,P04_107_30847.jpg,roll out dough,dough,25
+P04_107_333,P04_107_30993.jpg,turn over dough,dough,25
+P04_107_335,P04_107_31272.jpg,brush oil onto dough,dough,25
+P04_107_336,P04_107_31385.jpg,rub oil onto dough with fingers,dough,25
+P04_107_338,P04_107_31531.jpg,put chopstick on dough,dough,25
+P04_107_339,P04_107_31598.jpg,fold dough over chopstick,dough,25
+P04_107_34,P04_107_4092.jpg,cut dough,dough,25
+P04_107_340,P04_107_31567.jpg,pat dough,dough,25
+P04_107_341,P04_107_31647.jpg,pick up dough,dough,25
+P04_107_342,P04_107_31685.jpg,remove chopstick from dough,dough,25
+P04_107_345,P04_107_31861.jpg,put dough on greaseproof paper,dough,25
+P04_107_349,P04_107_32337.jpg,put down dough on chopping board,dough,25
+P04_107_35,P04_107_4128.jpg,move dough,dough,25
+P04_107_350,P04_107_32392.jpg,rotate spoon,spoon,1
+P04_107_352,P04_107_32572.jpg,roll out dough,dough,25
+P04_107_353,P04_107_32698.jpg,flip over dough,dough,25
+P04_107_354,P04_107_32924.jpg,roll out dough,dough,25
+P04_107_355,P04_107_33139.jpg,peel dough off rolling pin,dough,25
+P04_107_356,P04_107_33163.jpg,flip over dough,dough,25
+P04_107_357,P04_107_33293.jpg,roll out dough,dough,25
+P04_107_358,P04_107_33469.jpg,peel dough off rolling pin,dough,25
+P04_107_359,P04_107_33579.jpg,straighten out dough,dough,25
+P04_107_36,P04_107_4165.jpg,cut dough,dough,25
+P04_107_360,P04_107_33633.jpg,roll out dough,dough,25
+P04_107_362,P04_107_33768.jpg,flip over dough,dough,25
+P04_107_363,P04_107_33853.jpg,roll out dough,dough,25
+P04_107_364,P04_107_33942.jpg,feel dough,dough,25
+P04_107_367,P04_107_34046.jpg,brush dough with oil,dough,25
+P04_107_37,P04_107_4301.jpg,cut dough,dough,25
+P04_107_370,P04_107_34165.jpg,put chopstick on dough,dough,25
+P04_107_371,P04_107_34264.jpg,fold dough in half,dough,25
+P04_107_372,P04_107_34355.jpg,pat dough,dough,25
+P04_107_373,P04_107_34420.jpg,lift up dough with chopstick,dough,25
+P04_107_375,P04_107_34613.jpg,hold dough,dough,25
+P04_107_376,P04_107_34645.jpg,slide chopstick out of dough,dough,25
+P04_107_378,P04_107_34720.jpg,pat dough,dough,25
+P04_107_38,P04_107_4389.jpg,cut dough,dough,25
+P04_107_381,P04_107_34878.jpg,transfer dough to other hand,dough,25
+P04_107_383,P04_107_34977.jpg,lay down dough,dough,25
+P04_107_39,P04_107_4555.jpg,move dough,dough,25
+P04_107_394,P04_107_35909.jpg,align dough,dough,25
+P04_107_4,P04_107_213.jpg,pick up dough,dough,25
+P04_107_40,P04_107_4583.jpg,put down knife,knife,4
+P04_107_401,P04_107_36437.jpg,peel dough off rolling pin,dough,25
+P04_107_402,P04_107_36482.jpg,turn over dough,dough,25
+P04_107_403,P04_107_36556.jpg,roll out dough,dough,25
+P04_107_404,P04_107_36667.jpg,pick up dough,dough,25
+P04_107_405,P04_107_36825.jpg,unfold dough,dough,25
+P04_107_406,P04_107_36970.jpg,put dough on chopping board,dough,25
+P04_107_407,P04_107_37091.jpg,roll dough,dough,25
+P04_107_408,P04_107_37225.jpg,flip over dough,dough,25
+P04_107_409,P04_107_37311.jpg,roll dough,dough,25
+P04_107_41,P04_107_4615.jpg,pick up dough,dough,25
+P04_107_410,P04_107_37377.jpg,pull dough off rolling pin,dough,25
+P04_107_412,P04_107_37451.jpg,flip over dough,dough,25
+P04_107_413,P04_107_37500.jpg,roll out dough,dough,25
+P04_107_415,P04_107_37616.jpg,pick up dough,dough,25
+P04_107_418,P04_107_37751.jpg,brush dough with oil,dough,25
+P04_107_42,P04_107_4674.jpg,roll dough into ball,dough,25
+P04_107_421,P04_107_37965.jpg,fold dough over chopstick,dough,25
+P04_107_422,P04_107_37984.jpg,press down dough,dough,25
+P04_107_424,P04_107_38142.jpg,hold dough,dough,25
+P04_107_425,P04_107_38162.jpg,slide chopstick out of dough,dough,25
+P04_107_429,P04_107_38431.jpg,put dough on greaseproof paper,dough,25
+P04_107_43,P04_107_4768.jpg,open cupboard,cupboard,3
+P04_107_437,P04_107_38993.jpg,roll out dough,dough,25
+P04_107_438,P04_107_39135.jpg,turn over dough,dough,25
+P04_107_44,P04_107_4875.jpg,close cupboard,cupboard,3
+P04_107_440,P04_107_39337.jpg,roll out dough,dough,25
+P04_107_441,P04_107_39505.jpg,peel dough off rolling pin,dough,25
+P04_107_443,P04_107_39563.jpg,flip over dough,dough,25
+P04_107_444,P04_107_39630.jpg,roll out dough,dough,25
+P04_107_447,P04_107_39813.jpg,sprinkle flour over dough,dough,25
+P04_107_449,P04_107_39950.jpg,roll out dough,dough,25
+P04_107_45,P04_107_4913.jpg,open cupboard,cupboard,3
+P04_107_451,P04_107_40162.jpg,peel dough off chopping board,dough,25
+P04_107_452,P04_107_40235.jpg,put dough on chopping board,dough,25
+P04_107_453,P04_107_40288.jpg,press dough,dough,25
+P04_107_455,P04_107_40401.jpg,brush dough with oil,dough,25
+P04_107_458,P04_107_40516.jpg,let go of dough,dough,25
+P04_107_460,P04_107_40547.jpg,put chopstick on dough,dough,25
+P04_107_462,P04_107_40693.jpg,put chopstick on dough,dough,25
+P04_107_463,P04_107_40716.jpg,fold dough over chopstick,dough,25
+P04_107_464,P04_107_40759.jpg,pat dough,dough,25
+P04_107_466,P04_107_40817.jpg,hold dough,dough,25
+P04_107_467,P04_107_40892.jpg,slide chopstick out of dough,dough,25
+P04_107_471,P04_107_41128.jpg,put dough on greaseproof paper,dough,25
+P04_107_473,P04_107_41380.jpg,put baking tray on pan,pan,5
+P04_107_482,P04_107_42291.jpg,press dough into chopping board,dough,25
+P04_107_484,P04_107_42480.jpg,roll dough,dough,25
+P04_107_485,P04_107_42575.jpg,turn over dough,dough,25
+P04_107_486,P04_107_42738.jpg,roll dough,dough,25
+P04_107_487,P04_107_42904.jpg,turn over dough,dough,25
+P04_107_488,P04_107_42978.jpg,move dough,dough,25
+P04_107_489,P04_107_43093.jpg,roll dough,dough,25
+P04_107_490,P04_107_43159.jpg,turn over dough,dough,25
+P04_107_491,P04_107_43355.jpg,roll out dough,dough,25
+P04_107_492,P04_107_43459.jpg,peel dough away from chopping board,dough,25
+P04_107_493,P04_107_43655.jpg,flip over dough,dough,25
+P04_107_495,P04_107_43807.jpg,roll out dough,dough,25
+P04_107_496,P04_107_43896.jpg,feel dough,dough,25
+P04_107_497,P04_107_43938.jpg,pick up dough,dough,25
+P04_107_498,P04_107_43989.jpg,stretch dough,dough,25
+P04_107_499,P04_107_44000.jpg,turn dough,dough,25
+P04_107_500,P04_107_43990.jpg,put down dough,dough,25
+P04_107_501,P04_107_44049.jpg,straighten dough,dough,25
+P04_107_502,P04_107_44093.jpg,move dough,dough,25
+P04_107_505,P04_107_44239.jpg,brush dough with oil,dough,25
+P04_107_510,P04_107_44442.jpg,put chopstick on dough,dough,25
+P04_107_511,P04_107_44500.jpg,fold dough over chopstick,dough,25
+P04_107_512,P04_107_44546.jpg,press down dough,dough,25
+P04_107_513,P04_107_44646.jpg,slide chopstick out of dough,dough,25
+P04_107_519,P04_107_44922.jpg,pick up dough,dough,25
+P04_107_521,P04_107_44980.jpg,put down dough,dough,25
+P04_107_522,P04_107_45099.jpg,pick up dough,dough,25
+P04_107_523,P04_107_45210.jpg,stretch dough,dough,25
+P04_107_524,P04_107_45366.jpg,pick up knife,knife,4
+P04_107_526,P04_107_46033.jpg,cut dough,dough,25
+P04_107_528,P04_107_46153.jpg,cut dough,dough,25
+P04_107_530,P04_107_46137.jpg,cut dough,dough,25
+P04_107_532,P04_107_46218.jpg,cut dough,dough,25
+P04_107_534,P04_107_46309.jpg,cut dough,dough,25
+P04_107_536,P04_107_46398.jpg,cut dough,dough,25
+P04_107_538,P04_107_46499.jpg,cut dough,dough,25
+P04_107_540,P04_107_46648.jpg,cut dough,dough,25
+P04_107_541,P04_107_46757.jpg,put down knife,knife,4
+P04_107_542,P04_107_46777.jpg,squeeze dough,dough,25
+P04_107_543,P04_107_46792.jpg,pick up dough,dough,25
+P04_107_544,P04_107_46822.jpg,put dough balls in bowl,bowl,7
+P04_107_546,P04_107_46874.jpg,put dough balls in bowl,bowl,7
+P04_107_548,P04_107_46956.jpg,drop dough balls in bowl,bowl,7
+P04_107_550,P04_107_46903.jpg,pass dough to other hand,dough,25
+P04_107_551,P04_107_46949.jpg,drop dough in bowl,dough,25
+P04_107_551,P04_107_46949.jpg,drop dough in bowl,bowl,7
+P04_107_552,P04_107_47004.jpg,pick up dough,dough,25
+P04_107_553,P04_107_47023.jpg,move knife,knife,4
+P04_107_554,P04_107_47097.jpg,squeeze dough,dough,25
+P04_107_556,P04_107_47213.jpg,press dough into chopping board,dough,25
+P04_107_559,P04_107_47412.jpg,roll out dough,dough,25
+P04_107_560,P04_107_47471.jpg,peel dough away from rolling pin,dough,25
+P04_107_561,P04_107_47549.jpg,flip over dough,dough,25
+P04_107_562,P04_107_47740.jpg,roll out dough,dough,25
+P04_107_563,P04_107_47977.jpg,feel dough,dough,25
+P04_107_564,P04_107_47976.jpg,peel dough away from chopping board,dough,25
+P04_107_565,P04_107_48025.jpg,feel dough,dough,25
+P04_107_566,P04_107_48022.jpg,put down dough,dough,25
+P04_107_568,P04_107_48110.jpg,roll out dough,dough,25
+P04_107_57,P04_107_7074.jpg,open drawer,drawer,8
+P04_107_570,P04_107_48181.jpg,feel dough,dough,25
+P04_107_574,P04_107_48361.jpg,roll out dough,dough,25
+P04_107_576,P04_107_48509.jpg,pick up dough,dough,25
+P04_107_577,P04_107_48531.jpg,turn over dough,dough,25
+P04_107_578,P04_107_48557.jpg,lay down dough,dough,25
+P04_107_580,P04_107_48631.jpg,roll out dough,dough,25
+P04_107_581,P04_107_48695.jpg,straighten out dough,dough,25
+P04_107_582,P04_107_48733.jpg,pick up dough,dough,25
+P04_107_583,P04_107_48778.jpg,stretch dough,dough,25
+P04_107_584,P04_107_48761.jpg,lay down dough,dough,25
+P04_107_585,P04_107_48777.jpg,rotate dough,dough,25
+P04_107_586,P04_107_48812.jpg,press down on dough,dough,25
+P04_107_588,P04_107_48889.jpg,roll out dough,dough,25
+P04_107_591,P04_107_49041.jpg,spread oil on dough,dough,25
+P04_107_594,P04_107_49216.jpg,fold dough over chopstick,dough,25
+P04_107_595,P04_107_49270.jpg,lay chopstick on dough,dough,25
+P04_107_596,P04_107_49308.jpg,pat dough,dough,25
+P04_107_598,P04_107_49362.jpg,rotate dough around chopstick,dough,25
+P04_107_599,P04_107_49403.jpg,slide dough off chopstick,dough,25
+P04_107_603,P04_107_49552.jpg,put dough on greaseproof paper,dough,25
+P04_107_610,P04_107_50087.jpg,press dough into chopping board,dough,25
+P04_107_612,P04_107_50220.jpg,roll out dough,dough,25
+P04_107_613,P04_107_50239.jpg,roll out dough,dough,25
+P04_107_614,P04_107_50322.jpg,turn over dough,dough,25
+P04_107_615,P04_107_50551.jpg,roll out dough,dough,25
+P04_107_616,P04_107_50757.jpg,remove dough from rolling pin,dough,25
+P04_107_617,P04_107_50801.jpg,lay down dough,dough,25
+P04_107_618,P04_107_50860.jpg,roll out dough,dough,25
+P04_107_619,P04_107_50936.jpg,pick up dough and rolling pin,dough,25
+P04_107_620,P04_107_50988.jpg,unfold dough,dough,25
+P04_107_621,P04_107_51198.jpg,lay down dough,dough,25
+P04_107_622,P04_107_51276.jpg,roll out dough,dough,25
+P04_107_623,P04_107_51414.jpg,lay down dough,dough,25
+P04_107_624,P04_107_51528.jpg,feel dough,dough,25
+P04_107_627,P04_107_51631.jpg,brush dough,dough,25
+P04_107_63,P04_107_7391.jpg,open drawer,drawer,8
+P04_107_631,P04_107_51788.jpg,put chopstick on dough,dough,25
+P04_107_632,P04_107_51815.jpg,fold dough over chopstick,dough,25
+P04_107_634,P04_107_51890.jpg,hold dough,dough,25
+P04_107_635,P04_107_51903.jpg,slide chopstick out of dough,dough,25
+P04_107_638,P04_107_52029.jpg,slide dough onto greaseproof paper,dough,25
+P04_107_642,P04_107_52464.jpg,squeeze dough,dough,25
+P04_107_643,P04_107_52593.jpg,put dough on chopping board,dough,25
+P04_107_645,P04_107_52747.jpg,roll out dough,dough,25
+P04_107_648,P04_107_53018.jpg,flip over dough,dough,25
+P04_107_649,P04_107_53107.jpg,roll out dough,dough,25
+P04_107_650,P04_107_53262.jpg,take dough off rolling pin,dough,25
+P04_107_651,P04_107_53283.jpg,turn over dough,dough,25
+P04_107_652,P04_107_53372.jpg,roll out dough,dough,25
+P04_107_653,P04_107_53532.jpg,peel dough off rolling pin,dough,25
+P04_107_654,P04_107_53559.jpg,flip over dough,dough,25
+P04_107_655,P04_107_53602.jpg,roll out dough,dough,25
+P04_107_656,P04_107_53756.jpg,unfold dough,dough,25
+P04_107_657,P04_107_53805.jpg,turn over dough,dough,25
+P04_107_658,P04_107_53863.jpg,roll out dough,dough,25
+P04_107_659,P04_107_53937.jpg,flip over dough,dough,25
+P04_107_660,P04_107_54027.jpg,roll out dough,dough,25
+P04_107_661,P04_107_54148.jpg,pick up dough,dough,25
+P04_107_662,P04_107_54204.jpg,lay down dough,dough,25
+P04_107_663,P04_107_54051.jpg,feel dough,dough,25
+P04_107_665,P04_107_54341.jpg,brush oil onto dough,dough,25
+P04_107_669,P04_107_54513.jpg,put chopstick on dough,dough,25
+P04_107_670,P04_107_54508.jpg,fold dough over chopstick,dough,25
+P04_107_671,P04_107_54560.jpg,tap dough,dough,25
+P04_107_672,P04_107_54594.jpg,press down on dough,dough,25
+P04_107_673,P04_107_54627.jpg,slide chopstick out of dough,dough,25
+P04_107_678,P04_107_54792.jpg,pick up dough,dough,25
+P04_107_679,P04_107_54853.jpg,lay down dough on greaseproof paper,dough,25
+P04_107_683,P04_107_55138.jpg,squeeze dough,dough,25
+P04_107_684,P04_107_55224.jpg,put dough on chopping board,dough,25
+P04_107_686,P04_107_55332.jpg,roll out dough,dough,25
+P04_107_688,P04_107_55530.jpg,turn over dough,dough,25
+P04_107_689,P04_107_55758.jpg,roll out dough,dough,25
+P04_107_690,P04_107_56123.jpg,take dough off rolling pin,dough,25
+P04_107_691,P04_107_56172.jpg,put down dough,dough,25
+P04_107_692,P04_107_56290.jpg,roll out dough,dough,25
+P04_107_693,P04_107_56472.jpg,straighten out dough,dough,25
+P04_107_694,P04_107_56594.jpg,lay down dough,dough,25
+P04_107_695,P04_107_56684.jpg,roll out dough,dough,25
+P04_107_696,P04_107_56796.jpg,turn over dough,dough,25
+P04_107_697,P04_107_56937.jpg,roll out dough,dough,25
+P04_107_698,P04_107_57069.jpg,straighten dough,dough,25
+P04_107_699,P04_107_57109.jpg,turn over dough,dough,25
+P04_107_700,P04_107_57189.jpg,roll out dough,dough,25
+P04_107_703,P04_107_57412.jpg,brush oil onto dough,dough,25
+P04_107_704,P04_107_57465.jpg,lift up dough,dough,25
+P04_107_705,P04_107_57490.jpg,lay down dough,dough,25
+P04_107_708,P04_107_57707.jpg,lay chopstick onto dough,dough,25
+P04_107_709,P04_107_57742.jpg,press down dough,dough,25
+P04_107_710,P04_107_57706.jpg,lift up dough,dough,25
+P04_107_711,P04_107_57805.jpg,slide dough off chopstick,dough,25
+P04_107_716,P04_107_58008.jpg,put dough on greaseproof paper,dough,25
+P04_107_723,P04_107_58341.jpg,spread out dough with hands,dough,25
+P04_107_723,P04_107_58341.jpg,spread out dough with hands,hand,11
+P04_107_724,P04_107_58348.jpg,turn over dough,dough,25
+P04_107_725,P04_107_58437.jpg,roll out dough with rolling pin,dough,25
+P04_107_726,P04_107_58539.jpg,turn over dough,dough,25
+P04_107_727,P04_107_58807.jpg,roll out dough,dough,25
+P04_107_729,P04_107_59075.jpg,pick up dough,dough,25
+P04_107_730,P04_107_59080.jpg,lay down dough,dough,25
+P04_107_731,P04_107_59263.jpg,roll out dough,dough,25
+P04_107_733,P04_107_59469.jpg,pick up dough,dough,25
+P04_107_734,P04_107_59539.jpg,lay down dough,dough,25
+P04_107_736,P04_107_59660.jpg,brush dough with oil,dough,25
+P04_107_739,P04_107_59846.jpg,put chopstick on dough,dough,25
+P04_107_740,P04_107_59839.jpg,fold dough over chopstick,dough,25
+P04_107_741,P04_107_59894.jpg,press down on dough,dough,25
+P04_107_743,P04_107_59939.jpg,hold dough,dough,25
+P04_107_744,P04_107_59966.jpg,slide chopstick out of dough,dough,25
+P04_107_748,P04_107_60153.jpg,put down dough,dough,25
+P04_107_751,P04_107_60470.jpg,pick up dough,dough,25
+P04_107_752,P04_107_60540.jpg,squeeze dough,dough,25
+P04_107_753,P04_107_60667.jpg,press dough into chopping board,dough,25
+P04_107_754,P04_107_60762.jpg,roll out dough,dough,25
+P04_107_755,P04_107_60954.jpg,peel dough off rolling pin,dough,25
+P04_107_756,P04_107_61017.jpg,roll out dough,dough,25
+P04_107_757,P04_107_61226.jpg,unfold dough,dough,25
+P04_107_758,P04_107_61312.jpg,roll out dough,dough,25
+P04_107_759,P04_107_61393.jpg,turn over dough,dough,25
+P04_107_760,P04_107_61324.jpg,roll out dough,dough,25
+P04_107_761,P04_107_61649.jpg,fold dough,dough,25
+P04_107_762,P04_107_61731.jpg,unfold dough,dough,25
+P04_107_763,P04_107_61781.jpg,turn over dough,dough,25
+P04_107_764,P04_107_61854.jpg,pick up dough,dough,25
+P04_107_765,P04_107_61879.jpg,lay out dough,dough,25
+P04_107_766,P04_107_61963.jpg,roll out dough,dough,25
+P04_107_767,P04_107_62039.jpg,feel dough,dough,25
+P04_107_769,P04_107_62137.jpg,brush dough with oil,dough,25
+P04_107_772,P04_107_62283.jpg,put chopstick on dough,dough,25
+P04_107_773,P04_107_62322.jpg,fold dough over chopstick,dough,25
+P04_107_774,P04_107_62355.jpg,press down dough,dough,25
+P04_107_776,P04_107_62441.jpg,hold dough,dough,25
+P04_107_777,P04_107_62452.jpg,rotate dough around chopstick,dough,25
+P04_107_778,P04_107_62482.jpg,lay down dough,dough,25
+P04_107_779,P04_107_62518.jpg,press dough,dough,25
+P04_107_780,P04_107_62498.jpg,remove chopstick from dough,dough,25
+P04_107_784,P04_107_62739.jpg,put dough on greaseproof paper,dough,25
+P04_107_785,P04_107_62931.jpg,pick up dough,dough,25
+P04_107_786,P04_107_62971.jpg,squeeze dough,dough,25
+P04_107_794,P04_107_63339.jpg,look at dough,dough,25
+P04_107_797,P04_107_63469.jpg,squeeze dough,dough,25
+P04_107_798,P04_107_63524.jpg,put down dough,dough,25
+P04_107_8,P04_107_726.jpg,stretch out dough,dough,25
+P04_107_800,P04_107_63648.jpg,roll out dough,dough,25
+P04_107_801,P04_107_63770.jpg,turn over dough,dough,25
+P04_107_802,P04_107_63902.jpg,roll out dough,dough,25
+P04_107_804,P04_107_64049.jpg,lay out dough,dough,25
+P04_107_805,P04_107_64115.jpg,roll dough,dough,25
+P04_107_806,P04_107_64205.jpg,unfold dough,dough,25
+P04_107_807,P04_107_64235.jpg,pull dough away from rolling pin,dough,25
+P04_107_808,P04_107_64247.jpg,turn over dough,dough,25
+P04_107_809,P04_107_64375.jpg,roll out dough,dough,25
+P04_107_811,P04_107_64474.jpg,turn over dough,dough,25
+P04_107_812,P04_107_64557.jpg,roll out dough,dough,25
+P04_107_815,P04_107_64850.jpg,turn over dough,dough,25
+P04_107_816,P04_107_64989.jpg,roll out dough,dough,25
+P04_107_817,P04_107_65104.jpg,lift up dough,dough,25
+P04_107_818,P04_107_65169.jpg,lay down dough,dough,25
+P04_107_821,P04_107_65278.jpg,brush dough with oil,dough,25
+P04_107_824,P04_107_65402.jpg,put chopstick on dough,dough,25
+P04_107_825,P04_107_65442.jpg,fold over dough,dough,25
+P04_107_826,P04_107_65504.jpg,tap dough,dough,25
+P04_107_828,P04_107_65484.jpg,hold dough,dough,25
+P04_107_829,P04_107_65516.jpg,slide chopstick out of dough,dough,25
+P04_107_833,P04_107_65659.jpg,put dough on greaseproof paper,dough,25
+P04_107_835,P04_107_65799.jpg,pick up dough,dough,25
+P04_107_836,P04_107_65863.jpg,switch dough to other hand,dough,25
+P04_107_837,P04_107_65895.jpg,squeeze dough,dough,25
+P04_107_838,P04_107_65932.jpg,squeeze dough,dough,25
+P04_107_839,P04_107_66049.jpg,press dough into chopping board,dough,25
+P04_107_841,P04_107_66012.jpg,roll out dough,dough,25
+P04_107_842,P04_107_66139.jpg,peel dough off rolling pin,dough,25
+P04_107_843,P04_107_66154.jpg,lay down dough,dough,25
+P04_107_844,P04_107_66330.jpg,roll out dough,dough,25
+P04_107_845,P04_107_66525.jpg,flip over dough,dough,25
+P04_107_846,P04_107_66613.jpg,roll out dough,dough,25
+P04_107_847,P04_107_66682.jpg,pat dough,dough,25
+P04_107_850,P04_107_66773.jpg,brush dough with oil,dough,25
+P04_107_853,P04_107_66971.jpg,put chopstick on dough,dough,25
+P04_107_854,P04_107_67022.jpg,fold dough over chopstick,dough,25
+P04_107_857,P04_107_67169.jpg,hold onto dough,dough,25
+P04_107_858,P04_107_67230.jpg,roll dough around chopstick,dough,25
+P04_107_859,P04_107_67336.jpg,lay dough on hand,dough,25
+P04_107_859,P04_107_67336.jpg,lay dough on hand,hand,11
+P04_107_860,P04_107_67321.jpg,slide chopstick out of dough,dough,25
+P04_107_863,P04_107_67496.jpg,put dough on greaseproof paper,dough,25
+P04_107_864,P04_107_67628.jpg,move dough onto greaseproof paper,dough,25
+P04_107_865,P04_107_67771.jpg,pick up dough and greaseproof paper,dough,25
+P04_107_866,P04_107_67810.jpg,put down dough and greaseproof paper,dough,25
+P04_107_868,P04_107_67928.jpg,squeeze dough,dough,25
+P04_107_870,P04_107_67932.jpg,squeeze dough,dough,25
+P04_107_871,P04_107_68097.jpg,press dough into chopping board,dough,25
+P04_107_873,P04_107_68217.jpg,roll out dough,dough,25
+P04_107_874,P04_107_68327.jpg,flip over dough,dough,25
+P04_107_875,P04_107_68443.jpg,roll out dough,dough,25
+P04_107_876,P04_107_68567.jpg,peel dough off chopping board,dough,25
+P04_107_878,P04_107_68813.jpg,lay down dough,dough,25
+P04_107_880,P04_107_68992.jpg,roll out dough,dough,25
+P04_107_881,P04_107_69178.jpg,turn over dough,dough,25
+P04_107_882,P04_107_69333.jpg,roll out dough,dough,25
+P04_107_883,P04_107_69414.jpg,peel dough off rolling pin,dough,25
+P04_107_886,P04_107_69629.jpg,brush dough,dough,25
+P04_107_890,P04_107_69831.jpg,fold dough over chopstick,dough,25
+P04_107_891,P04_107_69863.jpg,press down on dough,dough,25
+P04_107_892,P04_107_69921.jpg,pick up dough and chopstick,dough,25
+P04_107_893,P04_107_69963.jpg,slide dough off chopstick,dough,25
+P04_107_897,P04_107_70134.jpg,put dough on greaseproof paper,dough,25
+P04_107_899,P04_107_70271.jpg,pick up dough and greaseproof paper,dough,25
+P04_107_9,P04_107_1004.jpg,tear dough,dough,25
+P04_107_900,P04_107_70326.jpg,put down dough on greaseproof paper,dough,25
+P04_107_901,P04_107_70507.jpg,open drawer,drawer,8
+P04_107_903,P04_107_70658.jpg,close drawer,drawer,8
+P04_107_918,P04_107_71801.jpg,pick up spoon,spoon,1
+P04_107_922,P04_107_72083.jpg,close cupboard,cupboard,3
+P04_107_923,P04_107_72257.jpg,cut into pork belly with spoon,spoon,1
+P04_107_934,P04_107_73779.jpg,put down spoon,spoon,1

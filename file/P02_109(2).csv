@@ -1,0 +1,91 @@
+narration_id,stop_frame,narration,all_nouns,all_noun_classes
+P02_109_0,P02_109_190.jpg,pick up chopping board and knife,knife,4
+P02_109_1,P02_109_316.jpg,put down knife,knife,4
+P02_109_10,P02_109_1636.jpg,pick up onion,onion,16
+P02_109_100,P02_109_24972.jpg,put down knife,knife,4
+P02_109_101,P02_109_25050.jpg,hold pan,pan,5
+P02_109_102,P02_109_25577.jpg,stir onion in pan using wooden spoon,onion,16
+P02_109_102,P02_109_25577.jpg,stir onion in pan using wooden spoon,pan,5
+P02_109_103,P02_109_26088.jpg,leave wooden spoon in pan,pan,5
+P02_109_104,P02_109_26126.jpg,pick up knife,knife,4
+P02_109_105,P02_109_26667.jpg,slice through meat,meat,28
+P02_109_106,P02_109_27161.jpg,put down knife,knife,4
+P02_109_107,P02_109_27906.jpg,stir onion in pan using wooden spoon,onion,16
+P02_109_107,P02_109_27906.jpg,stir onion in pan using wooden spoon,pan,5
+P02_109_109,P02_109_29426.jpg,hold pan,pan,5
+P02_109_110,P02_109_29717.jpg,stir onions using wooden spoon,onion,16
+P02_109_12,P02_109_2546.jpg,pick up onion,onion,16
+P02_109_13,P02_109_2746.jpg,put down onions,onion,16
+P02_109_133,P02_109_31545.jpg,hold pan,pan,5
+P02_109_134,P02_109_31674.jpg,stir onion and garlic in pan using wooden spoon,onion,16
+P02_109_134,P02_109_31674.jpg,stir onion and garlic in pan using wooden spoon,pan,5
+P02_109_135,P02_109_31875.jpg,take meat from packaging,meat,28
+P02_109_136,P02_109_32012.jpg,distribute meat in pan,meat,28
+P02_109_136,P02_109_32012.jpg,distribute meat in pan,pan,5
+P02_109_137,P02_109_32128.jpg,take meat from packaging,meat,28
+P02_109_138,P02_109_32240.jpg,distribute meat in pan,meat,28
+P02_109_138,P02_109_32240.jpg,distribute meat in pan,pan,5
+P02_109_139,P02_109_32383.jpg,take meat,meat,28
+P02_109_14,P02_109_2951.jpg,get knife from stand,knife,4
+P02_109_140,P02_109_32504.jpg,distribute meat,meat,28
+P02_109_141,P02_109_32633.jpg,take meat,meat,28
+P02_109_142,P02_109_32791.jpg,distribute meat,meat,28
+P02_109_143,P02_109_32938.jpg,take meat,meat,28
+P02_109_144,P02_109_33001.jpg,distribute meat,meat,28
+P02_109_145,P02_109_33089.jpg,take meat,meat,28
+P02_109_146,P02_109_33184.jpg,distribute meat,meat,28
+P02_109_148,P02_109_33350.jpg,hold pan,pan,5
+P02_109_149,P02_109_33575.jpg,break meat using wooden spoon in pan,meat,28
+P02_109_149,P02_109_33575.jpg,break meat using wooden spoon in pan,pan,5
+P02_109_15,P02_109_3246.jpg,cut onion,onion,16
+P02_109_151,P02_109_33893.jpg,break meat using wooden spoon in pan,meat,28
+P02_109_151,P02_109_33893.jpg,break meat using wooden spoon in pan,pan,5
+P02_109_152,P02_109_36252.jpg,turn meat in pan,meat,28
+P02_109_152,P02_109_36252.jpg,turn meat in pan,pan,5
+P02_109_154,P02_109_39858.jpg,turn meat in pan,meat,28
+P02_109_154,P02_109_39858.jpg,turn meat in pan,pan,5
+P02_109_155,P02_109_41870.jpg,pick up lid,lid,6
+P02_109_156,P02_109_41949.jpg,cover pan with lid,pan,5
+P02_109_156,P02_109_41949.jpg,cover pan with lid,lid,6
+P02_109_16,P02_109_3343.jpg,cut onion,onion,16
+P02_109_166,P02_109_43018.jpg,open tap,tap,0
+P02_109_17,P02_109_3484.jpg,cut onion,onion,16
+P02_109_176,P02_109_44037.jpg,close tap,tap,0
+P02_109_18,P02_109_3759.jpg,cut onion,onion,16
+P02_109_181,P02_109_44839.jpg,open tap,tap,0
+P02_109_183,P02_109_44944.jpg,close tap,tap,0
+P02_109_184,P02_109_45071.jpg,dry hands using towel,hand,11
+P02_109_19,P02_109_4029.jpg,cut onion,onion,16
+P02_109_2,P02_109_391.jpg,open tap,tap,0
+P02_109_20,P02_109_4240.jpg,peel onion,onion,16
+P02_109_26,P02_109_4987.jpg,peel onion,onion,16
+P02_109_28,P02_109_5237.jpg,peel onion,onion,16
+P02_109_32,P02_109_5815.jpg,peel onion,onion,16
+P02_109_34,P02_109_6457.jpg,peel onion,onion,16
+P02_109_36,P02_109_6978.jpg,peel onion,onion,16
+P02_109_37,P02_109_7239.jpg,peel onion,onion,16
+P02_109_39,P02_109_7695.jpg,peel onion,onion,16
+P02_109_45,P02_109_12582.jpg,chop onion,onion,16
+P02_109_46,P02_109_16088.jpg,put down knife,knife,4
+P02_109_47,P02_109_16291.jpg,open cupboard,cupboard,3
+P02_109_48,P02_109_16586.jpg,pick up pan,pan,5
+P02_109_49,P02_109_16691.jpg,put pan on stove,pan,5
+P02_109_50,P02_109_16787.jpg,close cupboards,cupboard,3
+P02_109_53,P02_109_16995.jpg,open cupboard,cupboard,3
+P02_109_55,P02_109_17108.jpg,close cupboard,cupboard,3
+P02_109_59,P02_109_17362.jpg,pour oil from bottle onto pan,pan,5
+P02_109_6,P02_109_881.jpg,close tap,tap,0
+P02_109_63,P02_109_17921.jpg,open fridge,fridge,12
+P02_109_64,P02_109_17999.jpg,pick up meat,meat,28
+P02_109_66,P02_109_18588.jpg,put down meat,meat,28
+P02_109_7,P02_109_1051.jpg,dry hands with towel,hand,11
+P02_109_70,P02_109_19135.jpg,pick up chopping board and knife,knife,4
+P02_109_74,P02_109_19671.jpg,slide onion from chopping board onto pan,onion,16
+P02_109_74,P02_109_19671.jpg,slide onion from chopping board onto pan,pan,5
+P02_109_78,P02_109_20234.jpg,open drawer,drawer,8
+P02_109_81,P02_109_20521.jpg,close drawer,drawer,8
+P02_109_83,P02_109_20652.jpg,hold pan,pan,5
+P02_109_84,P02_109_21617.jpg,stir onion in pan using wooden spoon,onion,16
+P02_109_84,P02_109_21617.jpg,stir onion in pan using wooden spoon,pan,5
+P02_109_90,P02_109_23052.jpg,pick up knife,knife,4
+P02_109_95,P02_109_23656.jpg,pick up knife,knife,4

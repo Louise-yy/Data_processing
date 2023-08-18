@@ -1,0 +1,271 @@
+narration_id,stop_frame,narration,all_nouns,all_noun_classes
+P02_129_1,280,put down lid,lid,6
+P02_129_103,11155,pour water from kettle into pan,pan,5
+P02_129_106,11736,pick up lid,lid,6
+P02_129_107,11795,cover pan using lid,pan,5
+P02_129_107,11795,cover pan using lid,lid,6
+P02_129_109,12062,open cupboard,cupboard,3
+P02_129_110,12156,put spaghetti bag in cupboard,cupboard,3
+P02_129_112,12315,put olive oil in cupboard,cupboard,3
+P02_129_114,12465,put vegetable oil bottle in cupboard,cupboard,3
+P02_129_116,12726,put spice jar in cupboard,cupboard,3
+P02_129_118,12974,put spice jar in cupboard,cupboard,3
+P02_129_12,1170,pick up pan from drainer,pan,5
+P02_129_120,13288,put flour bag in cupboard,cupboard,3
+P02_129_121,13487,close cupboard,cupboard,3
+P02_129_122,13664,lift lid,lid,6
+P02_129_123,13738,cover lid,lid,6
+P02_129_124,13963,pick up plates from drainer,plate,2
+P02_129_125,14091,open cupboard,cupboard,3
+P02_129_126,14164,put plates in cupboard,plate,2
+P02_129_126,14164,put plates in cupboard,cupboard,3
+P02_129_128,14470,open fridge,fridge,12
+P02_129_129,14537,put tomato box in fridge,fridge,12
+P02_129_13,1306,put pan on hob,pan,5
+P02_129_130,14595,close fridge,fridge,12
+P02_129_135,15022,adjust lid,lid,6
+P02_129_136,15093,pick up pan,pan,5
+P02_129_137,15148,open cupboard,cupboard,3
+P02_129_138,15319,put pan in cupboard,pan,5
+P02_129_138,15319,put pan in cupboard,cupboard,3
+P02_129_139,15501,close cupboard,cupboard,3
+P02_129_14,1391,move pan,pan,5
+P02_129_140,15751,open fridge,fridge,12
+P02_129_142,15872,close fridge,fridge,12
+P02_129_145,16105,open drawer,drawer,8
+P02_129_146,16157,pick up spoon,spoon,1
+P02_129_149,16516,put down lid,lid,6
+P02_129_15,1473,open cupboard,cupboard,3
+P02_129_154,16997,put down spoon,spoon,1
+P02_129_156,17115,put down lid,lid,6
+P02_129_157,17144,pick up spoon,spoon,1
+P02_129_158,17196,scoop pesto sauce from jar using spoon,spoon,1
+P02_129_159,17283,pour pesto sauce from spoon into pan,spoon,1
+P02_129_159,17283,pour pesto sauce from spoon into pan,pan,5
+P02_129_160,17564,stir sauce in pan,pan,5
+P02_129_161,17816,put down spoon,spoon,1
+P02_129_162,17861,pick up lid,lid,6
+P02_129_164,18111,open fridge,fridge,12
+P02_129_165,18130,put pesto sauce jar in fridge,fridge,12
+P02_129_166,18253,close fridge,fridge,12
+P02_129_167,18403,open tap,tap,0
+P02_129_168,18465,rinse hand,hand,11
+P02_129_169,18540,close tap,tap,0
+P02_129_17,1637,close cupboard,cupboard,3
+P02_129_170,18580,dry hands using towel,hand,11
+P02_129_171,18648,pick up spoon,spoon,1
+P02_129_172,18956,stir sauce in pan,pan,5
+P02_129_173,19229,put down spoon,spoon,1
+P02_129_176,19486,open cupboard,cupboard,3
+P02_129_177,19611,put cake mould in cupboard,cupboard,3
+P02_129_178,19738,close cupboard,cupboard,3
+P02_129_179,19873,pick up glasses from drainer,glass,10
+P02_129_180,19952,open cupboard,cupboard,3
+P02_129_181,20000,put glasses in cupboard,glass,10
+P02_129_181,20000,put glasses in cupboard,cupboard,3
+P02_129_182,20080,pick up glass from drainer,glass,10
+P02_129_183,20135,put glass in cupboard,glass,10
+P02_129_183,20135,put glass in cupboard,cupboard,3
+P02_129_193,21306,open cupboard,cupboard,3
+P02_129_194,21370,put mug in cupboard,cupboard,3
+P02_129_195,21411,close cupboard,cupboard,3
+P02_129_196,21492,pick up plates from drainer,plate,2
+P02_129_197,21610,put plate in cupboard,plate,2
+P02_129_197,21610,put plate in cupboard,cupboard,3
+P02_129_198,21686,put plate in cupboard,plate,2
+P02_129_198,21686,put plate in cupboard,cupboard,3
+P02_129_199,21825,pick up spoon,spoon,1
+P02_129_2,316,pick up pan,pan,5
+P02_129_200,22069,stir sauce in pan,pan,5
+P02_129_201,22323,put down spoon,spoon,1
+P02_129_203,22576,open drawer,drawer,8
+P02_129_204,22639,put spoon in drawer,spoon,1
+P02_129_204,22639,put spoon in drawer,drawer,8
+P02_129_205,22677,put knife in drawer,knife,4
+P02_129_205,22677,put knife in drawer,drawer,8
+P02_129_206,22723,close drawer,drawer,8
+P02_129_21,2015,put spaghetti into pan,pan,5
+P02_129_210,23235,pick up sponge,sponge,9
+P02_129_211,23278,open tap,tap,0
+P02_129_212,23323,rinse sponge,sponge,9
+P02_129_213,23341,close tap,tap,0
+P02_129_214,23382,squeeze sponge,sponge,9
+P02_129_216,23445,pour washing liquid from bottle onto sponge,sponge,9
+P02_129_218,23542,pick up spoon from sink,spoon,1
+P02_129_219,23624,sponge spoon,spoon,1
+P02_129_220,23699,put down sponge,sponge,9
+P02_129_221,23739,open tap,tap,0
+P02_129_222,23838,rinse spoon,spoon,1
+P02_129_223,23915,close tap,tap,0
+P02_129_224,23966,put down spoon,spoon,1
+P02_129_225,23990,pick up plate from sink,plate,2
+P02_129_226,24016,pick up sponge,sponge,9
+P02_129_227,24110,sponge plate,plate,2
+P02_129_228,24214,put down sponge,sponge,9
+P02_129_229,24237,open tap,tap,0
+P02_129_230,24383,rinse plate,plate,2
+P02_129_231,24513,close tap,tap,0
+P02_129_232,24573,put plate in drainer,plate,2
+P02_129_234,24610,pick up sponge,sponge,9
+P02_129_236,25071,put down sponge,sponge,9
+P02_129_237,25119,open tap,tap,0
+P02_129_239,25280,close tap,tap,0
+P02_129_241,25408,pick up sponge,sponge,9
+P02_129_243,25489,pour washing liquid from bottle onto sponge,sponge,9
+P02_129_245,25553,put down sponge,sponge,9
+P02_129_247,25732,pick up spoon,spoon,1
+P02_129_248,25995,stir sauce in pan,pan,5
+P02_129_250,26360,put down spoon,spoon,1
+P02_129_253,26804,pick up sponge,sponge,9
+P02_129_254,26812,pick up knife from sink,knife,4
+P02_129_255,26901,sponge knife,knife,4
+P02_129_256,26984,pick up knife from sink,knife,4
+P02_129_257,27064,sponge knife,knife,4
+P02_129_258,27159,pick up knife from sink,knife,4
+P02_129_259,27252,sponge knife,knife,4
+P02_129_26,2541,put spaghetti in pan,pan,5
+P02_129_260,27333,pick up knife from sink,knife,4
+P02_129_261,27416,sponge knife,knife,4
+P02_129_262,27529,pick up knife from top of chopping board,knife,4
+P02_129_263,27627,sponge knife,knife,4
+P02_129_264,27731,pick up knife from sink,knife,4
+P02_129_265,27863,sponge knife,knife,4
+P02_129_266,27966,put down sponge,sponge,9
+P02_129_267,28003,open tap,tap,0
+P02_129_268,28245,rinse knives,knife,4
+P02_129_269,28495,close tap,tap,0
+P02_129_270,28615,put knives in drainer,knife,4
+P02_129_271,28693,pick up sponge,sponge,9
+P02_129_274,29056,put down sponge,sponge,9
+P02_129_275,29101,open tap,tap,0
+P02_129_277,29281,close tap,tap,0
+P02_129_279,29370,pick up spoon,spoon,1
+P02_129_280,29375,pick up sponge,sponge,9
+P02_129_281,29466,sponge spoon,spoon,1
+P02_129_282,29555,pick up spoon from sink,spoon,1
+P02_129_283,29652,sponge spoon,spoon,1
+P02_129_284,29737,pick up spoon from sink,spoon,1
+P02_129_285,29751,sponge spoon,spoon,1
+P02_129_286,30073,pick up knife from sink,knife,4
+P02_129_287,30209,sponge knife,knife,4
+P02_129_288,30394,pick up fork from sink,fork,14
+P02_129_289,30579,sponge fork,fork,14
+P02_129_290,30672,put down sponge,sponge,9
+P02_129_291,30721,open tap,tap,0
+P02_129_292,30808,rinse fork,fork,14
+P02_129_293,30858,put fork in drainer,fork,14
+P02_129_294,30912,rinse knife,knife,4
+P02_129_295,30972,put knife in drainer,knife,4
+P02_129_296,31046,rinse spoon,spoon,1
+P02_129_297,31105,put spoon in drainer,spoon,1
+P02_129_298,31151,rinse spoon,spoon,1
+P02_129_299,31209,put spoon in drainer,spoon,1
+P02_129_3,361,put down pan,pan,5
+P02_129_30,3194,pick up knife from drainer,knife,4
+P02_129_300,31250,rinse spoon,spoon,1
+P02_129_301,31297,close tap,tap,0
+P02_129_302,31349,put spoon in drainer,spoon,1
+P02_129_305,32113,pick up sponge,sponge,9
+P02_129_307,32421,put down sponge,sponge,9
+P02_129_308,32465,open tap,tap,0
+P02_129_310,32680,close tap,tap,0
+P02_129_312,32799,pick up spoon from sink,spoon,1
+P02_129_313,32851,pick up sponge,sponge,9
+P02_129_314,32952,sponge spoon,spoon,1
+P02_129_315,33051,pick up fork from sink,fork,14
+P02_129_316,33141,sponge fork,fork,14
+P02_129_317,33208,pick up spoon from sink,spoon,1
+P02_129_318,33288,sponge spoon,spoon,1
+P02_129_319,33367,put down sponge,sponge,9
+P02_129_32,4116,put down knife,knife,4
+P02_129_320,33416,open tap,tap,0
+P02_129_321,33476,rinse spoon,spoon,1
+P02_129_322,33544,put spoon in drainer,spoon,1
+P02_129_323,33592,rinse fork,fork,14
+P02_129_324,33650,put fork in drainer,fork,14
+P02_129_325,33650,rinse spoon,spoon,1
+P02_129_326,33687,close tap,tap,0
+P02_129_327,33724,put spoon in drainer,spoon,1
+P02_129_328,33756,pick up sponge,sponge,9
+P02_129_330,33831,pour washing liquid from bottle onto sponge,sponge,9
+P02_129_332,33955,pick up spoon from sink,spoon,1
+P02_129_333,34075,sponge spoon,spoon,1
+P02_129_334,34156,pick up spoon from sink,spoon,1
+P02_129_335,34259,sponge spoon,spoon,1
+P02_129_336,34338,pick up spoon from sink,spoon,1
+P02_129_337,34461,sponge spoon,spoon,1
+P02_129_338,34707,put down sponge,sponge,9
+P02_129_339,34748,open tap,tap,0
+P02_129_340,34876,rinse spoons,spoon,1
+P02_129_341,34986,close tap,tap,0
+P02_129_342,35058,put spoons in drainer,spoon,1
+P02_129_345,35286,pick up spoon,spoon,1
+P02_129_346,35580,stir sauce in pan,pan,5
+P02_129_347,35874,put down spoon,spoon,1
+P02_129_351,36320,open tap,tap,0
+P02_129_357,37186,close tap,tap,0
+P02_129_36,4569,open drawer,drawer,8
+P02_129_368,38868,clean sink using sponge,sponge,9
+P02_129_375,39745,open tap,tap,0
+P02_129_377,39993,close tap,tap,0
+P02_129_380,40240,pick up spoon,spoon,1
+P02_129_381,40544,stir sauce in pan,pan,5
+P02_129_382,40870,put down spoon,spoon,1
+P02_129_383,41016,open cupboard,cupboard,3
+P02_129_384,41227,open cupboard,cupboard,3
+P02_129_387,41524,close cupboard,cupboard,3
+P02_129_391,42202,open cupboard,cupboard,3
+P02_129_392,42278,open cupboard,cupboard,3
+P02_129_394,42545,close cupboard,cupboard,3
+P02_129_395,42682,close cupboard,cupboard,3
+P02_129_406,43930,open cupboard,cupboard,3
+P02_129_408,44025,close cupboard,cupboard,3
+P02_129_42,4933,pick up knife,knife,4
+P02_129_43,5008,slide garlic from presser into pan using knife,pan,5
+P02_129_43,5008,slide garlic from presser into pan using knife,knife,4
+P02_129_447,49084,pick up spoon,spoon,1
+P02_129_448,49231,stir sauce in pan,pan,5
+P02_129_449,49383,put down spoon,spoon,1
+P02_129_459,50933,open cupboard,cupboard,3
+P02_129_460,51035,pick up plate,plate,2
+P02_129_461,51172,put down plate,plate,2
+P02_129_462,51415,open fridge,fridge,12
+P02_129_464,51513,close fridge,fridge,12
+P02_129_465,51562,open drawer,drawer,8
+P02_129_466,51621,pick up fork,fork,14
+P02_129_469,51904,pick up pan,pan,5
+P02_129_47,5220,slide garlic into pan using knife,pan,5
+P02_129_47,5220,slide garlic into pan using knife,knife,4
+P02_129_470,52111,pour pasta and tomatoes from pan into plate,pan,5
+P02_129_470,52111,pour pasta and tomatoes from pan into plate,plate,2
+P02_129_471,52580,put pan in sink,pan,5
+P02_129_472,52643,put fork in plate,fork,14
+P02_129_472,52643,put fork in plate,plate,2
+P02_129_473,52710,open cupboard,cupboard,3
+P02_129_475,52803,close cupboard,cupboard,3
+P02_129_48,5318,slide knife on side of pan,knife,4
+P02_129_49,5412,put down knife,knife,4
+P02_129_491,55298,open fridge,fridge,12
+P02_129_492,55326,put parmesan cheese in fridge,fridge,12
+P02_129_493,55356,close fridge,fridge,12
+P02_129_494,55557,pick up plate,plate,2
+P02_129_53,5759,pour olive oil from bottle into pan,pan,5
+P02_129_56,6155,open fridge,fridge,12
+P02_129_58,6375,close fridge,fridge,12
+P02_129_6,565,open tap,tap,0
+P02_129_66,7236,put cherry tomato in hand,hand,11
+P02_129_68,7315,put cherry tomato in hand,hand,11
+P02_129_69,7452,open tap,tap,0
+P02_129_71,7689,close tap,tap,0
+P02_129_72,7801,shake hands,hand,11
+P02_129_74,8125,pick up knife,knife,4
+P02_129_8,831,close tap,tap,0
+P02_129_83,9391,slide cherry tomato halves from chopping board into pan using knife,pan,5
+P02_129_83,9391,slide cherry tomato halves from chopping board into pan using knife,knife,4
+P02_129_85,9536,put down knife,knife,4
+P02_129_88,9918,pour salt into pan,pan,5
+P02_129_90,10074,pour spice from jar into lid,lid,6
+P02_129_96,10478,pour spice from jar into lid,lid,6
+P02_129_97,10590,return some spice from lid into jar,lid,6
+P02_129_98,10675,pour spice from lid into pan,lid,6
+P02_129_98,10675,pour spice from lid into pan,pan,5

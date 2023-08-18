@@ -1,0 +1,271 @@
+narration_id,stop_frame,narration,all_nouns,all_noun_classes
+P02_129_1,P02_129_280.jpg,put down lid,lid,6
+P02_129_103,P02_129_11155.jpg,pour water from kettle into pan,pan,5
+P02_129_106,P02_129_11736.jpg,pick up lid,lid,6
+P02_129_107,P02_129_11795.jpg,cover pan using lid,pan,5
+P02_129_107,P02_129_11795.jpg,cover pan using lid,lid,6
+P02_129_109,P02_129_12062.jpg,open cupboard,cupboard,3
+P02_129_110,P02_129_12156.jpg,put spaghetti bag in cupboard,cupboard,3
+P02_129_112,P02_129_12315.jpg,put olive oil in cupboard,cupboard,3
+P02_129_114,P02_129_12465.jpg,put vegetable oil bottle in cupboard,cupboard,3
+P02_129_116,P02_129_12726.jpg,put spice jar in cupboard,cupboard,3
+P02_129_118,P02_129_12974.jpg,put spice jar in cupboard,cupboard,3
+P02_129_12,P02_129_1170.jpg,pick up pan from drainer,pan,5
+P02_129_120,P02_129_13288.jpg,put flour bag in cupboard,cupboard,3
+P02_129_121,P02_129_13487.jpg,close cupboard,cupboard,3
+P02_129_122,P02_129_13664.jpg,lift lid,lid,6
+P02_129_123,P02_129_13738.jpg,cover lid,lid,6
+P02_129_124,P02_129_13963.jpg,pick up plates from drainer,plate,2
+P02_129_125,P02_129_14091.jpg,open cupboard,cupboard,3
+P02_129_126,P02_129_14164.jpg,put plates in cupboard,plate,2
+P02_129_126,P02_129_14164.jpg,put plates in cupboard,cupboard,3
+P02_129_128,P02_129_14470.jpg,open fridge,fridge,12
+P02_129_129,P02_129_14537.jpg,put tomato box in fridge,fridge,12
+P02_129_13,P02_129_1306.jpg,put pan on hob,pan,5
+P02_129_130,P02_129_14595.jpg,close fridge,fridge,12
+P02_129_135,P02_129_15022.jpg,adjust lid,lid,6
+P02_129_136,P02_129_15093.jpg,pick up pan,pan,5
+P02_129_137,P02_129_15148.jpg,open cupboard,cupboard,3
+P02_129_138,P02_129_15319.jpg,put pan in cupboard,pan,5
+P02_129_138,P02_129_15319.jpg,put pan in cupboard,cupboard,3
+P02_129_139,P02_129_15501.jpg,close cupboard,cupboard,3
+P02_129_14,P02_129_1391.jpg,move pan,pan,5
+P02_129_140,P02_129_15751.jpg,open fridge,fridge,12
+P02_129_142,P02_129_15872.jpg,close fridge,fridge,12
+P02_129_145,P02_129_16105.jpg,open drawer,drawer,8
+P02_129_146,P02_129_16157.jpg,pick up spoon,spoon,1
+P02_129_149,P02_129_16516.jpg,put down lid,lid,6
+P02_129_15,P02_129_1473.jpg,open cupboard,cupboard,3
+P02_129_154,P02_129_16997.jpg,put down spoon,spoon,1
+P02_129_156,P02_129_17115.jpg,put down lid,lid,6
+P02_129_157,P02_129_17144.jpg,pick up spoon,spoon,1
+P02_129_158,P02_129_17196.jpg,scoop pesto sauce from jar using spoon,spoon,1
+P02_129_159,P02_129_17283.jpg,pour pesto sauce from spoon into pan,spoon,1
+P02_129_159,P02_129_17283.jpg,pour pesto sauce from spoon into pan,pan,5
+P02_129_160,P02_129_17564.jpg,stir sauce in pan,pan,5
+P02_129_161,P02_129_17816.jpg,put down spoon,spoon,1
+P02_129_162,P02_129_17861.jpg,pick up lid,lid,6
+P02_129_164,P02_129_18111.jpg,open fridge,fridge,12
+P02_129_165,P02_129_18130.jpg,put pesto sauce jar in fridge,fridge,12
+P02_129_166,P02_129_18253.jpg,close fridge,fridge,12
+P02_129_167,P02_129_18403.jpg,open tap,tap,0
+P02_129_168,P02_129_18465.jpg,rinse hand,hand,11
+P02_129_169,P02_129_18540.jpg,close tap,tap,0
+P02_129_17,P02_129_1637.jpg,close cupboard,cupboard,3
+P02_129_170,P02_129_18580.jpg,dry hands using towel,hand,11
+P02_129_171,P02_129_18648.jpg,pick up spoon,spoon,1
+P02_129_172,P02_129_18956.jpg,stir sauce in pan,pan,5
+P02_129_173,P02_129_19229.jpg,put down spoon,spoon,1
+P02_129_176,P02_129_19486.jpg,open cupboard,cupboard,3
+P02_129_177,P02_129_19611.jpg,put cake mould in cupboard,cupboard,3
+P02_129_178,P02_129_19738.jpg,close cupboard,cupboard,3
+P02_129_179,P02_129_19873.jpg,pick up glasses from drainer,glass,10
+P02_129_180,P02_129_19952.jpg,open cupboard,cupboard,3
+P02_129_181,P02_129_20000.jpg,put glasses in cupboard,glass,10
+P02_129_181,P02_129_20000.jpg,put glasses in cupboard,cupboard,3
+P02_129_182,P02_129_20080.jpg,pick up glass from drainer,glass,10
+P02_129_183,P02_129_20135.jpg,put glass in cupboard,glass,10
+P02_129_183,P02_129_20135.jpg,put glass in cupboard,cupboard,3
+P02_129_193,P02_129_21306.jpg,open cupboard,cupboard,3
+P02_129_194,P02_129_21370.jpg,put mug in cupboard,cupboard,3
+P02_129_195,P02_129_21411.jpg,close cupboard,cupboard,3
+P02_129_196,P02_129_21492.jpg,pick up plates from drainer,plate,2
+P02_129_197,P02_129_21610.jpg,put plate in cupboard,plate,2
+P02_129_197,P02_129_21610.jpg,put plate in cupboard,cupboard,3
+P02_129_198,P02_129_21686.jpg,put plate in cupboard,plate,2
+P02_129_198,P02_129_21686.jpg,put plate in cupboard,cupboard,3
+P02_129_199,P02_129_21825.jpg,pick up spoon,spoon,1
+P02_129_2,P02_129_316.jpg,pick up pan,pan,5
+P02_129_200,P02_129_22069.jpg,stir sauce in pan,pan,5
+P02_129_201,P02_129_22323.jpg,put down spoon,spoon,1
+P02_129_203,P02_129_22576.jpg,open drawer,drawer,8
+P02_129_204,P02_129_22639.jpg,put spoon in drawer,spoon,1
+P02_129_204,P02_129_22639.jpg,put spoon in drawer,drawer,8
+P02_129_205,P02_129_22677.jpg,put knife in drawer,knife,4
+P02_129_205,P02_129_22677.jpg,put knife in drawer,drawer,8
+P02_129_206,P02_129_22723.jpg,close drawer,drawer,8
+P02_129_21,P02_129_2015.jpg,put spaghetti into pan,pan,5
+P02_129_210,P02_129_23235.jpg,pick up sponge,sponge,9
+P02_129_211,P02_129_23278.jpg,open tap,tap,0
+P02_129_212,P02_129_23323.jpg,rinse sponge,sponge,9
+P02_129_213,P02_129_23341.jpg,close tap,tap,0
+P02_129_214,P02_129_23382.jpg,squeeze sponge,sponge,9
+P02_129_216,P02_129_23445.jpg,pour washing liquid from bottle onto sponge,sponge,9
+P02_129_218,P02_129_23542.jpg,pick up spoon from sink,spoon,1
+P02_129_219,P02_129_23624.jpg,sponge spoon,spoon,1
+P02_129_220,P02_129_23699.jpg,put down sponge,sponge,9
+P02_129_221,P02_129_23739.jpg,open tap,tap,0
+P02_129_222,P02_129_23838.jpg,rinse spoon,spoon,1
+P02_129_223,P02_129_23915.jpg,close tap,tap,0
+P02_129_224,P02_129_23966.jpg,put down spoon,spoon,1
+P02_129_225,P02_129_23990.jpg,pick up plate from sink,plate,2
+P02_129_226,P02_129_24016.jpg,pick up sponge,sponge,9
+P02_129_227,P02_129_24110.jpg,sponge plate,plate,2
+P02_129_228,P02_129_24214.jpg,put down sponge,sponge,9
+P02_129_229,P02_129_24237.jpg,open tap,tap,0
+P02_129_230,P02_129_24383.jpg,rinse plate,plate,2
+P02_129_231,P02_129_24513.jpg,close tap,tap,0
+P02_129_232,P02_129_24573.jpg,put plate in drainer,plate,2
+P02_129_234,P02_129_24610.jpg,pick up sponge,sponge,9
+P02_129_236,P02_129_25071.jpg,put down sponge,sponge,9
+P02_129_237,P02_129_25119.jpg,open tap,tap,0
+P02_129_239,P02_129_25280.jpg,close tap,tap,0
+P02_129_241,P02_129_25408.jpg,pick up sponge,sponge,9
+P02_129_243,P02_129_25489.jpg,pour washing liquid from bottle onto sponge,sponge,9
+P02_129_245,P02_129_25553.jpg,put down sponge,sponge,9
+P02_129_247,P02_129_25732.jpg,pick up spoon,spoon,1
+P02_129_248,P02_129_25995.jpg,stir sauce in pan,pan,5
+P02_129_250,P02_129_26360.jpg,put down spoon,spoon,1
+P02_129_253,P02_129_26804.jpg,pick up sponge,sponge,9
+P02_129_254,P02_129_26812.jpg,pick up knife from sink,knife,4
+P02_129_255,P02_129_26901.jpg,sponge knife,knife,4
+P02_129_256,P02_129_26984.jpg,pick up knife from sink,knife,4
+P02_129_257,P02_129_27064.jpg,sponge knife,knife,4
+P02_129_258,P02_129_27159.jpg,pick up knife from sink,knife,4
+P02_129_259,P02_129_27252.jpg,sponge knife,knife,4
+P02_129_26,P02_129_2541.jpg,put spaghetti in pan,pan,5
+P02_129_260,P02_129_27333.jpg,pick up knife from sink,knife,4
+P02_129_261,P02_129_27416.jpg,sponge knife,knife,4
+P02_129_262,P02_129_27529.jpg,pick up knife from top of chopping board,knife,4
+P02_129_263,P02_129_27627.jpg,sponge knife,knife,4
+P02_129_264,P02_129_27731.jpg,pick up knife from sink,knife,4
+P02_129_265,P02_129_27863.jpg,sponge knife,knife,4
+P02_129_266,P02_129_27966.jpg,put down sponge,sponge,9
+P02_129_267,P02_129_28003.jpg,open tap,tap,0
+P02_129_268,P02_129_28245.jpg,rinse knives,knife,4
+P02_129_269,P02_129_28495.jpg,close tap,tap,0
+P02_129_270,P02_129_28615.jpg,put knives in drainer,knife,4
+P02_129_271,P02_129_28693.jpg,pick up sponge,sponge,9
+P02_129_274,P02_129_29056.jpg,put down sponge,sponge,9
+P02_129_275,P02_129_29101.jpg,open tap,tap,0
+P02_129_277,P02_129_29281.jpg,close tap,tap,0
+P02_129_279,P02_129_29370.jpg,pick up spoon,spoon,1
+P02_129_280,P02_129_29375.jpg,pick up sponge,sponge,9
+P02_129_281,P02_129_29466.jpg,sponge spoon,spoon,1
+P02_129_282,P02_129_29555.jpg,pick up spoon from sink,spoon,1
+P02_129_283,P02_129_29652.jpg,sponge spoon,spoon,1
+P02_129_284,P02_129_29737.jpg,pick up spoon from sink,spoon,1
+P02_129_285,P02_129_29751.jpg,sponge spoon,spoon,1
+P02_129_286,P02_129_30073.jpg,pick up knife from sink,knife,4
+P02_129_287,P02_129_30209.jpg,sponge knife,knife,4
+P02_129_288,P02_129_30394.jpg,pick up fork from sink,fork,14
+P02_129_289,P02_129_30579.jpg,sponge fork,fork,14
+P02_129_290,P02_129_30672.jpg,put down sponge,sponge,9
+P02_129_291,P02_129_30721.jpg,open tap,tap,0
+P02_129_292,P02_129_30808.jpg,rinse fork,fork,14
+P02_129_293,P02_129_30858.jpg,put fork in drainer,fork,14
+P02_129_294,P02_129_30912.jpg,rinse knife,knife,4
+P02_129_295,P02_129_30972.jpg,put knife in drainer,knife,4
+P02_129_296,P02_129_31046.jpg,rinse spoon,spoon,1
+P02_129_297,P02_129_31105.jpg,put spoon in drainer,spoon,1
+P02_129_298,P02_129_31151.jpg,rinse spoon,spoon,1
+P02_129_299,P02_129_31209.jpg,put spoon in drainer,spoon,1
+P02_129_3,P02_129_361.jpg,put down pan,pan,5
+P02_129_30,P02_129_3194.jpg,pick up knife from drainer,knife,4
+P02_129_300,P02_129_31250.jpg,rinse spoon,spoon,1
+P02_129_301,P02_129_31297.jpg,close tap,tap,0
+P02_129_302,P02_129_31349.jpg,put spoon in drainer,spoon,1
+P02_129_305,P02_129_32113.jpg,pick up sponge,sponge,9
+P02_129_307,P02_129_32421.jpg,put down sponge,sponge,9
+P02_129_308,P02_129_32465.jpg,open tap,tap,0
+P02_129_310,P02_129_32680.jpg,close tap,tap,0
+P02_129_312,P02_129_32799.jpg,pick up spoon from sink,spoon,1
+P02_129_313,P02_129_32851.jpg,pick up sponge,sponge,9
+P02_129_314,P02_129_32952.jpg,sponge spoon,spoon,1
+P02_129_315,P02_129_33051.jpg,pick up fork from sink,fork,14
+P02_129_316,P02_129_33141.jpg,sponge fork,fork,14
+P02_129_317,P02_129_33208.jpg,pick up spoon from sink,spoon,1
+P02_129_318,P02_129_33288.jpg,sponge spoon,spoon,1
+P02_129_319,P02_129_33367.jpg,put down sponge,sponge,9
+P02_129_32,P02_129_4116.jpg,put down knife,knife,4
+P02_129_320,P02_129_33416.jpg,open tap,tap,0
+P02_129_321,P02_129_33476.jpg,rinse spoon,spoon,1
+P02_129_322,P02_129_33544.jpg,put spoon in drainer,spoon,1
+P02_129_323,P02_129_33592.jpg,rinse fork,fork,14
+P02_129_324,P02_129_33650.jpg,put fork in drainer,fork,14
+P02_129_325,P02_129_33650.jpg,rinse spoon,spoon,1
+P02_129_326,P02_129_33687.jpg,close tap,tap,0
+P02_129_327,P02_129_33724.jpg,put spoon in drainer,spoon,1
+P02_129_328,P02_129_33756.jpg,pick up sponge,sponge,9
+P02_129_330,P02_129_33831.jpg,pour washing liquid from bottle onto sponge,sponge,9
+P02_129_332,P02_129_33955.jpg,pick up spoon from sink,spoon,1
+P02_129_333,P02_129_34075.jpg,sponge spoon,spoon,1
+P02_129_334,P02_129_34156.jpg,pick up spoon from sink,spoon,1
+P02_129_335,P02_129_34259.jpg,sponge spoon,spoon,1
+P02_129_336,P02_129_34338.jpg,pick up spoon from sink,spoon,1
+P02_129_337,P02_129_34461.jpg,sponge spoon,spoon,1
+P02_129_338,P02_129_34707.jpg,put down sponge,sponge,9
+P02_129_339,P02_129_34748.jpg,open tap,tap,0
+P02_129_340,P02_129_34876.jpg,rinse spoons,spoon,1
+P02_129_341,P02_129_34986.jpg,close tap,tap,0
+P02_129_342,P02_129_35058.jpg,put spoons in drainer,spoon,1
+P02_129_345,P02_129_35286.jpg,pick up spoon,spoon,1
+P02_129_346,P02_129_35580.jpg,stir sauce in pan,pan,5
+P02_129_347,P02_129_35874.jpg,put down spoon,spoon,1
+P02_129_351,P02_129_36320.jpg,open tap,tap,0
+P02_129_357,P02_129_37186.jpg,close tap,tap,0
+P02_129_36,P02_129_4569.jpg,open drawer,drawer,8
+P02_129_368,P02_129_38868.jpg,clean sink using sponge,sponge,9
+P02_129_375,P02_129_39745.jpg,open tap,tap,0
+P02_129_377,P02_129_39993.jpg,close tap,tap,0
+P02_129_380,P02_129_40240.jpg,pick up spoon,spoon,1
+P02_129_381,P02_129_40544.jpg,stir sauce in pan,pan,5
+P02_129_382,P02_129_40870.jpg,put down spoon,spoon,1
+P02_129_383,P02_129_41016.jpg,open cupboard,cupboard,3
+P02_129_384,P02_129_41227.jpg,open cupboard,cupboard,3
+P02_129_387,P02_129_41524.jpg,close cupboard,cupboard,3
+P02_129_391,P02_129_42202.jpg,open cupboard,cupboard,3
+P02_129_392,P02_129_42278.jpg,open cupboard,cupboard,3
+P02_129_394,P02_129_42545.jpg,close cupboard,cupboard,3
+P02_129_395,P02_129_42682.jpg,close cupboard,cupboard,3
+P02_129_406,P02_129_43930.jpg,open cupboard,cupboard,3
+P02_129_408,P02_129_44025.jpg,close cupboard,cupboard,3
+P02_129_42,P02_129_4933.jpg,pick up knife,knife,4
+P02_129_43,P02_129_5008.jpg,slide garlic from presser into pan using knife,pan,5
+P02_129_43,P02_129_5008.jpg,slide garlic from presser into pan using knife,knife,4
+P02_129_447,P02_129_49084.jpg,pick up spoon,spoon,1
+P02_129_448,P02_129_49231.jpg,stir sauce in pan,pan,5
+P02_129_449,P02_129_49383.jpg,put down spoon,spoon,1
+P02_129_459,P02_129_50933.jpg,open cupboard,cupboard,3
+P02_129_460,P02_129_51035.jpg,pick up plate,plate,2
+P02_129_461,P02_129_51172.jpg,put down plate,plate,2
+P02_129_462,P02_129_51415.jpg,open fridge,fridge,12
+P02_129_464,P02_129_51513.jpg,close fridge,fridge,12
+P02_129_465,P02_129_51562.jpg,open drawer,drawer,8
+P02_129_466,P02_129_51621.jpg,pick up fork,fork,14
+P02_129_469,P02_129_51904.jpg,pick up pan,pan,5
+P02_129_47,P02_129_5220.jpg,slide garlic into pan using knife,pan,5
+P02_129_47,P02_129_5220.jpg,slide garlic into pan using knife,knife,4
+P02_129_470,P02_129_52111.jpg,pour pasta and tomatoes from pan into plate,pan,5
+P02_129_470,P02_129_52111.jpg,pour pasta and tomatoes from pan into plate,plate,2
+P02_129_471,P02_129_52580.jpg,put pan in sink,pan,5
+P02_129_472,P02_129_52643.jpg,put fork in plate,fork,14
+P02_129_472,P02_129_52643.jpg,put fork in plate,plate,2
+P02_129_473,P02_129_52710.jpg,open cupboard,cupboard,3
+P02_129_475,P02_129_52803.jpg,close cupboard,cupboard,3
+P02_129_48,P02_129_5318.jpg,slide knife on side of pan,knife,4
+P02_129_49,P02_129_5412.jpg,put down knife,knife,4
+P02_129_491,P02_129_55298.jpg,open fridge,fridge,12
+P02_129_492,P02_129_55326.jpg,put parmesan cheese in fridge,fridge,12
+P02_129_493,P02_129_55356.jpg,close fridge,fridge,12
+P02_129_494,P02_129_55557.jpg,pick up plate,plate,2
+P02_129_53,P02_129_5759.jpg,pour olive oil from bottle into pan,pan,5
+P02_129_56,P02_129_6155.jpg,open fridge,fridge,12
+P02_129_58,P02_129_6375.jpg,close fridge,fridge,12
+P02_129_6,P02_129_565.jpg,open tap,tap,0
+P02_129_66,P02_129_7236.jpg,put cherry tomato in hand,hand,11
+P02_129_68,P02_129_7315.jpg,put cherry tomato in hand,hand,11
+P02_129_69,P02_129_7452.jpg,open tap,tap,0
+P02_129_71,P02_129_7689.jpg,close tap,tap,0
+P02_129_72,P02_129_7801.jpg,shake hands,hand,11
+P02_129_74,P02_129_8125.jpg,pick up knife,knife,4
+P02_129_8,P02_129_831.jpg,close tap,tap,0
+P02_129_83,P02_129_9391.jpg,slide cherry tomato halves from chopping board into pan using knife,pan,5
+P02_129_83,P02_129_9391.jpg,slide cherry tomato halves from chopping board into pan using knife,knife,4
+P02_129_85,P02_129_9536.jpg,put down knife,knife,4
+P02_129_88,P02_129_9918.jpg,pour salt into pan,pan,5
+P02_129_90,P02_129_10074.jpg,pour spice from jar into lid,lid,6
+P02_129_96,P02_129_10478.jpg,pour spice from jar into lid,lid,6
+P02_129_97,P02_129_10590.jpg,return some spice from lid into jar,lid,6
+P02_129_98,P02_129_10675.jpg,pour spice from lid into pan,lid,6
+P02_129_98,P02_129_10675.jpg,pour spice from lid into pan,pan,5

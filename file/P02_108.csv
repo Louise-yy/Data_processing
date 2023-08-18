@@ -1,0 +1,250 @@
+narration_id,stop_frame,narration,all_nouns,all_noun_classes
+P02_108_103,11098,pick up glass,glass,10
+P02_108_104,11211,put down glass,glass,10
+P02_108_108,11734,pick up glass,glass,10
+P02_108_109,11843,put down glass next to sink,glass,10
+P02_108_110,11931,open cupboard,cupboard,3
+P02_108_111,12004,pick up glass,glass,10
+P02_108_112,12062,close cupboard,cupboard,3
+P02_108_113,12135,put down glass,glass,10
+P02_108_114,12241,rub hands,hand,11
+P02_108_116,12457,lock bowl into food processor,bowl,7
+P02_108_117,12619,lock lid into processor,lid,6
+P02_108_121,13194,close drawer,drawer,8
+P02_108_125,15425,pour hot water from kettle into glass,glass,10
+P02_108_126,15619,pick up glass,glass,10
+P02_108_127,15733,pour more hot water into glass,glass,10
+P02_108_130,16263,pour cold water into glass,glass,10
+P02_108_132,16556,put down glass,glass,10
+P02_108_134,16703,pick up glass,glass,10
+P02_108_135,16916,pour some water from glass into sink,glass,10
+P02_108_138,17297,pour cold water into glass,glass,10
+P02_108_14,1804,open cupboard,cupboard,3
+P02_108_140,17573,put down glass,glass,10
+P02_108_142,17828,pick up glass,glass,10
+P02_108_143,18016,pour warm water from glass into sink,glass,10
+P02_108_144,18334,put down glass,glass,10
+P02_108_146,18590,pour cold water into glass from filter,glass,10
+P02_108_149,18941,open drawer,drawer,8
+P02_108_150,19047,pick up spoon,spoon,1
+P02_108_151,19093,close drawer,drawer,8
+P02_108_155,19701,pour oil from bottle into spoon,spoon,1
+P02_108_156,19785,pour oil from spoon into bowl,spoon,1
+P02_108_156,19785,pour oil from spoon into bowl,bowl,7
+P02_108_157,20044,pour oil from bottle into spoon,spoon,1
+P02_108_158,20084,pour oil from spoon into bowl,spoon,1
+P02_108_158,20084,pour oil from spoon into bowl,bowl,7
+P02_108_161,20328,pour water from glass into bowl,glass,10
+P02_108_161,20328,pour water from glass into bowl,bowl,7
+P02_108_162,20490,put down glass,glass,10
+P02_108_163,21358,mix mixture in bowl using spoon,bowl,7
+P02_108_163,21358,mix mixture in bowl using spoon,spoon,1
+P02_108_166,22782,mix mixture in bowl using spoon,bowl,7
+P02_108_166,22782,mix mixture in bowl using spoon,spoon,1
+P02_108_167,23231,clear spoon from any mixture,spoon,1
+P02_108_168,23349,put down spoon,spoon,1
+P02_108_169,23504,mix mixture using hand in bowl,hand,11
+P02_108_169,23504,mix mixture using hand in bowl,bowl,7
+P02_108_171,23827,pick some flour from bag using hand,hand,11
+P02_108_172,23982,pour flour from hand into bowl,hand,11
+P02_108_172,23982,pour flour from hand into bowl,bowl,7
+P02_108_173,24277,mix dough using hand,dough,25
+P02_108_173,24277,mix dough using hand,hand,11
+P02_108_174,24600,pick up flour from bag using hand,hand,11
+P02_108_175,24730,add flour from hand into bowl,hand,11
+P02_108_175,24730,add flour from hand into bowl,bowl,7
+P02_108_176,25772,mix dough,dough,25
+P02_108_179,27245,mix dough,dough,25
+P02_108_18,2243,put biscuit in cupboard,cupboard,3
+P02_108_180,27305,remove dough from bowl,dough,25
+P02_108_180,27305,remove dough from bowl,bowl,7
+P02_108_182,27543,pour oil from bottle into bowl,bowl,7
+P02_108_184,28350,shape dough using both hands,dough,25
+P02_108_184,28350,shape dough using both hands,hand,11
+P02_108_185,29399,put ball of dough inside bowl,bowl,7
+P02_108_186,29595,pick up dough using both hands,dough,25
+P02_108_186,29595,pick up dough using both hands,hand,11
+P02_108_187,30287,shape dough again using both hands,dough,25
+P02_108_187,30287,shape dough again using both hands,hand,11
+P02_108_188,31381,put ball of dough into bowl,bowl,7
+P02_108_189,32340,open tap,tap,0
+P02_108_190,32517,clean hands,hand,11
+P02_108_191,33349,close tap,tap,0
+P02_108_192,33492,dry hands using towel,hand,11
+P02_108_193,33745,open drawer,drawer,8
+P02_108_194,33802,close drawer,drawer,8
+P02_108_195,33860,open drawer,drawer,8
+P02_108_199,34071,cover dough using towel,dough,25
+P02_108_20,2432,put biscuits in cupboard,cupboard,3
+P02_108_201,34209,cover bowl using towel,bowl,7
+P02_108_203,34516,put down bowl,bowl,7
+P02_108_206,34842,pick up spoon and knife,spoon,1
+P02_108_206,34842,pick up spoon and knife,knife,4
+P02_108_208,35060,"put down spoon, knife and salt",spoon,1
+P02_108_208,35060,"put down spoon, knife and salt",knife,4
+P02_108_217,36178,open cupboard,cupboard,3
+P02_108_218,36259,put pot and strainer into cupboard,cupboard,3
+P02_108_219,36338,close cupboard,cupboard,3
+P02_108_22,2594,put biscuits in cupboard,cupboard,3
+P02_108_225,37076,empty pan from water,pan,5
+P02_108_226,37152,put down pan,pan,5
+P02_108_227,37796,open tap,tap,0
+P02_108_228,38155,close tap,tap,0
+P02_108_229,38190,pick up sponge,sponge,9
+P02_108_230,38237,put down sponge,sponge,9
+P02_108_232,38320,put washing liquid on sponge,sponge,9
+P02_108_234,38689,sponge pan,pan,5
+P02_108_235,39025,open tap,tap,0
+P02_108_236,39114,rinse sponge,sponge,9
+P02_108_237,39262,squeeze sponge,sponge,9
+P02_108_238,39359,put down sponge,sponge,9
+P02_108_239,39582,rinse pan,pan,5
+P02_108_24,2745,put biscuits in cupboard,cupboard,3
+P02_108_240,39803,close tap,tap,0
+P02_108_241,39858,pick up sponge,sponge,9
+P02_108_243,39977,pour washing liquid onto sponge,sponge,9
+P02_108_245,40299,sponge pan,pan,5
+P02_108_246,40615,put down sponge,sponge,9
+P02_108_247,40666,open tap,tap,0
+P02_108_248,41298,close tap,tap,0
+P02_108_249,41423,put down pan,pan,5
+P02_108_254,42394,open tap,tap,0
+P02_108_256,42814,close tap,tap,0
+P02_108_26,2905,put biscuits in cupboard,cupboard,3
+P02_108_262,43324,pick up sponge,sponge,9
+P02_108_263,43356,open tap,tap,0
+P02_108_264,43390,rinse sponge,sponge,9
+P02_108_265,43418,close tap,tap,0
+P02_108_266,43446,squeeze sponge,sponge,9
+P02_108_269,43745,put down sponge,sponge,9
+P02_108_270,43784,open tap,tap,0
+P02_108_272,44141,close tap,tap,0
+P02_108_274,44224,pick up spoon,spoon,1
+P02_108_275,44272,pick up sponge,sponge,9
+P02_108_276,44332,sponge spoon,spoon,1
+P02_108_277,44381,put down sponge,sponge,9
+P02_108_278,44438,open tap,tap,0
+P02_108_279,44508,rinse spoon,spoon,1
+P02_108_28,3042,put tin in cupboard,cupboard,3
+P02_108_280,44577,close tap,tap,0
+P02_108_281,44615,put down spoon,spoon,1
+P02_108_282,44665,pick up glass,glass,10
+P02_108_283,44703,open tap,tap,0
+P02_108_284,44757,rinse glass,glass,10
+P02_108_285,44757,close tap,tap,0
+P02_108_286,44805,pick up sponge,sponge,9
+P02_108_287,45017,sponge glass,glass,10
+P02_108_288,45226,put down sponge,sponge,9
+P02_108_289,45266,open tap,tap,0
+P02_108_29,3106,close cupboard,cupboard,3
+P02_108_290,45399,rinse glass,glass,10
+P02_108_291,45526,close tap,tap,0
+P02_108_293,45763,pick up knife and spoon,knife,4
+P02_108_293,45763,pick up knife and spoon,spoon,1
+P02_108_294,45802,pick up sponge,sponge,9
+P02_108_295,45902,sponge spoon,spoon,1
+P02_108_296,46183,sponge knife,knife,4
+P02_108_297,46340,put down sponge,sponge,9
+P02_108_298,46374,open tap,tap,0
+P02_108_299,46441,rinse knife,knife,4
+P02_108_300,46500,put down knife,knife,4
+P02_108_301,46511,rinse spoon,spoon,1
+P02_108_303,46795,close tap,tap,0
+P02_108_304,46886,put down spoon,spoon,1
+P02_108_306,47108,shake hands,hand,11
+P02_108_308,47444,pick up sponge,sponge,9
+P02_108_310,47770,open tap,tap,0
+P02_108_311,47747,rinse sponge,sponge,9
+P02_108_312,47821,close tap,tap,0
+P02_108_313,47869,squeeze sponge,sponge,9
+P02_108_314,47972,throw sponge,sponge,9
+P02_108_315,48195,open tap,tap,0
+P02_108_316,48283,rinse hands,hand,11
+P02_108_317,48351,close tap,tap,0
+P02_108_318,48425,shake hands,hand,11
+P02_108_319,48532,dry hands using towel,hand,11
+P02_108_329,49740,open fridge,fridge,12
+P02_108_330,49802,open drawer,drawer,8
+P02_108_332,50050,close drawer,drawer,8
+P02_108_333,50085,close fridge,fridge,12
+P02_108_335,50573,open drawer,drawer,8
+P02_108_341,51583,open drawer,drawer,8
+P02_108_342,51634,get knife,knife,4
+P02_108_343,51673,close drawer,drawer,8
+P02_108_347,52303,put down knife,knife,4
+P02_108_36,3883,open cupboard,cupboard,3
+P02_108_38,4044,put bowls on floor,bowl,7
+P02_108_39,4112,return some bowls,bowl,7
+P02_108_395,57555,open cupboard,cupboard,3
+P02_108_396,57637,pick up glass,glass,10
+P02_108_397,57708,close cupboard,cupboard,3
+P02_108_399,57834,put down glass,glass,10
+P02_108_40,4184,pick up bowl from floor,bowl,7
+P02_108_401,58023,pour orange juice from bowl into glass,bowl,7
+P02_108_401,58023,pour orange juice from bowl into glass,glass,10
+P02_108_402,58199,open tap,tap,0
+P02_108_404,58379,close tap,tap,0
+P02_108_405,58629,sponge bowl,bowl,7
+P02_108_406,58861,put down sponge,sponge,9
+P02_108_407,58893,open tap,tap,0
+P02_108_408,58986,rinse bowl,bowl,7
+P02_108_409,59086,close tap,tap,0
+P02_108_41,4206,close cupboard,cupboard,3
+P02_108_410,59199,put down bowl,bowl,7
+P02_108_413,59444,open tap,tap,0
+P02_108_414,59609,rinse part,tap,0
+P02_108_415,59771,close tap,tap,0
+P02_108_42,4302,put down bowl,bowl,7
+P02_108_421,60386,open tap,tap,0
+P02_108_423,60917,close tap,tap,0
+P02_108_424,61007,pick up sponge,sponge,9
+P02_108_425,61058,squeeze sponge,sponge,9
+P02_108_427,61189,pour washing liquid onto sponge,sponge,9
+P02_108_43,4561,open cupboard,cupboard,3
+P02_108_430,61876,put down sponge,sponge,9
+P02_108_431,61914,open tap,tap,0
+P02_108_433,62377,close tap,tap,0
+P02_108_437,62606,put down sponge,sponge,9
+P02_108_438,62650,open tap,tap,0
+P02_108_439,62727,rinse part,tap,0
+P02_108_44,4636,pick up glass,glass,10
+P02_108_440,62804,close tap,tap,0
+P02_108_443,63472,open tap,tap,0
+P02_108_444,63540,rinse hands,hand,11
+P02_108_445,63573,close tap,tap,0
+P02_108_446,63631,shake hands,hand,11
+P02_108_447,63776,dry hands using towel,hand,11
+P02_108_45,4668,close cupboard,cupboard,3
+P02_108_46,4780,put glass inside bowl,glass,10
+P02_108_46,4780,put glass inside bowl,bowl,7
+P02_108_49,4980,pour flour from bag into glass,glass,10
+P02_108_50,5214,pour flour from glass into bowl,glass,10
+P02_108_50,5214,pour flour from glass into bowl,bowl,7
+P02_108_51,5330,return glass to bowl,glass,10
+P02_108_51,5330,return glass to bowl,bowl,7
+P02_108_52,5491,pour flour from bag into glass,glass,10
+P02_108_53,5722,pour flour from glass into bowl,glass,10
+P02_108_53,5722,pour flour from glass into bowl,bowl,7
+P02_108_54,5896,put down glass,glass,10
+P02_108_58,6827,rub hands,hand,11
+P02_108_65,7618,open drawer,drawer,8
+P02_108_66,7691,pick up spoon,spoon,1
+P02_108_67,7747,close drawer,drawer,8
+P02_108_70,8012,pour yeast into bowl,bowl,7
+P02_108_72,8174,pour yeast into bowl,bowl,7
+P02_108_73,8214,put down spoon,spoon,1
+P02_108_74,8249,pick up lid,lid,6
+P02_108_76,8459,open fridge,fridge,12
+P02_108_77,8566,put tin in fridge,fridge,12
+P02_108_78,8666,close fridge,fridge,12
+P02_108_82,9153,pour sugar into bowl,bowl,7
+P02_108_84,9275,pour sugar into bowl,bowl,7
+P02_108_85,9347,pick up lid,lid,6
+P02_108_89,9773,open drawer,drawer,8
+P02_108_90,9839,pick up spoon,spoon,1
+P02_108_91,10014,pour salt into spoon,spoon,1
+P02_108_92,10145,pour salt from spoon into bowl,spoon,1
+P02_108_92,10145,pour salt from spoon into bowl,bowl,7
+P02_108_93,10207,put down spoon,spoon,1
+P02_108_97,10617,open tap,tap,0
+P02_108_99,10745,close tap,tap,0

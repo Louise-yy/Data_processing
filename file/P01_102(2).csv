@@ -1,0 +1,88 @@
+narration_id,stop_frame,narration,all_nouns,all_noun_classes
+P01_102_0,P01_102_69.jpg,take knife and plate,knife,4
+P01_102_0,P01_102_69.jpg,take knife and plate,plate,2
+P01_102_1,P01_102_413.jpg,move spatula and colander,spatula,20
+P01_102_10,P01_102_1512.jpg,take knife,knife,4
+P01_102_101,P01_102_11290.jpg,move glass,glass,10
+P01_102_106,P01_102_11774.jpg,move lid,lid,6
+P01_102_108,P01_102_11918.jpg,wipe hand,hand,11
+P01_102_109,P01_102_11999.jpg,put down cloth,cloth,17
+P01_102_11,P01_102_1705.jpg,wash knife,knife,4
+P01_102_110,P01_102_12037.jpg,pour washing up liquid into hand,hand,11
+P01_102_111,P01_102_12085.jpg,wash hands,hand,11
+P01_102_112,P01_102_12125.jpg,turn off tap,tap,0
+P01_102_113,P01_102_12316.jpg,rinse hands,hand,11
+P01_102_114,P01_102_12336.jpg,rinse hands,hand,11
+P01_102_115,P01_102_12543.jpg,turn off tap,tap,0
+P01_102_117,P01_102_12903.jpg,dry hands,hand,11
+P01_102_118,P01_102_12930.jpg,dry hands,hand,11
+P01_102_12,P01_102_1879.jpg,put down knife,knife,4
+P01_102_120,P01_102_13210.jpg,take lid,lid,6
+P01_102_121,P01_102_13232.jpg,put lid onto container,lid,6
+P01_102_121,P01_102_13232.jpg,put lid onto container,container,21
+P01_102_122,P01_102_13366.jpg,close lid,lid,6
+P01_102_123,P01_102_13501.jpg,take container,container,21
+P01_102_124,P01_102_13538.jpg,open fridge,fridge,12
+P01_102_125,P01_102_13573.jpg,put container into fridge,container,21
+P01_102_125,P01_102_13573.jpg,put container into fridge,fridge,12
+P01_102_126,P01_102_13628.jpg,close fridge,fridge,12
+P01_102_13,P01_102_1903.jpg,take fork,fork,14
+P01_102_14,P01_102_2005.jpg,wash fork,fork,14
+P01_102_15,P01_102_2097.jpg,put down fork,fork,14
+P01_102_16,P01_102_2141.jpg,take plate,plate,2
+P01_102_17,P01_102_2178.jpg,turn on tap,tap,0
+P01_102_18,P01_102_2215.jpg,turn off tap,tap,0
+P01_102_19,P01_102_2410.jpg,wash plate,plate,2
+P01_102_20,P01_102_2642.jpg,wash plate,plate,2
+P01_102_21,P01_102_2751.jpg,take knife,knife,4
+P01_102_22,P01_102_2763.jpg,put down knife,knife,4
+P01_102_24,P01_102_2818.jpg,put down plate,plate,2
+P01_102_28,P01_102_3484.jpg,turn on tap,tap,0
+P01_102_29,P01_102_3532.jpg,rinse hands,hand,11
+P01_102_3,P01_102_575.jpg,take knife,knife,4
+P01_102_30,P01_102_3576.jpg,take spatula,spatula,20
+P01_102_31,P01_102_3722.jpg,rinse spatula,spatula,20
+P01_102_32,P01_102_4030.jpg,rinse spatula,spatula,20
+P01_102_33,P01_102_4237.jpg,put down spatula,spatula,20
+P01_102_34,P01_102_4315.jpg,take fork,fork,14
+P01_102_35,P01_102_4369.jpg,rinse fork,fork,14
+P01_102_36,P01_102_4544.jpg,take knife,knife,4
+P01_102_37,P01_102_4464.jpg,put down fork,fork,14
+P01_102_38,P01_102_4593.jpg,rinse knife,knife,4
+P01_102_39,P01_102_4708.jpg,put down knife,knife,4
+P01_102_43,P01_102_5399.jpg,turn off tap,tap,0
+P01_102_44,P01_102_5527.jpg,adjust tap,tap,0
+P01_102_45,P01_102_5475.jpg,take plate,plate,2
+P01_102_46,P01_102_5639.jpg,rinse plate,plate,2
+P01_102_47,P01_102_5414.jpg,adjust tap,tap,0
+P01_102_48,P01_102_5591.jpg,rinse plate,plate,2
+P01_102_49,P01_102_5665.jpg,rinse plate,plate,2
+P01_102_5,P01_102_710.jpg,put down plate,plate,2
+P01_102_50,P01_102_5728.jpg,turn off tap,tap,0
+P01_102_51,P01_102_5843.jpg,put down plate,plate,2
+P01_102_54,P01_102_6199.jpg,take sponge,sponge,9
+P01_102_61,P01_102_7806.jpg,turn on tap,tap,0
+P01_102_62,P01_102_7849.jpg,rinse hands,hand,11
+P01_102_64,P01_102_8099.jpg,take sponge,sponge,9
+P01_102_67,P01_102_8688.jpg,put down sponge,sponge,9
+P01_102_7,P01_102_821.jpg,take sponge,sponge,9
+P01_102_71,P01_102_9170.jpg,take cloth,cloth,17
+P01_102_72,P01_102_9266.jpg,rinse cloth,cloth,17
+P01_102_74,P01_102_9486.jpg,rinse cloth,cloth,17
+P01_102_76,P01_102_9885.jpg,rinse cloth,cloth,17
+P01_102_78,P01_102_9641.jpg,rinse cloth,cloth,17
+P01_102_8,P01_102_1157.jpg,wash spatula,spatula,20
+P01_102_80,P01_102_9823.jpg,take sponge,sponge,9
+P01_102_81,P01_102_9880.jpg,rinse sponge,sponge,9
+P01_102_82,P01_102_9946.jpg,put down sponge,sponge,9
+P01_102_83,P01_102_9989.jpg,rinse cloth,cloth,17
+P01_102_84,P01_102_10053.jpg,adjust tap,tap,0
+P01_102_85,P01_102_10082.jpg,turn off tap,tap,0
+P01_102_89,P01_102_10481.jpg,take fork,fork,14
+P01_102_9,P01_102_1491.jpg,put down spatula,spatula,20
+P01_102_90,P01_102_10628.jpg,put down fork,fork,14
+P01_102_91,P01_102_10756.jpg,take food and fork,fork,14
+P01_102_92,P01_102_10808.jpg,put down food and fork,fork,14
+P01_102_95,P01_102_11054.jpg,take cloth,cloth,17
+P01_102_97,P01_102_11110.jpg,move container while wiping surface,container,21
+P01_102_98,P01_102_11156.jpg,put down container,container,21

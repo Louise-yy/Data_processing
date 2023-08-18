@@ -1,0 +1,88 @@
+narration_id,stop_frame,narration,all_nouns,all_noun_classes
+P01_102_0,69,take knife and plate,knife,4
+P01_102_0,69,take knife and plate,plate,2
+P01_102_1,413,move spatula and colander,spatula,20
+P01_102_10,1512,take knife,knife,4
+P01_102_101,11290,move glass,glass,10
+P01_102_106,11774,move lid,lid,6
+P01_102_108,11918,wipe hand,hand,11
+P01_102_109,11999,put down cloth,cloth,17
+P01_102_11,1705,wash knife,knife,4
+P01_102_110,12037,pour washing up liquid into hand,hand,11
+P01_102_111,12085,wash hands,hand,11
+P01_102_112,12125,turn off tap,tap,0
+P01_102_113,12316,rinse hands,hand,11
+P01_102_114,12336,rinse hands,hand,11
+P01_102_115,12543,turn off tap,tap,0
+P01_102_117,12903,dry hands,hand,11
+P01_102_118,12930,dry hands,hand,11
+P01_102_12,1879,put down knife,knife,4
+P01_102_120,13210,take lid,lid,6
+P01_102_121,13232,put lid onto container,lid,6
+P01_102_121,13232,put lid onto container,container,21
+P01_102_122,13366,close lid,lid,6
+P01_102_123,13501,take container,container,21
+P01_102_124,13538,open fridge,fridge,12
+P01_102_125,13573,put container into fridge,container,21
+P01_102_125,13573,put container into fridge,fridge,12
+P01_102_126,13628,close fridge,fridge,12
+P01_102_13,1903,take fork,fork,14
+P01_102_14,2005,wash fork,fork,14
+P01_102_15,2097,put down fork,fork,14
+P01_102_16,2141,take plate,plate,2
+P01_102_17,2178,turn on tap,tap,0
+P01_102_18,2215,turn off tap,tap,0
+P01_102_19,2410,wash plate,plate,2
+P01_102_20,2642,wash plate,plate,2
+P01_102_21,2751,take knife,knife,4
+P01_102_22,2763,put down knife,knife,4
+P01_102_24,2818,put down plate,plate,2
+P01_102_28,3484,turn on tap,tap,0
+P01_102_29,3532,rinse hands,hand,11
+P01_102_3,575,take knife,knife,4
+P01_102_30,3576,take spatula,spatula,20
+P01_102_31,3722,rinse spatula,spatula,20
+P01_102_32,4030,rinse spatula,spatula,20
+P01_102_33,4237,put down spatula,spatula,20
+P01_102_34,4315,take fork,fork,14
+P01_102_35,4369,rinse fork,fork,14
+P01_102_36,4544,take knife,knife,4
+P01_102_37,4464,put down fork,fork,14
+P01_102_38,4593,rinse knife,knife,4
+P01_102_39,4708,put down knife,knife,4
+P01_102_43,5399,turn off tap,tap,0
+P01_102_44,5527,adjust tap,tap,0
+P01_102_45,5475,take plate,plate,2
+P01_102_46,5639,rinse plate,plate,2
+P01_102_47,5414,adjust tap,tap,0
+P01_102_48,5591,rinse plate,plate,2
+P01_102_49,5665,rinse plate,plate,2
+P01_102_5,710,put down plate,plate,2
+P01_102_50,5728,turn off tap,tap,0
+P01_102_51,5843,put down plate,plate,2
+P01_102_54,6199,take sponge,sponge,9
+P01_102_61,7806,turn on tap,tap,0
+P01_102_62,7849,rinse hands,hand,11
+P01_102_64,8099,take sponge,sponge,9
+P01_102_67,8688,put down sponge,sponge,9
+P01_102_7,821,take sponge,sponge,9
+P01_102_71,9170,take cloth,cloth,17
+P01_102_72,9266,rinse cloth,cloth,17
+P01_102_74,9486,rinse cloth,cloth,17
+P01_102_76,9885,rinse cloth,cloth,17
+P01_102_78,9641,rinse cloth,cloth,17
+P01_102_8,1157,wash spatula,spatula,20
+P01_102_80,9823,take sponge,sponge,9
+P01_102_81,9880,rinse sponge,sponge,9
+P01_102_82,9946,put down sponge,sponge,9
+P01_102_83,9989,rinse cloth,cloth,17
+P01_102_84,10053,adjust tap,tap,0
+P01_102_85,10082,turn off tap,tap,0
+P01_102_89,10481,take fork,fork,14
+P01_102_9,1491,put down spatula,spatula,20
+P01_102_90,10628,put down fork,fork,14
+P01_102_91,10756,take food and fork,fork,14
+P01_102_92,10808,put down food and fork,fork,14
+P01_102_95,11054,take cloth,cloth,17
+P01_102_97,11110,move container while wiping surface,container,21
+P01_102_98,11156,put down container,container,21

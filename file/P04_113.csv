@@ -1,0 +1,243 @@
+narration_id,stop_frame,narration,all_nouns,all_noun_classes
+P04_113_100,9805,put spoon in drawer,spoon,1
+P04_113_100,9805,put spoon in drawer,drawer,8
+P04_113_101,9896,put spoon in drawer,spoon,1
+P04_113_101,9896,put spoon in drawer,drawer,8
+P04_113_102,9956,put spoon in drawer,spoon,1
+P04_113_102,9956,put spoon in drawer,drawer,8
+P04_113_103,10038,put spoon in drawer,spoon,1
+P04_113_103,10038,put spoon in drawer,drawer,8
+P04_113_104,10092,put knife in drawer,knife,4
+P04_113_104,10092,put knife in drawer,drawer,8
+P04_113_105,10184,take spoon out of cutlery tray,spoon,1
+P04_113_106,10254,put spoon in drawer,spoon,1
+P04_113_106,10254,put spoon in drawer,drawer,8
+P04_113_107,10282,put teaspoon in drawer,drawer,8
+P04_113_108,10376,put knife in drawer,knife,4
+P04_113_108,10376,put knife in drawer,drawer,8
+P04_113_109,10489,put knife in knife rack,knife,4
+P04_113_110,10622,put fork in drawer,fork,14
+P04_113_110,10622,put fork in drawer,drawer,8
+P04_113_111,10746,put spoon in drawer,spoon,1
+P04_113_111,10746,put spoon in drawer,drawer,8
+P04_113_112,10849,put teaspoon in drawer,drawer,8
+P04_113_113,10949,put teaspoon in drawer,drawer,8
+P04_113_114,11084,put teaspoons in drawer,drawer,8
+P04_113_118,11480,put measuring spoon in drawer,drawer,8
+P04_113_120,11651,put garlic press inside in drawer,drawer,8
+P04_113_122,11710,close drawer,drawer,8
+P04_113_123,11738,open drawer,drawer,8
+P04_113_124,11795,put knife in drawer,knife,4
+P04_113_124,11795,put knife in drawer,drawer,8
+P04_113_125,11852,put knife in drawer,knife,4
+P04_113_125,11852,put knife in drawer,drawer,8
+P04_113_127,11932,put garlic press in drawer,drawer,8
+P04_113_128,11991,put fork in drawer,fork,14
+P04_113_128,11991,put fork in drawer,drawer,8
+P04_113_129,12053,put teaspoon in drawer,drawer,8
+P04_113_130,12198,close drawer,drawer,8
+P04_113_132,12418,pick up fork,fork,14
+P04_113_133,12492,put fork in dishwasher,fork,14
+P04_113_135,12690,take spoons from ramekin,spoon,1
+P04_113_136,12784,put spoons in cutlery tray,spoon,1
+P04_113_139,12987,pick up plate,plate,2
+P04_113_141,13178,put plate in dishwasher,plate,2
+P04_113_142,13312,pick up plates,plate,2
+P04_113_143,13475,put plate in dishwasher,plate,2
+P04_113_144,13559,pick up spoon,spoon,1
+P04_113_145,13596,put spoon in cutlery tray,spoon,1
+P04_113_146,13657,put plate in dishwasher,plate,2
+P04_113_147,13815,pick up knife and fork,knife,4
+P04_113_147,13815,pick up knife and fork,fork,14
+P04_113_148,13889,put knife and fork in cutlery tray,knife,4
+P04_113_148,13889,put knife and fork in cutlery tray,fork,14
+P04_113_151,14130,pick up fork,fork,14
+P04_113_153,14172,put fork in cutlery tray,fork,14
+P04_113_154,14226,pick up plate,plate,2
+P04_113_155,14404,put plate in dishwasher,plate,2
+P04_113_156,14706,put plate in dishwasher,plate,2
+P04_113_157,14555,pick up plate,plate,2
+P04_113_159,14671,put plate in dishwasher,plate,2
+P04_113_16,2541,pick up spatula,spatula,20
+P04_113_162,14914,put lid in frying pan,lid,6
+P04_113_163,15013,pick up pan,pan,5
+P04_113_17,2639,open drawer,drawer,8
+P04_113_173,15917,turn on tap,tap,0
+P04_113_175,16132,turn off tap,tap,0
+P04_113_18,2717,close drawer,drawer,8
+P04_113_184,17119,put lid on rice cooker,lid,6
+P04_113_19,2758,open drawer,drawer,8
+P04_113_20,2801,put spatula in drawer,spatula,20
+P04_113_20,2801,put spatula in drawer,drawer,8
+P04_113_21,2855,close drawer,drawer,8
+P04_113_213,19856,pick up spoon and fork,spoon,1
+P04_113_213,19856,pick up spoon and fork,fork,14
+P04_113_214,19900,pick up fork,fork,14
+P04_113_215,19962,pick up spoon,spoon,1
+P04_113_217,20316,pick up spoons,spoon,1
+P04_113_218,20369,empty water from spoons,spoon,1
+P04_113_22,2855,pick up knife,knife,4
+P04_113_224,20847,take spoon out of jar,spoon,1
+P04_113_225,21013,put spoon in cutlery tray,spoon,1
+P04_113_23,2919,put knife in knife rack,knife,4
+P04_113_236,21682,turn on tap,tap,0
+P04_113_25,3090,pick up tupperware pot and lid,lid,6
+P04_113_250,23365,turn off tap,tap,0
+P04_113_251,23416,turn on tap,tap,0
+P04_113_254,23624,turn off tap,tap,0
+P04_113_257,23757,wipe hands with tea towel,hand,11
+P04_113_26,3138,put lid on tupperware,lid,6
+P04_113_265,24615,pick up spatula,spatula,20
+P04_113_267,24653,put spatula in dishwasher drawer,spatula,20
+P04_113_275,25283,pick up bowl,bowl,7
+P04_113_277,25603,scrape flour out of bowl and into food bin,bowl,7
+P04_113_279,25873,turn on tap,tap,0
+P04_113_280,25919,put bowl in sink,bowl,7
+P04_113_281,25918,fill bowl with water,bowl,7
+P04_113_283,25995,squirt washing up liquid into bowl,bowl,7
+P04_113_286,26388,open cupboard,cupboard,3
+P04_113_287,26429,put soya sauce in cupboard,cupboard,3
+P04_113_289,26563,put sesame oil in cupboard,cupboard,3
+P04_113_290,26617,close cupboard,cupboard,3
+P04_113_293,26893,open fridge,fridge,12
+P04_113_294,26998,put coriander in fridge,fridge,12
+P04_113_295,27135,close fridge,fridge,12
+P04_113_303,28047,wipe hands with tea towel,hand,11
+P04_113_306,28216,turn off tap,tap,0
+P04_113_31,3473,shake lid,lid,6
+P04_113_319,29906,pick up sponge,sponge,9
+P04_113_32,3541,hit lid on dishwasher drawer,lid,6
+P04_113_320,29990,wet sponge,sponge,9
+P04_113_322,30229,put down sponge,sponge,9
+P04_113_323,30306,turn on tap,tap,0
+P04_113_324,30405,rinse spoon,spoon,1
+P04_113_325,30522,put down spoon on counter,spoon,1
+P04_113_326,30618,pick up sponge,sponge,9
+P04_113_329,30805,wash teaspoon with sponge,sponge,9
+P04_113_33,3625,put lid on tupperware,lid,6
+P04_113_335,31358,turn off tap,tap,0
+P04_113_339,32507,dip sponge in water,sponge,9
+P04_113_341,32654,turn on tap,tap,0
+P04_113_346,33093,turn off tap,tap,0
+P04_113_348,33211,turn on tap,tap,0
+P04_113_349,33250,rinse spoon,spoon,1
+P04_113_350,33288,pick up sponge,sponge,9
+P04_113_351,33361,wash spoon,spoon,1
+P04_113_352,33424,rinse spoon,spoon,1
+P04_113_353,33501,turn off tap,tap,0
+P04_113_354,33547,shake spoon,spoon,1
+P04_113_356,33860,dry spoon,spoon,1
+P04_113_359,34345,dry spoon,spoon,1
+P04_113_360,34456,open drawer,drawer,8
+P04_113_361,34495,put spoon in drawer,spoon,1
+P04_113_361,34495,put spoon in drawer,drawer,8
+P04_113_362,34518,close drawer,drawer,8
+P04_113_367,35156,pick up spoons,spoon,1
+P04_113_368,35284,dry spoons,spoon,1
+P04_113_369,35435,open drawer,drawer,8
+P04_113_37,3833,put tupperware in cupboard,cupboard,3
+P04_113_370,35488,put spoons in drawer,spoon,1
+P04_113_370,35488,put spoons in drawer,drawer,8
+P04_113_371,35567,close drawer,drawer,8
+P04_113_373,35690,open cupboard,cupboard,3
+P04_113_374,35765,put tupperware tub in cupboard,cupboard,3
+P04_113_375,35835,close cupboard,cupboard,3
+P04_113_39,3965,throw tupperware into cupboard,cupboard,3
+P04_113_392,37404,pick up sponge,sponge,9
+P04_113_393,37455,dip sponge in water,sponge,9
+P04_113_394,37529,tip bowl to empty water from bowl,bowl,7
+P04_113_394,37529,tip bowl to empty water from bowl,bowl,7
+P04_113_395,37692,wash bowl,bowl,7
+P04_113_396,37822,put down sponge,sponge,9
+P04_113_397,37902,turn on tap,tap,0
+P04_113_398,38178,rinse bowl,bowl,7
+P04_113_399,38464,put down bowl,bowl,7
+P04_113_4,680,turn on tap,tap,0
+P04_113_40,3987,throw lid into cupboard,lid,6
+P04_113_40,3987,throw lid into cupboard,cupboard,3
+P04_113_400,38520,turn off tap,tap,0
+P04_113_401,38585,pick up knife,knife,4
+P04_113_402,38621,pick up sponge,sponge,9
+P04_113_403,38816,wash knife,knife,4
+P04_113_404,39019,put down sponge,sponge,9
+P04_113_405,39058,shake hand,hand,11
+P04_113_407,39384,dry knife,knife,4
+P04_113_409,39723,put knife in knife rack,knife,4
+P04_113_411,39942,open cupboard,cupboard,3
+P04_113_412,39984,chuck peanut packet into cupboard,cupboard,3
+P04_113_419,40612,turn on tap,tap,0
+P04_113_421,40702,turn off tap,tap,0
+P04_113_426,41123,open drawer,drawer,8
+P04_113_427,41062,put scraper in drawer,drawer,8
+P04_113_428,41129,close drawer,drawer,8
+P04_113_429,41194,pick up bowl with dough,bowl,7
+P04_113_429,41194,pick up bowl with dough,dough,25
+P04_113_430,41315,put down bowl,bowl,7
+P04_113_444,44884,pick up sponge,sponge,9
+P04_113_445,44934,turn on tap,tap,0
+P04_113_446,45019,squeeze sponge,sponge,9
+P04_113_449,46088,put down sponge,sponge,9
+P04_113_450,46201,dry hands on tea towel,hand,11
+P04_113_467,49643,separate dough from tea towel,dough,25
+P04_113_468,49809,feel dough,dough,25
+P04_113_469,49963,pick up bowl,bowl,7
+P04_113_470,50040,tip bowl,bowl,7
+P04_113_471,50135,tip bowl,bowl,7
+P04_113_472,50205,jiggle dough in bowl,dough,25
+P04_113_472,50205,jiggle dough in bowl,bowl,7
+P04_113_473,50292,put down bowl,bowl,7
+P04_113_474,50417,pick up bowl,bowl,7
+P04_113_475,50514,move tea towel from under bowl,bowl,7
+P04_113_476,50572,put down bowl,bowl,7
+P04_113_478,51257,open drawer,drawer,8
+P04_113_48,4785,lay cling film over dough,dough,25
+P04_113_481,51364,pick up knife,knife,4
+P04_113_482,51410,take sheath off knife,knife,4
+P04_113_483,51492,put knife into sheath,knife,4
+P04_113_484,51582,put down knife,knife,4
+P04_113_49,4901,open cupboard,cupboard,3
+P04_113_497,56838,take pan out of oven,pan,5
+P04_113_50,4993,put mug in cupboard,cupboard,3
+P04_113_504,57602,empty dough onto cast iron pan,dough,25
+P04_113_505,57791,pick up knife,knife,4
+P04_113_506,57836,unsheathe knife,knife,4
+P04_113_507,58045,score dough,dough,25
+P04_113_508,58287,score dough,dough,25
+P04_113_509,58546,sheathe knife,knife,4
+P04_113_510,58668,take sheath off knife,knife,4
+P04_113_511,58656,sheathe knife,knife,4
+P04_113_55,5505,pick up bowl,bowl,7
+P04_113_56,5656,stack bowls,bowl,7
+P04_113_58,5775,put bowls on plate in cupboard,bowl,7
+P04_113_58,5775,put bowls on plate in cupboard,plate,2
+P04_113_58,5775,put bowls on plate in cupboard,cupboard,3
+P04_113_6,867,turn off tap,tap,0
+P04_113_60,5970,open cupboard,cupboard,3
+P04_113_61,6053,put saucepan in cupboard,cupboard,3
+P04_113_64,6345,put glass mug in cupboard,cupboard,3
+P04_113_66,6545,open cupboard,cupboard,3
+P04_113_67,6573,throw cheese grater into cupboard,cupboard,3
+P04_113_68,6651,close cupboard,cupboard,3
+P04_113_71,6911,put plate bowls in cupboard,cupboard,3
+P04_113_73,7205,open cupboard,cupboard,3
+P04_113_74,7247,put frying pan in cupboard,cupboard,3
+P04_113_75,7344,close cupboard,cupboard,3
+P04_113_77,7450,open drawer,drawer,8
+P04_113_78,7494,put spoon in drawer,spoon,1
+P04_113_78,7494,put spoon in drawer,drawer,8
+P04_113_79,7531,close drawer,drawer,8
+P04_113_86,8088,open cupboard,cupboard,3
+P04_113_87,8140,put colander in cupboard,cupboard,3
+P04_113_88,8218,close cupboard,cupboard,3
+P04_113_89,8340,pick up glass,glass,10
+P04_113_91,8519,put glass in cupboard,glass,10
+P04_113_91,8519,put glass in cupboard,cupboard,3
+P04_113_93,8794,pick up bowl,bowl,7
+P04_113_94,9006,try to put bowl in cupboard,bowl,7
+P04_113_94,9006,try to put bowl in cupboard,cupboard,3
+P04_113_95,9147,pick up bowls from cupboard,bowl,7
+P04_113_95,9147,pick up bowls from cupboard,cupboard,3
+P04_113_96,9342,stack bowls,bowl,7
+P04_113_97,9332,put bowls into cupboard,bowl,7
+P04_113_97,9332,put bowls into cupboard,cupboard,3
+P04_113_99,9735,open drawer,drawer,8
